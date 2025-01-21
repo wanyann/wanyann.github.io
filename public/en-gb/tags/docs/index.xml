@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docs on Ergohaven&#39;s journey</title>
-    <link>http://localhost:1313/en-gb/tags/docs/</link>
+    <link>https://blog.ergohaven.xyz/en-gb/tags/docs/</link>
     <description>Recent content in Docs on Ergohaven&#39;s journey</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://localhost:1313/en-gb/tags/docs/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://blog.ergohaven.xyz/en-gb/tags/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>High Plains Drifter</title>
-      <link>http://localhost:1313/en-gb/pages/docs/hpd/</link>
+      <link>https://blog.ergohaven.xyz/en-gb/pages/docs/hpd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en-gb/pages/docs/hpd/</guid>
+      <guid>https://blog.ergohaven.xyz/en-gb/pages/docs/hpd/</guid>
       
       <description>Connection Before connecting the keyboard to the computer, make sure that the USB-C cable is firmly connected to the connectors on both halves When connecting the keyboard to the computer, make sure the USB-C cable is firmly inserted into the connector Customizing keyboard Please refer to the Vial guide
 Caps Word function Press LShift and RShift simultaneously to activate Caps Word. This function allows you to type entire words in uppercase letters without holding down the Caps Lock key.</description>
@@ -20,10 +20,10 @@ Caps Word function Press LShift and RShift simultaneously to activate Caps Word.
     
     <item>
       <title>Imperial44</title>
-      <link>http://localhost:1313/en-gb/pages/docs/imperial44/</link>
+      <link>https://blog.ergohaven.xyz/en-gb/pages/docs/imperial44/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en-gb/pages/docs/imperial44/</guid>
+      <guid>https://blog.ergohaven.xyz/en-gb/pages/docs/imperial44/</guid>
       
       <description>Connection Before connecting the keyboard to the computer, make sure that the USB-C cable is firmly connected to the connectors on both halves When connecting the keyboard to the computer, make sure the USB-C cable is firmly inserted into the connector Customizing keyboard Please refer to the Vial guide
 Caps Word function Press LShift and RShift simultaneously to activate Caps Word. This function allows you to type entire words in uppercase letters without holding down the Caps Lock key.</description>
@@ -32,10 +32,10 @@ Caps Word function Press LShift and RShift simultaneously to activate Caps Word.
     
     <item>
       <title>K:02</title>
-      <link>http://localhost:1313/en-gb/pages/docs/k02/</link>
+      <link>https://blog.ergohaven.xyz/en-gb/pages/docs/k02/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en-gb/pages/docs/k02/</guid>
+      <guid>https://blog.ergohaven.xyz/en-gb/pages/docs/k02/</guid>
       
       <description>Connection Before connecting the keyboard to the computer, make sure that the USB-C cable is firmly connected to the connectors on both halves When connecting the keyboard to the computer, make sure the USB-C cable is firmly inserted into the connector Customizing keyboard Please refer to the Vial guide
 Caps Word function Press LShift and RShift simultaneously to activate Caps Word. This function allows you to type entire words in uppercase letters without holding down the Caps Lock key.</description>
@@ -44,10 +44,10 @@ Caps Word function Press LShift and RShift simultaneously to activate Caps Word.
     
     <item>
       <title>K:03</title>
-      <link>http://localhost:1313/en-gb/pages/docs/k03/</link>
+      <link>https://blog.ergohaven.xyz/en-gb/pages/docs/k03/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en-gb/pages/docs/k03/</guid>
+      <guid>https://blog.ergohaven.xyz/en-gb/pages/docs/k03/</guid>
       
       <description>Connection Before connecting the keyboard to the computer, make sure that the USB-C cable is firmly connected to the connectors on both halves When connecting the keyboard to the computer, make sure the USB-C cable is firmly inserted into the connector Customizing keyboard Please refer to the Vial guide
 Caps Word function Press LShift and RShift simultaneously to activate Caps Word. This function allows you to type entire words in uppercase letters without holding down the Caps Lock key.</description>
@@ -56,10 +56,10 @@ Caps Word function Press LShift and RShift simultaneously to activate Caps Word.
     
     <item>
       <title>K:03 PRO</title>
-      <link>http://localhost:1313/en-gb/pages/docs/k03pro/</link>
+      <link>https://blog.ergohaven.xyz/en-gb/pages/docs/k03pro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en-gb/pages/docs/k03pro/</guid>
+      <guid>https://blog.ergohaven.xyz/en-gb/pages/docs/k03pro/</guid>
       
       <description>Connection Before connecting the keyboard to the computer, make sure that the USB-C cable is firmly connected to the connectors on both halves When connecting the keyboard to the computer, make sure the USB-C cable is firmly inserted into the connector Customizing keyboard Please refer to the Vial guide
 Caps Word function Press LShift and RShift simultaneously to activate Caps Word. This function allows you to type entire words in uppercase letters without holding down the Caps Lock key.</description>
@@ -67,27 +67,53 @@ Caps Word function Press LShift and RShift simultaneously to activate Caps Word.
     </item>
     
     <item>
-      <title>Planeta</title>
-      <link>http://localhost:1313/en-gb/pages/docs/planeta/</link>
+      <title>M4CR0Pad</title>
+      <link>https://blog.ergohaven.xyz/en-gb/pages/docs/macropad/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en-gb/pages/docs/planeta/</guid>
+      <guid>https://blog.ergohaven.xyz/en-gb/pages/docs/macropad/</guid>
+      
+      <description>
+Connection When connecting the macropad to the computer, make sure the USB-C cable is firmly inserted into the connector Customizing device Please refer to the Vial guide
+Firmware update Preparation Download the latest firmware here Save your layout in the Vial program by clicking on the File menu, then Save current layout Installation Hold the top left key and connect the USB cable Wait until the controller enters bootloader mode and the storage folder opens Copy or drag the Uf2 file, after which the controller should instantly reboot and start working in normal mode Import the layout into the Vial program by clicking on the File menu, then Load saved layout </description>
+      
+    </item>
+    
+    <item>
+      <title>Planeta</title>
+      <link>https://blog.ergohaven.xyz/en-gb/pages/docs/planeta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.ergohaven.xyz/en-gb/pages/docs/planeta/</guid>
       
       <description>Connection When connecting the keyboard to the computer, make sure the USB-C cable is firmly inserted into the connector Customizing keyboard Please refer to the Vial guide
-Функция Caps Word Одновременное нажатие клавиш LShift и RShift активирует Caps Word. Эта функция позволяет набирать слова заглавными буквами, не используя клавишу Caps Lock. Caps Word автоматически отключается в конце слова
-Переключение Win/Mac режимов Для переключения необходимо нажать клавишу Замена Ctrl-Cmd для MacOS на третьем слое</description>
+Caps Word function Press LShift and RShift simultaneously to activate Caps Word. This function allows you to type entire words in uppercase letters without holding down the Caps Lock key. Caps Word is automatically disabled at the end of a word
+Win/Mac mode To switch the mode, you must press the Replacement Ctrl-Cmd for MacOS key on the third layer</description>
+      
+    </item>
+    
+    <item>
+      <title>Trackball Mini</title>
+      <link>https://blog.ergohaven.xyz/en-gb/pages/docs/tb-mini/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.ergohaven.xyz/en-gb/pages/docs/tb-mini/</guid>
+      
+      <description>
+Connection When connecting the keyboard to the computer, make sure the USB-C cable is firmly inserted into the connector Customizing device Please refer to the Vial guide
+Firmware update Preparation Download the latest firmware here Save your layout in the Vial program by clicking on the &amp;ldquo;File&amp;rdquo; menu, then &amp;ldquo;Save current layout&amp;rdquo; Installation Press the top left key and connect USB Wait until the controller enters bootloader mode and the storage folder opens Copy or drag the Uf2 file, after which the controller should instantly reboot and start working as normal Import the layout into the Vial program by clicking on the &amp;ldquo;File&amp;rdquo; menu, then &amp;ldquo;Load saved layout&amp;rdquo; </description>
       
     </item>
     
     <item>
       <title>Velvet</title>
-      <link>http://localhost:1313/en-gb/pages/docs/velvet/</link>
+      <link>https://blog.ergohaven.xyz/en-gb/pages/docs/velvet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en-gb/pages/docs/velvet/</guid>
+      <guid>https://blog.ergohaven.xyz/en-gb/pages/docs/velvet/</guid>
       
       <description>Connection Before connecting the keyboard to the computer, make sure that the USB-C cable is firmly connected to the connectors on both halves When connecting the keyboard to the computer, make sure the USB-C cable is firmly inserted into the connector Customizing keyboard Please refer to the Vial guide
-Функция Caps Word Одновременное нажатие клавиш LShift и RShift активирует Caps Word. Эта функция позволяет набирать слова заглавными буквами, не используя клавишу Caps Lock.</description>
+Caps Word function Press LShift and RShift simultaneously to activate Caps Word. This function allows you to type entire words in uppercase letters without holding down the Caps Lock key.</description>
       
     </item>
     

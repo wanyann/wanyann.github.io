@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Velvet on Ergohaven&#39;s journey</title>
-    <link>http://localhost:1313/en-gb/tags/velvet/</link>
+    <link>https://blog.ergohaven.xyz/en-gb/tags/velvet/</link>
     <description>Recent content in Velvet on Ergohaven&#39;s journey</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://localhost:1313/en-gb/tags/velvet/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://blog.ergohaven.xyz/en-gb/tags/velvet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Velvet</title>
-      <link>http://localhost:1313/en-gb/pages/docs/velvet/</link>
+      <link>https://blog.ergohaven.xyz/en-gb/pages/docs/velvet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en-gb/pages/docs/velvet/</guid>
+      <guid>https://blog.ergohaven.xyz/en-gb/pages/docs/velvet/</guid>
       
       <description>Connection Before connecting the keyboard to the computer, make sure that the USB-C cable is firmly connected to the connectors on both halves When connecting the keyboard to the computer, make sure the USB-C cable is firmly inserted into the connector Customizing keyboard Please refer to the Vial guide
-Функция Caps Word Одновременное нажатие клавиш LShift и RShift активирует Caps Word. Эта функция позволяет набирать слова заглавными буквами, не используя клавишу Caps Lock.</description>
+Caps Word function Press LShift and RShift simultaneously to activate Caps Word. This function allows you to type entire words in uppercase letters without holding down the Caps Lock key.</description>
       
     </item>
     

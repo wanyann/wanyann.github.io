@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Домашняя on Ergohaven&#39;s journey</title>
-    <link>http://localhost:1313/</link>
+    <link>https://blog.ergohaven.xyz/</link>
     <description>Recent content in Домашняя on Ergohaven&#39;s journey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 08 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.ergohaven.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Режим RuEn</title>
-      <link>http://localhost:1313/pages/docs/ruen/</link>
+      <link>https://blog.ergohaven.xyz/pages/docs/ruen/</link>
       <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pages/docs/ruen/</guid>
+      <guid>https://blog.ergohaven.xyz/pages/docs/ruen/</guid>
       
       <description>Режим RuEn Этот режим предназначен для того, чтобы
 расположить знаки пунктуации в одних и тех же местах для русского и английского языка, вводить символы из английской раскладки при печати в русской, переключать раскладку на английскую или русскую отдельными клавишами. Это работает благодаря тому, что клавиатура помнит текущую раскладку, и при необходимости ввести символ, отсутствующий в русской раскладке, автоматически переключает раскладку, а после ввода символа возвращает раскладку обратно.
@@ -22,10 +22,10 @@
     
     <item>
       <title>Руководство по трекболу</title>
-      <link>http://localhost:1313/posts/trackball_mini/</link>
+      <link>https://blog.ergohaven.xyz/posts/trackball_mini/</link>
       <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/trackball_mini/</guid>
+      <guid>https://blog.ergohaven.xyz/posts/trackball_mini/</guid>
       
       <description>Предисловие Трекбол сам по себе хоть и выполняет ту же функцию управления курсором, что и мышка, но опыт использования этих двух устройств совершенно разный, и подходят они под совершенно разные задачи
 Ergohaven Trackball Mini
@@ -35,10 +35,10 @@ Ergohaven Trackball Mini
     
     <item>
       <title>Слой для запуска приложений</title>
-      <link>http://localhost:1313/posts/layer_for_apps/</link>
+      <link>https://blog.ergohaven.xyz/posts/layer_for_apps/</link>
       <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/layer_for_apps/</guid>
+      <guid>https://blog.ergohaven.xyz/posts/layer_for_apps/</guid>
       
       <description>Введение Долго пользовался рабочими столами в винде, очень зашли они, на одном столе открыл рабочий чат, на втором браузер, на третьем IDE и т.д., балдежно быстро переключаешься, не убирая руки с клавиатуры.
 В какой-то момент у меня было активно 6 рабочих столов, и чтобы переключиться с 6 на 1 надо жмать хоткей 6 раз&amp;hellip; а потом обратно еще 6.. Возникла мысль, может есть какой-то хоткей, чтобы переключиться именно на 6 стол?</description>
@@ -47,10 +47,10 @@ Ergohaven Trackball Mini
     
     <item>
       <title>Что такое переключатели и как их правильно выбрать</title>
-      <link>http://localhost:1313/posts/switches_guide/</link>
+      <link>https://blog.ergohaven.xyz/posts/switches_guide/</link>
       <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/switches_guide/</guid>
+      <guid>https://blog.ergohaven.xyz/posts/switches_guide/</guid>
       
       <description>Введение В этой статье опишу общую информацию о том, что такое переключатели, часто именуемые как свичи(от англ. switch), и попробую упростить муки выбора переключателей для покупки
 Прежде всего, что это вообще такое, как оно выглядит? Переключатели это механизмы каждой клавиши клавиатуры, на фото ниже они выделены красной рамкой.
@@ -60,10 +60,10 @@ Ergohaven Trackball Mini
     
     <item>
       <title>Как научиться печатать вслепую</title>
-      <link>http://localhost:1313/posts/touchtyping/</link>
+      <link>https://blog.ergohaven.xyz/posts/touchtyping/</link>
       <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/touchtyping/</guid>
+      <guid>https://blog.ergohaven.xyz/posts/touchtyping/</guid>
       
       <description>Предисловие Ни для кого не секрет, что в нашем магазине продаются кейкапы без символов, некоторые покупатели приходят в ступор и решают взять привычные кейкапы с символами. В данной статье мы расскажем, что такое touch typing (или слепая печать по-русски), а также почему стоит перейти на кейкапы без символов.
 Что такое слепая печать? Описание из википедии: Слепой метод печати — это метод набора текста, позволяющий печатать, не глядя на клавиши пишущей машинки или клавиатуры, используя все пальцы или их большую часть.</description>
@@ -72,10 +72,10 @@ Ergohaven Trackball Mini
     
     <item>
       <title>High Plains Drifter</title>
-      <link>http://localhost:1313/pages/docs/hpd/</link>
+      <link>https://blog.ergohaven.xyz/pages/docs/hpd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pages/docs/hpd/</guid>
+      <guid>https://blog.ergohaven.xyz/pages/docs/hpd/</guid>
       
       <description>Подключение Перед подключением клавиатуры к компьютеру, убедитесь, что USB-C кабель, соединяющий обе половинки между собой, плотно подключен в разъёмы на двух половинках При подключении клавиатуры к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем Настройка клавиатуры Пожалуйста перейдите в статью о программе Vial
 Функция Caps Word Одновременное нажатие клавиш LShift и RShift активирует Caps Word. Эта функция позволяет набирать слова заглавными буквами, не используя клавишу Caps Lock. Caps Word автоматически отключается в конце слова</description>
@@ -84,10 +84,10 @@ Ergohaven Trackball Mini
     
     <item>
       <title>Imperial44</title>
-      <link>http://localhost:1313/pages/docs/imperial44/</link>
+      <link>https://blog.ergohaven.xyz/pages/docs/imperial44/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pages/docs/imperial44/</guid>
+      <guid>https://blog.ergohaven.xyz/pages/docs/imperial44/</guid>
       
       <description>Подключение Перед подключением клавиатуры к компьютеру, убедитесь, что USB-C кабель, соединяющий обе половинки между собой, плотно подключен в разъёмы на двух половинках При подключении клавиатуры к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем Настройка клавиатуры Пожалуйста перейдите в статью о программе Vial
 Функция Caps Word Одновременное нажатие клавиш LShift и RShift активирует Caps Word. Эта функция позволяет набирать слова заглавными буквами, не используя клавишу Caps Lock. Caps Word автоматически отключается в конце слова</description>
@@ -96,10 +96,10 @@ Ergohaven Trackball Mini
     
     <item>
       <title>K:02</title>
-      <link>http://localhost:1313/pages/docs/k02/</link>
+      <link>https://blog.ergohaven.xyz/pages/docs/k02/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pages/docs/k02/</guid>
+      <guid>https://blog.ergohaven.xyz/pages/docs/k02/</guid>
       
       <description>Подключение Перед подключением клавиатуры к компьютеру, убедитесь, что USB-C кабель, соединяющий обе половинки между собой, плотно подключен в разъёмы на двух половинках При подключении клавиатуры к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем Настройка клавиатуры Пожалуйста перейдите в статью о программе Vial
 Функция Caps Word Одновременное нажатие клавиш LShift и RShift активирует Caps Word. Эта функция позволяет набирать слова заглавными буквами, не используя клавишу Caps Lock. Caps Word автоматически отключается в конце слова</description>
@@ -108,10 +108,10 @@ Ergohaven Trackball Mini
     
     <item>
       <title>K:03</title>
-      <link>http://localhost:1313/pages/docs/k03/</link>
+      <link>https://blog.ergohaven.xyz/pages/docs/k03/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pages/docs/k03/</guid>
+      <guid>https://blog.ergohaven.xyz/pages/docs/k03/</guid>
       
       <description>Подключение Перед подключением клавиатуры к компьютеру, убедитесь, что USB-C кабель, соединяющий обе половинки между собой, плотно подключен в разъёмы на двух половинках При подключении клавиатуры к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем Настройка клавиатуры Пожалуйста перейдите в статью о программе Vial
 Функция Caps Word Одновременное нажатие клавиш LShift и RShift активирует Caps Word. Эта функция позволяет набирать слова заглавными буквами, не используя клавишу Caps Lock. Caps Word автоматически отключается в конце слова</description>
@@ -120,10 +120,10 @@ Ergohaven Trackball Mini
     
     <item>
       <title>K:03 PRO</title>
-      <link>http://localhost:1313/pages/docs/k03pro/</link>
+      <link>https://blog.ergohaven.xyz/pages/docs/k03pro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pages/docs/k03pro/</guid>
+      <guid>https://blog.ergohaven.xyz/pages/docs/k03pro/</guid>
       
       <description>Подключение Перед подключением клавиатуры к компьютеру, убедитесь, что USB-C кабель, соединяющий обе половинки между собой, плотно подключен в разъёмы на двух половинках При подключении клавиатуры к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем Настройка клавиатуры Пожалуйста перейдите в статью о программе Vial
 Функция Caps Word Одновременное нажатие клавиш LShift и RShift активирует Caps Word. Эта функция позволяет набирать слова заглавными буквами, не используя клавишу Caps Lock. Caps Word автоматически отключается в конце слова</description>
@@ -132,10 +132,10 @@ Ergohaven Trackball Mini
     
     <item>
       <title>M4CR0Pad</title>
-      <link>http://localhost:1313/pages/docs/macropad/</link>
+      <link>https://blog.ergohaven.xyz/pages/docs/macropad/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pages/docs/macropad/</guid>
+      <guid>https://blog.ergohaven.xyz/pages/docs/macropad/</guid>
       
       <description>
 Подключение При подключении макропада к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем
@@ -146,10 +146,10 @@ Ergohaven Trackball Mini
     
     <item>
       <title>Planeta</title>
-      <link>http://localhost:1313/pages/docs/planeta/</link>
+      <link>https://blog.ergohaven.xyz/pages/docs/planeta/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pages/docs/planeta/</guid>
+      <guid>https://blog.ergohaven.xyz/pages/docs/planeta/</guid>
       
       <description>Подключение При подключении клавиатуры к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем
 Настройка клавиатуры Пожалуйста перейдите в статью о программе Vial
@@ -160,10 +160,10 @@ Ergohaven Trackball Mini
     
     <item>
       <title>Trackball Mini</title>
-      <link>http://localhost:1313/pages/docs/tb-mini/</link>
+      <link>https://blog.ergohaven.xyz/pages/docs/tb-mini/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pages/docs/tb-mini/</guid>
+      <guid>https://blog.ergohaven.xyz/pages/docs/tb-mini/</guid>
       
       <description>
 Подключение При подключении макропада к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем
@@ -174,10 +174,10 @@ Ergohaven Trackball Mini
     
     <item>
       <title>Velvet</title>
-      <link>http://localhost:1313/pages/docs/velvet/</link>
+      <link>https://blog.ergohaven.xyz/pages/docs/velvet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pages/docs/velvet/</guid>
+      <guid>https://blog.ergohaven.xyz/pages/docs/velvet/</guid>
       
       <description>Подключение Перед подключением клавиатуры к компьютеру, убедитесь, что USB-C кабель, соединяющий обе половинки между собой, плотно подключен в разъёмы на двух половинках При подключении клавиатуры к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем Настройка клавиатуры Пожалуйста перейдите в статью о программе Vial
 Функция Caps Word Одновременное нажатие клавиш LShift и RShift активирует Caps Word. Эта функция позволяет набирать слова заглавными буквами, не используя клавишу Caps Lock. Caps Word автоматически отключается в конце слова</description>
@@ -186,10 +186,10 @@ Ergohaven Trackball Mini
     
     <item>
       <title>Всё о программе Vial</title>
-      <link>http://localhost:1313/pages/docs/vial/</link>
+      <link>https://blog.ergohaven.xyz/pages/docs/vial/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pages/docs/vial/</guid>
+      <guid>https://blog.ergohaven.xyz/pages/docs/vial/</guid>
       
       <description>Vial — это кроссплатформенный графический интерфейс с открытым исходным кодом и форк QMK для настройки клавиатуры в режиме реального времени.
 Программа позволяет настроить клавиатуру с помощью простого и интуитивно понятного интерфейса без каких-либо знаний о программировании.
@@ -199,10 +199,10 @@ Ergohaven Trackball Mini
     
     <item>
       <title>Документация</title>
-      <link>http://localhost:1313/pages/docs/</link>
+      <link>https://blog.ergohaven.xyz/pages/docs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pages/docs/</guid>
+      <guid>https://blog.ergohaven.xyz/pages/docs/</guid>
       
       <description>Девайсы K:03 High Plains Drifter Imperial44 K:03 PRO K:02 M4CR0Pad Planeta Trackball Mini Velvet Софт Vial Режим RuEn </description>
       
@@ -210,10 +210,10 @@ Ergohaven Trackball Mini
     
     <item>
       <title>Ответы на часто задаваемые вопросы</title>
-      <link>http://localhost:1313/pages/faq/</link>
+      <link>https://blog.ergohaven.xyz/pages/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pages/faq/</guid>
+      <guid>https://blog.ergohaven.xyz/pages/faq/</guid>
       
       <description>Я новичок, с какой клавиатуры мне лучше всего начать? Советуем начать с 60% раскладки: K:03, HPD, Planeta.
 У Вас есть на выбор различные переключатели и кейкапы, какие мне лучше всего выбрать? Самый распространённый вариант это Brown переключатели (тактильные) и XDA кейкапы.

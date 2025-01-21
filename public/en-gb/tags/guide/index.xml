@@ -2,30 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guide on Ergohaven&#39;s journey</title>
-    <link>http://localhost:1313/en-gb/tags/guide/</link>
+    <link>https://blog.ergohaven.xyz/en-gb/tags/guide/</link>
     <description>Recent content in Guide on Ergohaven&#39;s journey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en-gb/tags/guide/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Режим RuEn</title>
-      <link>http://localhost:1313/en-gb/pages/docs/ruen/</link>
-      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/en-gb/pages/docs/ruen/</guid>
-      
-      <description>Режим RuEn Этот режим предназначен для того, чтобы
-расположить знаки пунктуации в одних и тех же местах для русского и английского языка, вводить символы из английской раскладки при печати в русской, переключать раскладку на английскую или русскую отдельными клавишами. Это работает благодаря тому, что клавиатура помнит текущую раскладку, и при необходимости ввести символ, отсутствующий в русской раскладке, автоматически переключает раскладку, а после ввода символа возвращает раскладку обратно.
-Основное достоинство такого подхода заключается в том, что нет необходимости устанавливать в систему дополнительное ПО или нестандартные раскладки.</description>
-      
-    </item>
-    
+    <lastBuildDate>Thu, 30 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.ergohaven.xyz/en-gb/tags/guide/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What are switches and how to choose them correctly</title>
-      <link>http://localhost:1313/en-gb/posts/switches_guide/</link>
+      <link>https://blog.ergohaven.xyz/en-gb/posts/switches_guide/</link>
       <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en-gb/posts/switches_guide/</guid>
+      <guid>https://blog.ergohaven.xyz/en-gb/posts/switches_guide/</guid>
       
       <description>Introduction In this article I will describe general information about what switches are and will try to simplify the pain of choosing which to buy
 First of all, what is it even, what does it look like? Switches are the mechanisms of each key on the keyboard; in the photo below they are highlighted with a red frame.
@@ -35,10 +22,10 @@ Switches are a key component of the keyboard, and their selection determines how
     
     <item>
       <title>How to learn to touch typing</title>
-      <link>http://localhost:1313/en-gb/posts/touchtyping/</link>
+      <link>https://blog.ergohaven.xyz/en-gb/posts/touchtyping/</link>
       <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en-gb/posts/touchtyping/</guid>
+      <guid>https://blog.ergohaven.xyz/en-gb/posts/touchtyping/</guid>
       
       <description>Intro It&amp;rsquo;s no secret that our store sells keycaps without symbols, some customers are stunned and decide to get the standard keycaps with symbols elsewhere.
 In this article, you will find out what is touch typing and why you should consider to switch to blank keycaps.
@@ -48,42 +35,27 @@ Touch typing (also called blind typing, or touch keyboarding) is a style of typi
     </item>
     
     <item>
-      <title>M4CR0Pad - документация</title>
-      <link>http://localhost:1313/en-gb/pages/docs/macropad/</link>
+      <title>All about Vial</title>
+      <link>https://blog.ergohaven.xyz/en-gb/pages/docs/vial/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en-gb/pages/docs/macropad/</guid>
+      <guid>https://blog.ergohaven.xyz/en-gb/pages/docs/vial/</guid>
       
-      <description>
-Connection When connecting the macropad to the computer, make sure the USB-C cable is firmly inserted into the connector Customizing device Please refer to the Vial guide
-Firmware update via bootmagic Preparation Download the latest firmware here Save your layout in the Vial program by clicking on the &amp;ldquo;File&amp;rdquo; menu, then &amp;ldquo;Save current layout&amp;rdquo; Installation *Press the top left key and connect USB
-Wait until the controller enters bootloader mode and the storage folder opens Copy or drag the Uf2 file, after which the controller should instantly reboot and start working as normal Import the layout into the Vial program by clicking on the &amp;ldquo;File&amp;rdquo; menu, then &amp;ldquo;Load saved layout&amp;rdquo; </description>
+      <description>Vial is an open-source cross-platform GUI and a QMK fork for configuring your keyboard in real time.
+The program let&amp;rsquo;s you customize your keyboard with an easy and intuitive interface without any knowledge about programming.
+First use Download and install the latest version of the program or use the web version Connect your keyboard and it will be automatically detected Unlock the keyboard by clicking on the Security menu and then Unlock, and follow the instructions that will be displayed on the screen Change any key you want and it will be instantly remapped, customize various options to your liking Save the layout by clicking File &amp;gt; Save current layout (optional) Let&amp;rsquo;s now check what the main tabs do</description>
       
     </item>
     
     <item>
-      <title>Trackball Mini - документация</title>
-      <link>http://localhost:1313/en-gb/pages/docs/tb-mini/</link>
+      <title>RuEn mode</title>
+      <link>https://blog.ergohaven.xyz/en-gb/pages/docs/ruen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en-gb/pages/docs/tb-mini/</guid>
+      <guid>https://blog.ergohaven.xyz/en-gb/pages/docs/ruen/</guid>
       
-      <description>
-Connection When connecting the keyboard to the computer, make sure the USB-C cable is firmly inserted into the connector Customizing device Please refer to the Vial guide
-Обновление прошивки через bootmagic Подготовка: Скачайте последнюю версию прошивки здесь Сохраните Вашу раскладку в программе Vial, нажав на меню &amp;ldquo;File&amp;rdquo;, дальше &amp;ldquo;Save current layout&amp;rdquo; Установка Нажмите верхнюю левую клавишу и подключите USB Дождитесь когда контроллер перейдёт в режим загрузчика и откроется папка-хранилище Скопируйте или перетащите Uf2 файл, после чего контроллер должен моментально перезагрузиться и начать работать в обычном режиме Импортируйте в программу Vial раскладку, нажав на меню &amp;ldquo;File&amp;rdquo;, дальше &amp;ldquo;Load saved layout&amp;rdquo; </description>
-      
-    </item>
-    
-    <item>
-      <title>Всё о программе Vial</title>
-      <link>http://localhost:1313/en-gb/pages/docs/vial/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/en-gb/pages/docs/vial/</guid>
-      
-      <description>Vial — это кроссплатформенный графический интерфейс с открытым исходным кодом и форк QMK для настройки клавиатуры в режиме реального времени.
-Программа позволяет настроить клавиатуру с помощью простого и интуитивно понятного интерфейса без каких-либо знаний о программировании.
-Первое использование Скачайте и установите последнюю версию программы или используйте веб-версию Подключите клавиатуру и она будет автоматически обнаружена Разблокируйте клавиатуру, кликнув на меню Security, а затем Unlock, и следуйте инструкции, которая будет отображена на экране Измените любую клавишу, которую вы хотите, и она будет мгновенно переназначена, настройте различные параметры по своему вкусу Сохраните раскладку, нажав File &amp;gt; Save current layout (опционально) Давайте теперь проверим, что делают основные вкладки</description>
+      <description>RuEn mode This mode is designed to
+place punctuation marks in the same places for Russian and English languages, enter characters from the English layout when printing in Russian, switch the layout to English or Russian using separate keys. This works due to the fact that the keyboard remembers the current layout, and if you need to enter a character that is not in the Russian layout, it automatically switches the layout, and after entering the character, it returns the layout back.</description>
       
     </item>
     
