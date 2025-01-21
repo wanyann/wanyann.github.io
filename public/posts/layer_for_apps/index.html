@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ru"><head><meta charset="utf-8">
+<html lang="ru"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
 <meta http-equiv="content-type" content="text/html">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -18,9 +18,9 @@
 <meta property="og:locale" content="ru" />
 <meta name="language" content="ru" />
 
-  <link rel="alternate" hreflang="ru-ru" href="https://blog.ergohaven.xyz/posts/layer_for_apps/" title="Russian" />
+  <link rel="alternate" hreflang="ru-ru" href="http://localhost:1313/posts/layer_for_apps/" title="Russian" />
 
-  <link rel="alternate" hreflang="en-gb" href="https://blog.ergohaven.xyz/en-gb/posts/layer_for_apps/" title="English" />
+  <link rel="alternate" hreflang="en-gb" href="http://localhost:1313/en-gb/posts/layer_for_apps/" title="English" />
 
 
 
@@ -33,7 +33,7 @@
     <meta property="og:type" content="article" />
     <meta property="og:article:published_time" content=2024-07-08T00:00:00Z />
     <meta property="article:published_time" content=2024-07-08T00:00:00Z />
-    <meta property="og:url" content="https://blog.ergohaven.xyz/posts/layer_for_apps/" />
+    <meta property="og:url" content="http://localhost:1313/posts/layer_for_apps/" />
 
     
     <meta property="og:article:author" content="" />
@@ -73,7 +73,7 @@
 <meta name="generator" content="Hugo 0.126.2">
 
     
-    <meta property="og:url" content="https://blog.ergohaven.xyz/posts/layer_for_apps/">
+    <meta property="og:url" content="http://localhost:1313/posts/layer_for_apps/">
   <meta property="og:site_name" content="Ergohaven&#39;s journey">
   <meta property="og:title" content="Слой для запуска приложений">
   <meta property="og:description" content="Введение Долго пользовался рабочими столами в винде, очень зашли они, на одном столе открыл рабочий чат, на втором браузер, на третьем IDE и т.д., балдежно быстро переключаешься, не убирая руки с клавиатуры.
@@ -96,7 +96,7 @@
 
     
 
-    <link rel="canonical" href="https://blog.ergohaven.xyz/posts/layer_for_apps/">
+    <link rel="canonical" href="http://localhost:1313/posts/layer_for_apps/">
     <link href="/style.min.2d921c18cf1ec555ffc03d59a8adc211c402c68c930c27d6a0c306ab175a8d09.css" rel="stylesheet">
     <link href="/code-highlight.min.706d31975fec544a864cb7f0d847a73ea55ca1df91bf495fd12a177138d807cf.css" rel="stylesheet">
 
@@ -110,7 +110,7 @@
 
 
 
-<link rel="manifest" href="https://blog.ergohaven.xyz/site.webmanifest">
+<link rel="manifest" href="http://localhost:1313/site.webmanifest">
 
 <meta name="msapplication-config" content="/browserconfig.xml">
 <meta name="msapplication-TileColor" content="#2d89ef">
@@ -121,18 +121,14 @@
 
     
     
-  
-
-
-    
 </head>
 <body data-theme = "auto" class="notransition">
 
-<script src="/js/theme.min.8961c317c5b88b953fe27525839672c9343f1058ab044696ca225656c8ba2ab0.js" integrity="sha256-iWHDF8W4i5U/4nUlg5ZyyTQ/EFirBEaWyiJWVsi6KrA="></script>
+<script src="/js/theme.js"></script>
 
 <div class="navbar" role="navigation">
     <nav class="menu" aria-label="Main Navigation">
-        <a href="https://blog.ergohaven.xyz/" class="logo">
+        <a href="http://localhost:1313/" class="logo">
             <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" 
 viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" 
 stroke-linejoin="round" class="feather feather-home">
@@ -195,7 +191,7 @@ stroke-linejoin="round" class="feather feather-home">
                                     
                                         
                                         
-                                            <option id="ru-ru" value="https://blog.ergohaven.xyz/posts/layer_for_apps/" selected>RU
+                                            <option id="ru-ru" value="http://localhost:1313/posts/layer_for_apps/" selected>RU
                                             </option>
                                         
                                     
@@ -210,7 +206,7 @@ stroke-linejoin="round" class="feather feather-home">
                                     
                                         
                                         
-                                            <option id="en-gb" value="https://blog.ergohaven.xyz/en-gb/posts/layer_for_apps/">EN</option>
+                                            <option id="en-gb" value="http://localhost:1313/en-gb/posts/layer_for_apps/">EN</option>
                                         
                                     
                                 
@@ -265,7 +261,7 @@ stroke-linejoin="round" class="feather feather-home">
                 <h2 id="введение">Введение</h2>
 <p>Долго пользовался рабочими столами в винде, очень зашли они, на одном столе открыл рабочий чат, на втором браузер, на третьем IDE и т.д., балдежно быстро переключаешься, не убирая руки с клавиатуры.</p>
 <p>В какой-то момент у меня было активно 6 рабочих столов, и чтобы переключиться с 6 на 1 надо жмать хоткей 6 раз&hellip; а потом обратно еще 6.. Возникла мысль, может есть какой-то хоткей, чтобы переключиться именно на 6 стол? Но, к сожалению в самой винде такого нет, что странно.</p>
-<p><img alt="image" src="/images/layer_for_apps/1.png"><br>
+<p><img src="/images/layer_for_apps/1.png" alt="image"><br>
 <em>Те самые 6 рабочих столов (ノಠ益ಠ)ノ彡┻━┻</em></p>
 <h2 id="слишком-длинное-лень-читать">Слишком длинное; лень читать</h2>
 <ul>
@@ -275,12 +271,12 @@ stroke-linejoin="round" class="feather feather-home">
 </ul>
 <h2 id="начало-длинного-пути">Начало длинного пути</h2>
 <p>Нашел опенсорсную альтернативу рабочих столов, оконный менеджер komorebi, поковырялся с приложухой несколько дней и не зашло. В ней вроде есть все то, что мне нужно, можно настроить несколько столов, есть хоткеи для переключения на каждый и много всяких других интересностей присущих оконным менеджерам.</p>
-<p><img alt="image" src="/images/layer_for_apps/2.png"><br>
+<p><img src="/images/layer_for_apps/2.png" alt="image"><br>
 <em>Вот такую вот красоту позволяет наводить komorebi</em></p>
 <p>Не зашло т.к. показалось неудобным конфигурирование столов, там мы заполняем json файл, в котором пишем какая приложуха на каком столе стартует, и это не работает, если, например, мне надо 2 отдельных профиля одного браузера открывать на разных столах, ведь .exe файл у них один, стартуют только с аргументами разными, а такого тюнинга в komorebi не оказалось, к сожалению. Да и мне надо всего 6 хоткеев, а оконный менеджер предоставляет тонну функционала, который мне особо и не нужен.</p>
 <h2 id="какие-есть-варианты-решения-проблемы">Какие есть варианты решения проблемы?</h2>
 <p>Как-то раз залипая на ютубе наткнулся на видос с одной интересной раскладкой от Ben Vallack. Особенно мне понравилось услышанное про сочетания с кнопкой MEH(Ctrl + Shift + Alt). Он сидит на макоси, там насколько понял есть программка Keyboard Maestro, в ней можно назначить хоткеи для открытия любого приложения, и не только.</p>
-<p><img alt="image" src="/images/layer_for_apps/3.png"><br>
+<p><img src="/images/layer_for_apps/3.png" alt="image"><br>
 <em>В Keyboard Maestro есть тонна различного рода конфигурирования для сочетаний клавиш</em></p>
 <p>Если так подумать, то не сильно то мне и нужны собственно рабочие столы, такой вариант мне бы тоже отлично подошел, т.к. по сути то я просто держу на 6 разных столах 6 приложений развернутых на весь экран.</p>
 <p>Покупать мак для решения такой проблемы было бы немного перебором, да и в винде для меня особых проблем как будто нет, полез гуглить какие есть варианты реализации подобного функционала в винде.</p>
@@ -288,17 +284,17 @@ stroke-linejoin="round" class="feather feather-home">
 <ol>
 <li>Самый простой и не требующий никаких танцев с бубнами, как оказалось уже встроен в винду, можно закрепить программу на панели задач внизу и вызывать эти программы сочетаниями Win + 1-0(порядковый номер программы на панели задач);</li>
 </ol>
-<p><img alt="image" src="/images/layer_for_apps/4.png"><br>
+<p><img src="/images/layer_for_apps/4.png" alt="image"><br>
 <em>Спящий котик(и программы, закрепленные у меня на панели задач)</em></p>
 <ol start="2">
 <li>Еще можно забацать скрипты с помощью программки AutoHotkey (далее AHK), в целом вариант неплохой, в скриптах можно сделать и разного рода логику вроде того, что если приложение открыто, не запускаем его второй раз, а просто фокусируемся. Способ подразумевает погружение в язык скриптов AHK, вариант неплохой, но решил погуглить еще;</li>
 </ol>
-<p><img alt="image" src="/images/layer_for_apps/12.png"><br>
+<p><img src="/images/layer_for_apps/12.png" alt="image"><br>
 <em>Пример скрипта на AHK</em></p>
 <ol start="3">
 <li>В PowerToys есть модуль &ldquo;Диспетчер клавиатуры&rdquo;, он как раз делает то что требуется, по сочетанию можно открывать приложение, открывать его с какими-то аргументами и прочие интересности, то что как раз мне требовалось, да и пара других модулей PowerToys у меня уже используется.</li>
 </ol>
-<p><img alt="image" src="/images/layer_for_apps/5.png"><br>
+<p><img src="/images/layer_for_apps/5.png" alt="image"><br>
 <em>Окно диспетчера клавиатуры PowerToys</em></p>
 <h2 id="что-по-клавиатуре">Что по клавиатуре?</h2>
 <p>В Vial под это дело решил сделать отдельный слой, на который переключаюсь через OSL, он мне тут показался удобнее всего по нескольким причинам:</p>
@@ -306,23 +302,23 @@ stroke-linejoin="round" class="feather feather-home">
 в отличие от TG, OSL активирует слой только на одно нажатие и далее автоматически возвращает тебя на прошлый слой, самое то для моего сценария использования, т.к. случая когда мне надо два раза подряд переключаться между приложениями представить не могу.
 </code></pre>
 <p>Кнопку для активации слоя с приложениями расположил под большим пальцем, ибо переключаюсь между приложениями очень часто.</p>
-<p><img alt="image" src="/images/layer_for_apps/6.png"><br>
+<p><img src="/images/layer_for_apps/6.png" alt="image"><br>
 <em>Долго не мог найти толкового применения для OSL, а тут он вписывается идеально</em></p>
 <p>На сам слой назначил функции LGUI(1) - LGUI(0), чтобы было проще запомнить где какие приложения раскидал хоткеи по клавиатуре таким образом, чтобы создавалась определенная ассоциация в голове - на месте буквы Т - хоткей открытия телеги, на месте буквы W - хоткей открытия рабочего браузера, на месте буквы S - обсидиан, в котором веду заметки(назначил на S, а не на O ибо хотел все расположить под левой рукой, удобно чтоб не убирать правую руку с мышки\трекбола, если когда-нибудь в мои руки попадет HPD с трекболом, и мышка уже будет не так нужна, то вероятно буду использовать и правую половину под приложения).</p>
-<p><img alt="image" src="/images/layer_for_apps/7.png"></p>
+<p><img src="/images/layer_for_apps/7.png" alt="image"></p>
 <h2 id="опробуем-найденные-варианты">Опробуем найденные варианты</h2>
 <p>Начинать решил с того, что потестить проще всего - закрепление на панели задач. Первые впечатления - балдеж, это прям то что и хотел получить в итоге. Из-за того, что расположил кнопки ассоциативно, привык довольно быстро, движений мышкой совершаю намного меньше, ну и проблема, которая возникала с переключением от 1 рабочего стола к 6 больше не появляется.</p>
 <p>Подход настолько понравился, что сочетаний клавиш винды от 1 до 0 не хватило, забиндил все самые используемые приложения и чуток нехватило.. Эх</p>
 <p>Пошел пробовать второй по доступности для меня вариант - уже установленные PowerToys, диспетчере клавиатуры попробовал переназначить сочетания клавиш.</p>
-<p><img alt="image" src="/images/layer_for_apps/8.png"></p>
+<p><img src="/images/layer_for_apps/8.png" alt="image"></p>
 <p>Есть много кастомизации для сочетаний, в моем случае назначил сочетание CTRL + ALT + SHIFT(тот самый MEH из qmk и vial) + A, выбрал Действие &ldquo;Запуск программы&rdquo; и выбрал экзешник нужного мне приложения, виала.</p>
 <p>С таким подходом все работало отлично, но не со всеми программами, стим например почему-то не заработал, пока не выбрал для него параметр &ldquo;Если выполняется&rdquo; = &ldquo;Запустить другой&rdquo;. Это видимо особенности конкретных приложений, но стоит их учитывать, и кстати такие штуки не появлялись при запуске приложений с панели задач, так что возможно стоит подобные стиму приложения запускать как раз с таск бара.</p>
-<p><img alt="image" src="/images/layer_for_apps/9.png"><br>
+<p><img src="/images/layer_for_apps/9.png" alt="image"><br>
 <em>Так выглядит слой с наворотами из PowerToys</em></p>
 <p>На данном этапе идея уже реализована и функционирует так, как хотел, но решил опробовать и 3 способ, скрипты с AHK.</p>
 <p>AutoHotKey</p>
 <p>Тут потребовалось больше предварительных действий, чем в прошлых двух способах, установил с оф сайта программу AutoHotKey Dash, с помощью можно скомпилировать скрипт .ahk в запускаемый файл.</p>
-<p><img alt="image" src="/images/layer_for_apps/10.png"><br>
+<p><img src="/images/layer_for_apps/10.png" alt="image"><br>
 <em>Окошко программы</em></p>
 <p>Скрипты на AHK похоже существуют уже очень долго, по ним много документации и инфы на форумах, недолго поискав, наткнулся на несколько примеров как можно реализовать открытие приложения по сочетанию клавиш.</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-md" data-lang="md"><span class="line"><span class="cl">{   
@@ -363,10 +359,10 @@ stroke-linejoin="round" class="feather feather-home">
 <p>Также стоит отметить, есть буквально одна ситуация, в которой пока не нашел решение через AHK - как открывать два разных профиля одного браузера двумя разными сочетаниями клавиш. У них и процесс крутится как будто один и тот же, и в названии окна нет названия профиля.. Тут буду продолжать использовать открытие через панель задач. А от использования PowerToys скорее всего откажусь в итоге, ибо AHK позволяет сделать те же веще, но с более тонкой настройкой.</p>
 <h2 id="ps">P.S.</h2>
 <p>Если будете пробовать делать скрипты на AHK, настоятельно советую читать документацию, в ней часто можно найти полезные примеры. Мне в ней сложновато было ориентироваться, находить конкретные нужные функции, помогло то, что за метил разделы в левой части экрана. Наиболее полезными для задачи запуска приложений мне показались разделы Process и Window, в них есть функции для поиска запущенной программы по любым параметрам.</p>
-<p><img alt="image" src="/images/layer_for_apps/11.png"><br>
+<p><img src="/images/layer_for_apps/11.png" alt="image"><br>
 <em><a href="https://www.autohotkey.com/docs/v2/lib/ProcessExist.htm">https://www.autohotkey.com/docs/v2/lib/ProcessExist.htm</a></em></p>
 <p>Автор статьи: <a href="https://t.me/Wanyan1337">Иван Селезнёв</a><br>
-Обсуждение в нашей <a href="https://t.me/+E-mlq11c97AyZmY6">телеграм-группе</a></p>
+Обсуждение в нашей <a href="https://t.me/&#43;E-mlq11c97AyZmY6">телеграм-группе</a></p>
 
             </div>
         </article></main>
@@ -452,7 +448,7 @@ stroke-linejoin="round" class="feather feather-home">
 
 
     
-    <script src="https://blog.ergohaven.xyz/js/main.min.35f435a5d8eac613c52daa28d8af544a4512337d3e95236e4a4978417b8dcb2f.js" integrity="sha256-NfQ1pdjqxhPFLaoo2K9USkUSM30&#43;lSNuSkl4QXuNyy8="></script>
+    <script async src="http://localhost:1313/js/main.js" ></script>
 
     
 

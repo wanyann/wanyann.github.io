@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trackball on Ergohaven&#39;s journey</title>
-    <link>https://blog.ergohaven.xyz/tags/trackball/</link>
+    <link>http://localhost:1313/tags/trackball/</link>
     <description>Recent content in Trackball on Ergohaven&#39;s journey</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ru</language><atom:link href="https://blog.ergohaven.xyz/tags/trackball/index.xml" rel="self" type="application/rss+xml" />
+    <language>ru</language><atom:link href="http://localhost:1313/tags/trackball/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Trackball Mini</title>
-      <link>https://blog.ergohaven.xyz/pages/docs/tb-mini/</link>
+      <link>http://localhost:1313/pages/docs/tb-mini/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.ergohaven.xyz/pages/docs/tb-mini/</guid>
+      <guid>http://localhost:1313/pages/docs/tb-mini/</guid>
       
       <description>
 Подключение При подключении макропада к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем

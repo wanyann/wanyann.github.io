@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ru"><head><meta charset="utf-8">
+<html lang="ru"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
 <meta http-equiv="content-type" content="text/html">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -18,9 +18,9 @@
 <meta property="og:locale" content="ru" />
 <meta name="language" content="ru" />
 
-  <link rel="alternate" hreflang="ru-ru" href="https://blog.ergohaven.xyz/pages/docs/ruen/" title="Russian" />
+  <link rel="alternate" hreflang="ru-ru" href="http://localhost:1313/pages/docs/ruen/" title="Russian" />
 
-  <link rel="alternate" hreflang="en-gb" href="https://blog.ergohaven.xyz/en-gb/pages/docs/ruen/" title="English" />
+  <link rel="alternate" hreflang="en-gb" href="http://localhost:1313/en-gb/pages/docs/ruen/" title="English" />
 
 
 
@@ -30,7 +30,7 @@
 <meta name="generator" content="Hugo 0.126.2">
 
     
-    <meta property="og:url" content="https://blog.ergohaven.xyz/pages/docs/ruen/">
+    <meta property="og:url" content="http://localhost:1313/pages/docs/ruen/">
   <meta property="og:site_name" content="Ergohaven&#39;s journey">
   <meta property="og:title" content="Режим RuEn">
   <meta property="og:description" content="Режим RuEn Этот режим предназначен для того, чтобы
@@ -56,7 +56,7 @@
 
     
 
-    <link rel="canonical" href="https://blog.ergohaven.xyz/pages/docs/ruen/">
+    <link rel="canonical" href="http://localhost:1313/pages/docs/ruen/">
     <link href="/style.min.2d921c18cf1ec555ffc03d59a8adc211c402c68c930c27d6a0c306ab175a8d09.css" rel="stylesheet">
     <link href="/code-highlight.min.706d31975fec544a864cb7f0d847a73ea55ca1df91bf495fd12a177138d807cf.css" rel="stylesheet">
 
@@ -70,7 +70,7 @@
 
 
 
-<link rel="manifest" href="https://blog.ergohaven.xyz/site.webmanifest">
+<link rel="manifest" href="http://localhost:1313/site.webmanifest">
 
 <meta name="msapplication-config" content="/browserconfig.xml">
 <meta name="msapplication-TileColor" content="#2d89ef">
@@ -81,18 +81,14 @@
 
     
     
-  
-
-
-    
 </head>
 <body data-theme = "auto" class="notransition">
 
-<script src="/js/theme.min.8961c317c5b88b953fe27525839672c9343f1058ab044696ca225656c8ba2ab0.js" integrity="sha256-iWHDF8W4i5U/4nUlg5ZyyTQ/EFirBEaWyiJWVsi6KrA="></script>
+<script src="/js/theme.js"></script>
 
 <div class="navbar" role="navigation">
     <nav class="menu" aria-label="Main Navigation">
-        <a href="https://blog.ergohaven.xyz/" class="logo">
+        <a href="http://localhost:1313/" class="logo">
             <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" 
 viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" 
 stroke-linejoin="round" class="feather feather-home">
@@ -155,7 +151,7 @@ stroke-linejoin="round" class="feather feather-home">
                                     
                                         
                                         
-                                            <option id="ru-ru" value="https://blog.ergohaven.xyz/pages/docs/ruen/" selected>RU
+                                            <option id="ru-ru" value="http://localhost:1313/pages/docs/ruen/" selected>RU
                                             </option>
                                         
                                     
@@ -170,7 +166,7 @@ stroke-linejoin="round" class="feather feather-home">
                                     
                                         
                                         
-                                            <option id="en-gb" value="https://blog.ergohaven.xyz/en-gb/pages/docs/ruen/">EN</option>
+                                            <option id="en-gb" value="http://localhost:1313/en-gb/pages/docs/ruen/">EN</option>
                                         
                                     
                                 
@@ -267,14 +263,14 @@ stroke-linejoin="round" class="feather feather-home">
 <p>Основное достоинство такого подхода заключается в том, что нет необходимости устанавливать в систему дополнительное ПО или нестандартные раскладки.</p>
 <p>Основной недостаток — необходимость поддерживать одинаковое состояние раскладки в клавиатуре и в системе. Подробнее о том, как это обеспечить, будет рассказано ниже.</p>
 <p>Клавиши режима RuEn можно найти в программе Vial во вкладке User. Все клавиши этого режима начинаются со слова RuEn. Чтобы воспользоваться ими, нужно добавить их к себе в раскладку (в любой удобный слой).</p>
-<p><img alt="image" src="/images/ruen/ruen-all.png"></p>
+<p><img src="/images/ruen/ruen-all.png" alt="image"></p>
 <h2 id="предварительные-настройки">Предварительные настройки</h2>
 <p>Ниже описаны несложные процедуры для предварительной настройки операционной системы и клавиатуры для работы режима RuEn. Это настройки по умолчанию, и если вы первый раз настраиваете RuEn, рекомендуется пройти по этому пути.</p>
 <p>Тем не менее, в некоторых случаях настройки по умолчанию могут вам не подойти:</p>
 <ul>
 <li>если у вас в системе используется нестандартное сочетание клавиш для смены раскладки, смотрите секцию <a href="/pages/docs/ruen/#ruen-m0">RuEn M0</a> и <a href="/pages/docs/ruen/#ruen-m1m2">RuEn M1M2</a>;</li>
 <li>если вы много работаете с удаленными машинами (например, по RDP) и вам необходимо часто синхронизировать раскладку удаленной машины с раскладкой клавиатуры, смотрите секцию <a href="/pages/docs/ruen/#ruen-m1m2">RuEn M1M2</a>;</li>
-<li>если вам необходимо иметь для каждого окна индивидуальную раскладку, или если у вас часто по какой-либо причине происходит рассинхронизация раскладки клавиатуры и системы, или же вам очень неудобно использовать клавиши <code>RuEn Toggle</code>, <code>RuEn En</code>, <code>RuEn Ru</code> для переключения раскладки, смотрите секцию <a href="/pages/docs/ruen/#использование-программы-qmk-hid-host">Использование программы qmk-hid-host</a>.</li>
+<li>если вам необходимо иметь для каждого окна индивидуальную раскладку, или если у вас часто по какой-либо причине происходит рассинхронизация раскладки клавиатуры и системы, или же вам очень неудобно использовать клавиши <code>RuEn Toggle</code>, <code>RuEn En</code>, <code>RuEn Ru</code> для переключения раскладки, смотрите секцию <a href="/pages/docs/ruen/#%d0%b8%d1%81%d0%bf%d0%be%d0%bb%d1%8c%d0%b7%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5-%d0%bf%d1%80%d0%be%d0%b3%d1%80%d0%b0%d0%bc%d0%bc%d1%8b-qmk-hid-host">Использование программы qmk-hid-host</a>.</li>
 </ul>
 <p>Рекомендуется все же дочитать эту и следующую секцию, чтобы получить общее представление о режиме RuEn, а затем приступать к более сложной настройке.</p>
 <h3 id="windows">Windows</h3>
@@ -442,7 +438,7 @@ stroke-linejoin="round" class="feather feather-home">
 <p><em>Ожидайте в следующих прошивках.</em></p>
 <h2 id="дополнительные-ссылки-и-благодарности">Дополнительные ссылки и благодарности</h2>
 <ul>
-<li>спасибо всем активным пользователям <a href="https://t.me/+E-mlq11c97AyZmY6">телеграм-чата Ergohaven</a>, помогающим отладить и улучшить режим RuEn</li>
+<li>спасибо всем активным пользователям <a href="https://t.me/&#43;E-mlq11c97AyZmY6">телеграм-чата Ergohaven</a>, помогающим отладить и улучшить режим RuEn</li>
 <li>режим RuEn во многом основан на идеях <a href="https://github.com/klavarog/lang_shift">lang_shift</a>, автор которого также написал <a href="https://optozorax.github.io/p/my-keyboard-layout/">интересный лонгрид о создании своей раскладки</a></li>
 <li>спасибо автору <a href="https://github.com/zzeneg/qmk-hid-host">qmk-hid-host</a> за идею и реализацию программы, позволяющую синхронизировать раскладку (и не только!) клавиатуры и операционной системы</li>
 <li><a href="https://github.com/braindefender/universal-layout">Universal Layout</a> — альтернативный способ решения той же проблемы ввода специальных символов с помощью создания своей раскладки, рекомендуется в том случае, если по какой-либо причине не подошел режим RuEn</li>
@@ -532,7 +528,7 @@ stroke-linejoin="round" class="feather feather-home">
 
 
     
-    <script src="https://blog.ergohaven.xyz/js/main.min.35f435a5d8eac613c52daa28d8af544a4512337d3e95236e4a4978417b8dcb2f.js" integrity="sha256-NfQ1pdjqxhPFLaoo2K9USkUSM30&#43;lSNuSkl4QXuNyy8="></script>
+    <script async src="http://localhost:1313/js/main.js" ></script>
 
     
 

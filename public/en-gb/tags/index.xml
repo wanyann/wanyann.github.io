@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ergohaven&#39;s journey</title>
-    <link>https://blog.ergohaven.xyz/en-gb/tags/</link>
+    <link>http://localhost:1313/en-gb/tags/</link>
     <description>Recent content in Tags on Ergohaven&#39;s journey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.ergohaven.xyz/en-gb/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en-gb/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vial</title>
-      <link>https://blog.ergohaven.xyz/en-gb/tags/vial/</link>
+      <link>http://localhost:1313/en-gb/tags/vial/</link>
       <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.ergohaven.xyz/en-gb/tags/vial/</guid>
+      <guid>http://localhost:1313/en-gb/tags/vial/</guid>
       
       <description></description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>Guide</title>
-      <link>https://blog.ergohaven.xyz/en-gb/tags/guide/</link>
+      <link>http://localhost:1313/en-gb/tags/guide/</link>
       <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.ergohaven.xyz/en-gb/tags/guide/</guid>
+      <guid>http://localhost:1313/en-gb/tags/guide/</guid>
       
       <description></description>
       
@@ -31,10 +31,10 @@
     
     <item>
       <title>Docs</title>
-      <link>https://blog.ergohaven.xyz/en-gb/tags/docs/</link>
+      <link>http://localhost:1313/en-gb/tags/docs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.ergohaven.xyz/en-gb/tags/docs/</guid>
+      <guid>http://localhost:1313/en-gb/tags/docs/</guid>
       
       <description></description>
       
@@ -42,10 +42,10 @@
     
     <item>
       <title>Hpd</title>
-      <link>https://blog.ergohaven.xyz/en-gb/tags/hpd/</link>
+      <link>http://localhost:1313/en-gb/tags/hpd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.ergohaven.xyz/en-gb/tags/hpd/</guid>
+      <guid>http://localhost:1313/en-gb/tags/hpd/</guid>
       
       <description></description>
       
@@ -53,10 +53,10 @@
     
     <item>
       <title>Imperial44</title>
-      <link>https://blog.ergohaven.xyz/en-gb/tags/imperial44/</link>
+      <link>http://localhost:1313/en-gb/tags/imperial44/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.ergohaven.xyz/en-gb/tags/imperial44/</guid>
+      <guid>http://localhost:1313/en-gb/tags/imperial44/</guid>
       
       <description></description>
       
@@ -64,10 +64,10 @@
     
     <item>
       <title>K:02</title>
-      <link>https://blog.ergohaven.xyz/en-gb/tags/k02/</link>
+      <link>http://localhost:1313/en-gb/tags/k02/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.ergohaven.xyz/en-gb/tags/k02/</guid>
+      <guid>http://localhost:1313/en-gb/tags/k02/</guid>
       
       <description></description>
       
@@ -75,10 +75,10 @@
     
     <item>
       <title>K:03</title>
-      <link>https://blog.ergohaven.xyz/en-gb/tags/k03/</link>
+      <link>http://localhost:1313/en-gb/tags/k03/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.ergohaven.xyz/en-gb/tags/k03/</guid>
+      <guid>http://localhost:1313/en-gb/tags/k03/</guid>
       
       <description></description>
       
@@ -86,10 +86,10 @@
     
     <item>
       <title>K:03 PRO</title>
-      <link>https://blog.ergohaven.xyz/en-gb/tags/k03-pro/</link>
+      <link>http://localhost:1313/en-gb/tags/k03-pro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.ergohaven.xyz/en-gb/tags/k03-pro/</guid>
+      <guid>http://localhost:1313/en-gb/tags/k03-pro/</guid>
       
       <description></description>
       
@@ -97,10 +97,10 @@
     
     <item>
       <title>Macropad</title>
-      <link>https://blog.ergohaven.xyz/en-gb/tags/macropad/</link>
+      <link>http://localhost:1313/en-gb/tags/macropad/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.ergohaven.xyz/en-gb/tags/macropad/</guid>
+      <guid>http://localhost:1313/en-gb/tags/macropad/</guid>
       
       <description></description>
       
@@ -108,10 +108,10 @@
     
     <item>
       <title>Planeta</title>
-      <link>https://blog.ergohaven.xyz/en-gb/tags/planeta/</link>
+      <link>http://localhost:1313/en-gb/tags/planeta/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.ergohaven.xyz/en-gb/tags/planeta/</guid>
+      <guid>http://localhost:1313/en-gb/tags/planeta/</guid>
       
       <description></description>
       
@@ -119,10 +119,10 @@
     
     <item>
       <title>Trackball</title>
-      <link>https://blog.ergohaven.xyz/en-gb/tags/trackball/</link>
+      <link>http://localhost:1313/en-gb/tags/trackball/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.ergohaven.xyz/en-gb/tags/trackball/</guid>
+      <guid>http://localhost:1313/en-gb/tags/trackball/</guid>
       
       <description></description>
       
@@ -130,10 +130,10 @@
     
     <item>
       <title>Velvet</title>
-      <link>https://blog.ergohaven.xyz/en-gb/tags/velvet/</link>
+      <link>http://localhost:1313/en-gb/tags/velvet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.ergohaven.xyz/en-gb/tags/velvet/</guid>
+      <guid>http://localhost:1313/en-gb/tags/velvet/</guid>
       
       <description></description>
       

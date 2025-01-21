@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vial on Ergohaven&#39;s journey</title>
-    <link>https://blog.ergohaven.xyz/tags/vial/</link>
+    <link>http://localhost:1313/tags/vial/</link>
     <description>Recent content in Vial on Ergohaven&#39;s journey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 08 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.ergohaven.xyz/tags/vial/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/vial/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Режим RuEn</title>
-      <link>https://blog.ergohaven.xyz/pages/docs/ruen/</link>
+      <link>http://localhost:1313/pages/docs/ruen/</link>
       <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.ergohaven.xyz/pages/docs/ruen/</guid>
+      <guid>http://localhost:1313/pages/docs/ruen/</guid>
       
       <description>Режим RuEn Этот режим предназначен для того, чтобы
 расположить знаки пунктуации в одних и тех же местах для русского и английского языка, вводить символы из английской раскладки при печати в русской, переключать раскладку на английскую или русскую отдельными клавишами. Это работает благодаря тому, что клавиатура помнит текущую раскладку, и при необходимости ввести символ, отсутствующий в русской раскладке, автоматически переключает раскладку, а после ввода символа возвращает раскладку обратно.
@@ -22,10 +22,10 @@
     
     <item>
       <title>Руководство по трекболу</title>
-      <link>https://blog.ergohaven.xyz/posts/trackball_mini/</link>
+      <link>http://localhost:1313/posts/trackball_mini/</link>
       <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.ergohaven.xyz/posts/trackball_mini/</guid>
+      <guid>http://localhost:1313/posts/trackball_mini/</guid>
       
       <description>Предисловие Трекбол сам по себе хоть и выполняет ту же функцию управления курсором, что и мышка, но опыт использования этих двух устройств совершенно разный, и подходят они под совершенно разные задачи
 Ergohaven Trackball Mini
@@ -35,10 +35,10 @@ Ergohaven Trackball Mini
     
     <item>
       <title>Слой для запуска приложений</title>
-      <link>https://blog.ergohaven.xyz/posts/layer_for_apps/</link>
+      <link>http://localhost:1313/posts/layer_for_apps/</link>
       <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.ergohaven.xyz/posts/layer_for_apps/</guid>
+      <guid>http://localhost:1313/posts/layer_for_apps/</guid>
       
       <description>Введение Долго пользовался рабочими столами в винде, очень зашли они, на одном столе открыл рабочий чат, на втором браузер, на третьем IDE и т.д., балдежно быстро переключаешься, не убирая руки с клавиатуры.
 В какой-то момент у меня было активно 6 рабочих столов, и чтобы переключиться с 6 на 1 надо жмать хоткей 6 раз&amp;hellip; а потом обратно еще 6.. Возникла мысль, может есть какой-то хоткей, чтобы переключиться именно на 6 стол?</description>
@@ -47,10 +47,10 @@ Ergohaven Trackball Mini
     
     <item>
       <title>Всё о программе Vial</title>
-      <link>https://blog.ergohaven.xyz/pages/docs/vial/</link>
+      <link>http://localhost:1313/pages/docs/vial/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.ergohaven.xyz/pages/docs/vial/</guid>
+      <guid>http://localhost:1313/pages/docs/vial/</guid>
       
       <description>Vial — это кроссплатформенный графический интерфейс с открытым исходным кодом и форк QMK для настройки клавиатуры в режиме реального времени.
 Программа позволяет настроить клавиатуру с помощью простого и интуитивно понятного интерфейса без каких-либо знаний о программировании.

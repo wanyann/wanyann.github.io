@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vial on Ergohaven&#39;s journey</title>
-    <link>https://blog.ergohaven.xyz/en-gb/tags/vial/</link>
+    <link>http://localhost:1313/en-gb/tags/vial/</link>
     <description>Recent content in Vial on Ergohaven&#39;s journey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.ergohaven.xyz/en-gb/tags/vial/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en-gb/tags/vial/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Trackball mini guide</title>
-      <link>https://blog.ergohaven.xyz/en-gb/posts/trackball_mini/</link>
+      <link>http://localhost:1313/en-gb/posts/trackball_mini/</link>
       <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.ergohaven.xyz/en-gb/posts/trackball_mini/</guid>
+      <guid>http://localhost:1313/en-gb/posts/trackball_mini/</guid>
       
       <description>Preface The trackball itself, although it performs the same function of cursor control as a mouse, but the experience of using these two devices is completely different, and they are suitable for completely different tasks
 Ergohaven Trackball Mini
@@ -22,10 +22,10 @@ The main advantages of a trackball over a mouse compactness - it will take up mu
     
     <item>
       <title>Layer for apps</title>
-      <link>https://blog.ergohaven.xyz/en-gb/posts/layer_for_apps/</link>
+      <link>http://localhost:1313/en-gb/posts/layer_for_apps/</link>
       <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.ergohaven.xyz/en-gb/posts/layer_for_apps/</guid>
+      <guid>http://localhost:1313/en-gb/posts/layer_for_apps/</guid>
       
       <description>Introduction I’ve been using desktops in Windows for a long time, they’re very useful, I opened a work chat on one desktop, a browser on the second, an IDE on the third, etc., you can quickly switch without taking your hands off the keyboard.
 At some point I had 6 active desktops, and to switch from 6 to 1 I had to press the hotkey 6 times&amp;hellip; and then back another 6.</description>
@@ -34,10 +34,10 @@ At some point I had 6 active desktops, and to switch from 6 to 1 I had to press 
     
     <item>
       <title>All about Vial</title>
-      <link>https://blog.ergohaven.xyz/en-gb/pages/docs/vial/</link>
+      <link>http://localhost:1313/en-gb/pages/docs/vial/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.ergohaven.xyz/en-gb/pages/docs/vial/</guid>
+      <guid>http://localhost:1313/en-gb/pages/docs/vial/</guid>
       
       <description>Vial is an open-source cross-platform GUI and a QMK fork for configuring your keyboard in real time.
 The program let&amp;rsquo;s you customize your keyboard with an easy and intuitive interface without any knowledge about programming.
@@ -47,10 +47,10 @@ First use Download and install the latest version of the program or use the web 
     
     <item>
       <title>RuEn mode</title>
-      <link>https://blog.ergohaven.xyz/en-gb/pages/docs/ruen/</link>
+      <link>http://localhost:1313/en-gb/pages/docs/ruen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.ergohaven.xyz/en-gb/pages/docs/ruen/</guid>
+      <guid>http://localhost:1313/en-gb/pages/docs/ruen/</guid>
       
       <description>RuEn mode This mode is designed to
 place punctuation marks in the same places for Russian and English languages, enter characters from the English layout when printing in Russian, switch the layout to English or Russian using separate keys. This works due to the fact that the keyboard remembers the current layout, and if you need to enter a character that is not in the Russian layout, it automatically switches the layout, and after entering the character, it returns the layout back.</description>

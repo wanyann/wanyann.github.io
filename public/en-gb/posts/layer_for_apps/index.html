@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en"><head><meta charset="utf-8">
+<html lang="en"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
 <meta http-equiv="content-type" content="text/html">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -18,9 +18,9 @@
 <meta property="og:locale" content="en" />
 <meta name="language" content="en" />
 
-  <link rel="alternate" hreflang="ru-ru" href="https://blog.ergohaven.xyz/posts/layer_for_apps/" title="Russian" />
+  <link rel="alternate" hreflang="ru-ru" href="http://localhost:1313/posts/layer_for_apps/" title="Russian" />
 
-  <link rel="alternate" hreflang="en-gb" href="https://blog.ergohaven.xyz/en-gb/posts/layer_for_apps/" title="English" />
+  <link rel="alternate" hreflang="en-gb" href="http://localhost:1313/en-gb/posts/layer_for_apps/" title="English" />
 
 
 
@@ -33,7 +33,7 @@
     <meta property="og:type" content="article" />
     <meta property="og:article:published_time" content=2024-07-08T00:00:00Z />
     <meta property="article:published_time" content=2024-07-08T00:00:00Z />
-    <meta property="og:url" content="https://blog.ergohaven.xyz/en-gb/posts/layer_for_apps/" />
+    <meta property="og:url" content="http://localhost:1313/en-gb/posts/layer_for_apps/" />
 
     
     <meta property="og:article:author" content="" />
@@ -73,7 +73,7 @@
 <meta name="generator" content="Hugo 0.126.2">
 
     
-    <meta property="og:url" content="https://blog.ergohaven.xyz/en-gb/posts/layer_for_apps/">
+    <meta property="og:url" content="http://localhost:1313/en-gb/posts/layer_for_apps/">
   <meta property="og:site_name" content="Ergohaven&#39;s journey">
   <meta property="og:title" content="Layer for apps">
   <meta property="og:description" content="Introduction I’ve been using desktops in Windows for a long time, they’re very useful, I opened a work chat on one desktop, a browser on the second, an IDE on the third, etc., you can quickly switch without taking your hands off the keyboard.
@@ -96,7 +96,7 @@ At some point I had 6 active desktops, and to switch from 6 to 1 I had to press 
 
     
 
-    <link rel="canonical" href="https://blog.ergohaven.xyz/en-gb/posts/layer_for_apps/">
+    <link rel="canonical" href="http://localhost:1313/en-gb/posts/layer_for_apps/">
     <link href="/style.min.2d921c18cf1ec555ffc03d59a8adc211c402c68c930c27d6a0c306ab175a8d09.css" rel="stylesheet">
     <link href="/code-highlight.min.706d31975fec544a864cb7f0d847a73ea55ca1df91bf495fd12a177138d807cf.css" rel="stylesheet">
 
@@ -110,7 +110,7 @@ At some point I had 6 active desktops, and to switch from 6 to 1 I had to press 
 
 
 
-<link rel="manifest" href="https://blog.ergohaven.xyz/site.webmanifest">
+<link rel="manifest" href="http://localhost:1313/site.webmanifest">
 
 <meta name="msapplication-config" content="/browserconfig.xml">
 <meta name="msapplication-TileColor" content="#2d89ef">
@@ -121,18 +121,14 @@ At some point I had 6 active desktops, and to switch from 6 to 1 I had to press 
 
     
     
-  
-
-
-    
 </head>
 <body data-theme = "auto" class="notransition">
 
-<script src="/js/theme.min.8961c317c5b88b953fe27525839672c9343f1058ab044696ca225656c8ba2ab0.js" integrity="sha256-iWHDF8W4i5U/4nUlg5ZyyTQ/EFirBEaWyiJWVsi6KrA="></script>
+<script src="/js/theme.js"></script>
 
 <div class="navbar" role="navigation">
     <nav class="menu" aria-label="Main Navigation">
-        <a href="https://blog.ergohaven.xyz/en-gb/" class="logo">
+        <a href="http://localhost:1313/en-gb/" class="logo">
             <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" 
 viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" 
 stroke-linejoin="round" class="feather feather-home">
@@ -195,7 +191,7 @@ stroke-linejoin="round" class="feather feather-home">
                                     
                                         
                                         
-                                            <option id="ru-ru" value="https://blog.ergohaven.xyz/posts/layer_for_apps/">RU</option>
+                                            <option id="ru-ru" value="http://localhost:1313/posts/layer_for_apps/">RU</option>
                                         
                                     
                                 
@@ -209,7 +205,7 @@ stroke-linejoin="round" class="feather feather-home">
                                     
                                         
                                         
-                                            <option id="en-gb" value="https://blog.ergohaven.xyz/en-gb/posts/layer_for_apps/" selected>EN
+                                            <option id="en-gb" value="http://localhost:1313/en-gb/posts/layer_for_apps/" selected>EN
                                             </option>
                                         
                                     
@@ -250,7 +246,7 @@ stroke-linejoin="round" class="feather feather-home">
                 <h2 id="introduction">Introduction</h2>
 <p>I’ve been using desktops in Windows for a long time, they’re very useful, I opened a work chat on one desktop, a browser on the second, an IDE on the third, etc., you can quickly switch without taking your hands off the keyboard.</p>
 <p>At some point I had 6 active desktops, and to switch from 6 to 1 I had to press the hotkey 6 times&hellip; and then back another 6.. The thought arose, maybe there is some kind of hotkey to switch specifically to 6 table? But, unfortunately, there is no such thing in Windows itself, which is strange.</p>
-<p><img alt="image" src="/images/layer_for_apps/1.png"><br>
+<p><img src="/images/layer_for_apps/1.png" alt="image"><br>
 <em>Those same 6 desktops (ノಠ益ಠ)ノ彡┻━┻</em></p>
 <h2 id="its-too-long-too-lazy-to-read">It&rsquo;s too long; too lazy to read</h2>
 <ul>
@@ -260,12 +256,12 @@ stroke-linejoin="round" class="feather feather-home">
 </ul>
 <h2 id="the-beginning-of-a-long-journey">The beginning of a long journey</h2>
 <p>I found an open source alternative to desktops, the komorebi window manager, tinkered with the application for several days and it didn’t work. It seems to have everything I need, you can set up several tables, there are hotkeys for switching to each and many other interesting features inherent in window managers.</p>
-<p><img alt="image" src="/images/layer_for_apps/2.png"><br>
+<p><img src="/images/layer_for_apps/2.png" alt="image"><br>
 <em>This is the kind of beauty that komorebi allows you to create</em></p>
 <p>Didn&rsquo;t work because It seemed inconvenient to configure the tables, there we fill out a json file in which we write which application starts on which table, and this does not work if, for example, I need to open 2 separate profiles of the same browser on different tables, because they have the same .exe file, they start only with different arguments, but unfortunately there was no such tuning in komorebi. Yes, and I only need 6 hotkeys, and the window manager provides a ton of functionality that I don’t really need.</p>
 <h2 id="what-are-the-options-for-solving-the-problem">What are the options for solving the problem?</h2>
 <p>One day, while surfing YouTube, I came across a video with an interesting layout from Ben Vallack. I especially liked what I heard about combinations with the MEH button (Ctrl + Shift + Alt). It runs on MacOS, as far as I understand there is a Keyboard Maestro program, in it you can assign hotkeys to open any application, and not only.</p>
-<p><img alt="image" src="/images/layer_for_apps/3.png"><br>
+<p><img src="/images/layer_for_apps/3.png" alt="image"><br>
 <em>Keyboard Maestro has a ton of different configuration options for keyboard shortcuts</em></p>
 <p>If you think about it this way, then I don’t really need desktops, this option would also suit me perfectly, because&hellip; Essentially, I just keep 6 applications deployed to full screen on 6 different tables.</p>
 <p>Buying a Mac to solve such a problem would be a bit overkill, and in Windows there don’t seem to be any particular problems for me, so I started googling what options there are for implementing such functionality in Windows.</p>
@@ -273,17 +269,17 @@ stroke-linejoin="round" class="feather feather-home">
 <ol>
 <li>The simplest one and does not require any dancing with tambourines, as it turns out, is already built into Windows, you can pin the program to the taskbar at the bottom and call these programs with the combinations Win + 1-0 (the serial number of the program on the taskbar);</li>
 </ol>
-<p><img alt="image" src="/images/layer_for_apps/4.png"><br>
+<p><img src="/images/layer_for_apps/4.png" alt="image"><br>
 <em>Sleeping cat (and programs pinned to my taskbar)</em></p>
 <ol start="2">
 <li>You can also run scripts using the AutoHotkey program (hereinafter referred to as AHK), in general, this is a good option; in scripts you can make all sorts of logic, like if the application is open, we don’t launch it a second time, but just focus. The method involves immersing yourself in the AHK scripting language, which is a good option, but I decided to google it some more;</li>
 </ol>
-<p><img alt="image" src="/images/layer_for_apps/12.png"><br>
+<p><img src="/images/layer_for_apps/12.png" alt="image"><br>
 <em>Example script on AHK</em></p>
 <ol start="3">
 <li>PowerToys has a “Keyboard Manager” module, it does exactly what is required, using a combination you can open an application, open it with some arguments and other interesting things, which is exactly what I needed, and a couple of other PowerToys modules I&rsquo;m already in use.</li>
 </ol>
-<p><img alt="image" src="/images/layer_for_apps/5.png"><br>
+<p><img src="/images/layer_for_apps/5.png" alt="image"><br>
 <em>PowerToys Keyboard Manager Window</em></p>
 <h2 id="what-about-the-keyboard">What about the keyboard?</h2>
 <p>In Vial I decided to make a separate layer for this matter, which I switch to via OSL; it seemed most convenient to me here for several reasons:</p>
@@ -291,23 +287,23 @@ stroke-linejoin="round" class="feather feather-home">
 Unlike TG, OSL activates the layer only for one click and then automatically returns you to the previous layer, which is perfect for my use case, because I can’t imagine a case where I need to switch between applications twice in a row.
 </code></pre>
 <p>I placed the button to activate the layer with applications under my thumb, because I switch between applications very often.</p>
-<p><img alt="image" src="/images/layer_for_apps/6.png"><br>
+<p><img src="/images/layer_for_apps/6.png" alt="image"><br>
 <em>I couldn’t find a good use for OSL for a long time, but here it fits perfectly</em></p>
 <p>I assigned the functions LGUI(1) - LGUI(0) to the layer itself, to make it easier to remember where which applications were, and scattered hotkeys across the keyboard in such a way that a certain association was created in the head - in the place of the letter T - the hotkey for opening the cart, in the place of the letter W - hotkey for opening the working browser, in place of the letter S is obsidian, in which I take notes (assigned to S, not O because I wanted to place everything under my left hand, it’s convenient so as not to remove my right hand from the mouse/trackball, if someday I get my hands on an HPD with a trackball, and the mouse is no longer so needed, I will probably use the right half for applications).</p>
-<p><img alt="image" src="/images/layer_for_apps/7.png"></p>
+<p><img src="/images/layer_for_apps/7.png" alt="image"></p>
 <h2 id="lets-try-the-found-options">Let&rsquo;s try the found options</h2>
 <p>I decided to start with the easiest way to test it - pinning it to the taskbar. First impressions are great, this is exactly what I wanted to get in the end. Due to the fact that I arranged the buttons associatively, I got used to it quite quickly, I make much fewer mouse movements, and the problem that arose with switching from 1 desktop to 6 no longer appears.</p>
 <p>I liked the approach so much that the Windows keyboard shortcuts from 1 to 0 weren’t enough, I bound all the most used applications and it wasn’t enough.. Eh</p>
 <p>I went to try the second most accessible option for me - already installed PowerToys, in the keyboard manager I tried to reassign the keyboard shortcuts.</p>
-<p><img alt="image" src="/images/layer_for_apps/8.png"></p>
+<p><img src="/images/layer_for_apps/8.png" alt="image"></p>
 <p>There is a lot of customization for combinations, in my case I assigned the combination CTRL + ALT + SHIFT (the same MEH from qmk and vial) + A, selected the Action “Run a program” and selected the executable file of the application I needed, vial.</p>
 <p>With this approach, everything worked fine, but not with all programs; Steam, for example, for some reason did not work until I selected the option “If running” = “Run another” for it. These are apparently features of specific applications, but it’s worth taking them into account, and by the way, such things did not appear when launching applications from the taskbar, so perhaps it’s worth launching applications like Steam from the task bar.</p>
-<p><img alt="image" src="/images/layer_for_apps/9.png"><br>
+<p><img src="/images/layer_for_apps/9.png" alt="image"><br>
 <em>This is what a layer with bells and whistles from PowerToys looks like</em></p>
 <p>At this stage, the idea has already been implemented and functions the way I wanted, but I decided to try method 3, scripts with AHK.</p>
 <p>AutoHotKey</p>
 <p>This required more preliminary steps than in the previous two methods; I installed the AutoHotKey Dash program from the website, using which you can compile the .ahk script into a launchable file.</p>
-<p><img alt="image" src="/images/layer_for_apps/10.png"><br>
+<p><img src="/images/layer_for_apps/10.png" alt="image"><br>
 <em>Program window</em></p>
 <p>AHK scripts seem to have existed for a very long time, there is a lot of documentation and information on them on the forums. After searching for a while, I came across several examples of how you can implement opening an application using a keyboard shortcut.</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-md" data-lang="md"><span class="line"><span class="cl">{   
@@ -348,10 +344,10 @@ Results</p>
 <p>It is also worth noting that there is literally one situation in which I have not yet found a solution through AHK - how to open two different profiles of the same browser with two different keyboard shortcuts. They seem to have the same process running, and there is no profile name in the window title.. Here I will continue to use opening through the taskbar. And I will most likely give up using PowerToys in the end, because AHK allows you to do the same things, but with more fine-tuning.</p>
 <h2 id="ps">P.S.</h2>
 <p>If you try to create scripts in AHK, I strongly advise you to read the documentation; you can often find useful examples there. It was a little difficult for me to navigate it and find the specific functions I needed, but it helped that I noticed the sections on the left side of the screen. I found the Process and Window sections most useful for the task of launching applications; they have functions for searching for a running program by any parameters.</p>
-<p><img alt="image" src="/images/layer_for_apps/11.png"><br>
+<p><img src="/images/layer_for_apps/11.png" alt="image"><br>
 <em><a href="https://www.autohotkey.com/docs/v2/lib/ProcessExist.htm">https://www.autohotkey.com/docs/v2/lib/ProcessExist.htm</a></em></p>
 <p>Author: <a href="https://t.me/Wanyan1337">Ivan Seleznev</a><br>
-Discuss in our <a href="https://t.me/+E-mlq11c97AyZmY6">telegram group</a></p>
+Discuss in our <a href="https://t.me/&#43;E-mlq11c97AyZmY6">telegram group</a></p>
 
             </div>
         </article></main>
@@ -437,7 +433,7 @@ Discuss in our <a href="https://t.me/+E-mlq11c97AyZmY6">telegram group</a></p>
 
 
     
-    <script src="https://blog.ergohaven.xyz/js/main.min.35f435a5d8eac613c52daa28d8af544a4512337d3e95236e4a4978417b8dcb2f.js" integrity="sha256-NfQ1pdjqxhPFLaoo2K9USkUSM30&#43;lSNuSkl4QXuNyy8="></script>
+    <script async src="http://localhost:1313/js/main.js" ></script>
 
     
 
