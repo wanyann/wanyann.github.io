@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>K:02 on Ergohaven&#39;s journey</title>
-    <link>http://localhost:1313/tags/k02/</link>
+    <link>http://localhost:41099/tags/k02/</link>
     <description>Recent content in K:02 on Ergohaven&#39;s journey</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ru</language><atom:link href="http://localhost:1313/tags/k02/index.xml" rel="self" type="application/rss+xml" />
+    <language>ru</language><atom:link href="http://localhost:41099/tags/k02/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>K:02</title>
-      <link>http://localhost:1313/pages/docs/k02/</link>
+      <link>http://localhost:41099/pages/docs/k02/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pages/docs/k02/</guid>
+      <guid>http://localhost:41099/pages/docs/k02/</guid>
       
       <description>Подключение Перед подключением клавиатуры к компьютеру, убедитесь, что USB-C кабель, соединяющий обе половинки между собой, плотно подключен в разъёмы на двух половинках При подключении клавиатуры к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем Настройка клавиатуры Пожалуйста перейдите в статью о программе Vial
 Функция Caps Word Одновременное нажатие клавиш LShift и RShift активирует Caps Word. Эта функция позволяет набирать слова заглавными буквами, не используя клавишу Caps Lock. Caps Word автоматически отключается в конце слова</description>
