@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Ergohaven&#39;s journey</title>
+    <link>http://localhost:1313/en-gb/pages/</link>
+    <description>Recent content in Pages on Ergohaven&#39;s journey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 08 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en-gb/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Режим RuEn</title>
+      <link>http://localhost:1313/en-gb/pages/docs/ruen/</link>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en-gb/pages/docs/ruen/</guid>
+      
+      <description>Режим RuEn Этот режим предназначен для того, чтобы
+расположить знаки пунктуации в одних и тех же местах для русского и английского языка, вводить символы из английской раскладки при печати в русской, переключать раскладку на английскую или русскую отдельными клавишами. Это работает благодаря тому, что клавиатура помнит текущую раскладку, и при необходимости ввести символ, отсутствующий в русской раскладке, автоматически переключает раскладку, а после ввода символа возвращает раскладку обратно.
+Основное достоинство такого подхода заключается в том, что нет необходимости устанавливать в систему дополнительное ПО или нестандартные раскладки.</description>
+      
+    </item>
+    
+    <item>
+      <title>Documentation</title>
+      <link>http://localhost:1313/en-gb/pages/docs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en-gb/pages/docs/</guid>
+      
+      <description>Hardware K:03 High Plains Drifter Imperial44 K:03 PRO K:02 M4CR0Pad Planeta Trackball Mini Velvet Software Vial RuEn mode </description>
+      
+    </item>
+    
+    <item>
+      <title>Frequently asked questions</title>
+      <link>http://localhost:1313/en-gb/pages/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en-gb/pages/faq/</guid>
+      
+      <description>I&amp;rsquo;m a beginner, what&amp;rsquo;s the best keyboard for me to start with? We recommend starting with 60% layout: K:03, HPD, Planeta.
+You have different switches and keycaps to choose from, which is the best one for me to choose? The most common option is Brown switches (tactile) and XDA keycaps.
+I need a low profile keyboard, do you have one? You can choose all of our keyboards with mid-profile switches and low-profile keycaps, the mid-profile switches are slightly taller than the low-profile ones, but still have a standard MX connector, making them interchangeable with standard switches, and you most likely won&amp;rsquo;t notice the difference in height.</description>
+      
+    </item>
+    
+    <item>
+      <title>High Plains Drifter</title>
+      <link>http://localhost:1313/en-gb/pages/docs/hpd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en-gb/pages/docs/hpd/</guid>
+      
+      <description>Connection Before connecting the keyboard to the computer, make sure that the USB-C cable is firmly connected to the connectors on both halves When connecting the keyboard to the computer, make sure the USB-C cable is firmly inserted into the connector Customizing keyboard Please refer to the Vial guide
+Caps Word function Press LShift and RShift simultaneously to activate Caps Word. This function allows you to type entire words in uppercase letters without holding down the Caps Lock key.</description>
+      
+    </item>
+    
+    <item>
+      <title>Imperial44</title>
+      <link>http://localhost:1313/en-gb/pages/docs/imperial44/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en-gb/pages/docs/imperial44/</guid>
+      
+      <description>Connection Before connecting the keyboard to the computer, make sure that the USB-C cable is firmly connected to the connectors on both halves When connecting the keyboard to the computer, make sure the USB-C cable is firmly inserted into the connector Customizing keyboard Please refer to the Vial guide
+Caps Word function Press LShift and RShift simultaneously to activate Caps Word. This function allows you to type entire words in uppercase letters without holding down the Caps Lock key.</description>
+      
+    </item>
+    
+    <item>
+      <title>K:02</title>
+      <link>http://localhost:1313/en-gb/pages/docs/k02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en-gb/pages/docs/k02/</guid>
+      
+      <description>Connection Before connecting the keyboard to the computer, make sure that the USB-C cable is firmly connected to the connectors on both halves When connecting the keyboard to the computer, make sure the USB-C cable is firmly inserted into the connector Customizing keyboard Please refer to the Vial guide
+Caps Word function Press LShift and RShift simultaneously to activate Caps Word. This function allows you to type entire words in uppercase letters without holding down the Caps Lock key.</description>
+      
+    </item>
+    
+    <item>
+      <title>K:03</title>
+      <link>http://localhost:1313/en-gb/pages/docs/k03/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en-gb/pages/docs/k03/</guid>
+      
+      <description>Connection Before connecting the keyboard to the computer, make sure that the USB-C cable is firmly connected to the connectors on both halves When connecting the keyboard to the computer, make sure the USB-C cable is firmly inserted into the connector Customizing keyboard Please refer to the Vial guide
+Caps Word function Press LShift and RShift simultaneously to activate Caps Word. This function allows you to type entire words in uppercase letters without holding down the Caps Lock key.</description>
+      
+    </item>
+    
+    <item>
+      <title>K:03 PRO</title>
+      <link>http://localhost:1313/en-gb/pages/docs/k03pro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en-gb/pages/docs/k03pro/</guid>
+      
+      <description>Connection Before connecting the keyboard to the computer, make sure that the USB-C cable is firmly connected to the connectors on both halves When connecting the keyboard to the computer, make sure the USB-C cable is firmly inserted into the connector Customizing keyboard Please refer to the Vial guide
+Caps Word function Press LShift and RShift simultaneously to activate Caps Word. This function allows you to type entire words in uppercase letters without holding down the Caps Lock key.</description>
+      
+    </item>
+    
+    <item>
+      <title>M4CR0Pad - документация</title>
+      <link>http://localhost:1313/en-gb/pages/docs/macropad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en-gb/pages/docs/macropad/</guid>
+      
+      <description>
+Connection When connecting the macropad to the computer, make sure the USB-C cable is firmly inserted into the connector Customizing device Please refer to the Vial guide
+Firmware update via bootmagic Preparation Download the latest firmware here Save your layout in the Vial program by clicking on the &amp;ldquo;File&amp;rdquo; menu, then &amp;ldquo;Save current layout&amp;rdquo; Installation *Press the top left key and connect USB
+Wait until the controller enters bootloader mode and the storage folder opens Copy or drag the Uf2 file, after which the controller should instantly reboot and start working as normal Import the layout into the Vial program by clicking on the &amp;ldquo;File&amp;rdquo; menu, then &amp;ldquo;Load saved layout&amp;rdquo; </description>
+      
+    </item>
+    
+    <item>
+      <title>Planeta</title>
+      <link>http://localhost:1313/en-gb/pages/docs/planeta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en-gb/pages/docs/planeta/</guid>
+      
+      <description>Connection When connecting the keyboard to the computer, make sure the USB-C cable is firmly inserted into the connector Customizing keyboard Please refer to the Vial guide
+Функция Caps Word Одновременное нажатие клавиш LShift и RShift активирует Caps Word. Эта функция позволяет набирать слова заглавными буквами, не используя клавишу Caps Lock. Caps Word автоматически отключается в конце слова
+Переключение Win/Mac режимов Для переключения необходимо нажать клавишу Замена Ctrl-Cmd для MacOS на третьем слое</description>
+      
+    </item>
+    
+    <item>
+      <title>Trackball Mini - документация</title>
+      <link>http://localhost:1313/en-gb/pages/docs/tb-mini/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en-gb/pages/docs/tb-mini/</guid>
+      
+      <description>
+Connection When connecting the keyboard to the computer, make sure the USB-C cable is firmly inserted into the connector Customizing device Please refer to the Vial guide
+Обновление прошивки через bootmagic Подготовка: Скачайте последнюю версию прошивки здесь Сохраните Вашу раскладку в программе Vial, нажав на меню &amp;ldquo;File&amp;rdquo;, дальше &amp;ldquo;Save current layout&amp;rdquo; Установка Нажмите верхнюю левую клавишу и подключите USB Дождитесь когда контроллер перейдёт в режим загрузчика и откроется папка-хранилище Скопируйте или перетащите Uf2 файл, после чего контроллер должен моментально перезагрузиться и начать работать в обычном режиме Импортируйте в программу Vial раскладку, нажав на меню &amp;ldquo;File&amp;rdquo;, дальше &amp;ldquo;Load saved layout&amp;rdquo; </description>
+      
+    </item>
+    
+    <item>
+      <title>Velvet</title>
+      <link>http://localhost:1313/en-gb/pages/docs/velvet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en-gb/pages/docs/velvet/</guid>
+      
+      <description>Connection Before connecting the keyboard to the computer, make sure that the USB-C cable is firmly connected to the connectors on both halves When connecting the keyboard to the computer, make sure the USB-C cable is firmly inserted into the connector Customizing keyboard Please refer to the Vial guide
+Функция Caps Word Одновременное нажатие клавиш LShift и RShift активирует Caps Word. Эта функция позволяет набирать слова заглавными буквами, не используя клавишу Caps Lock.</description>
+      
+    </item>
+    
+    <item>
+      <title>Всё о программе Vial</title>
+      <link>http://localhost:1313/en-gb/pages/docs/vial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en-gb/pages/docs/vial/</guid>
+      
+      <description>Vial — это кроссплатформенный графический интерфейс с открытым исходным кодом и форк QMK для настройки клавиатуры в режиме реального времени.
+Программа позволяет настроить клавиатуру с помощью простого и интуитивно понятного интерфейса без каких-либо знаний о программировании.
+Первое использование Скачайте и установите последнюю версию программы или используйте веб-версию Подключите клавиатуру и она будет автоматически обнаружена Разблокируйте клавиатуру, кликнув на меню Security, а затем Unlock, и следуйте инструкции, которая будет отображена на экране Измените любую клавишу, которую вы хотите, и она будет мгновенно переназначена, настройте различные параметры по своему вкусу Сохраните раскладку, нажав File &amp;gt; Save current layout (опционально) Давайте теперь проверим, что делают основные вкладки</description>
+      
+    </item>
+    
+  </channel>
+</rss>

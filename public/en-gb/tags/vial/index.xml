@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vial on Ergohaven&#39;s journey</title>
+    <link>http://localhost:1313/en-gb/tags/vial/</link>
+    <description>Recent content in Vial on Ergohaven&#39;s journey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 08 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en-gb/tags/vial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Режим RuEn</title>
+      <link>http://localhost:1313/en-gb/pages/docs/ruen/</link>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en-gb/pages/docs/ruen/</guid>
+      
+      <description>Режим RuEn Этот режим предназначен для того, чтобы
+расположить знаки пунктуации в одних и тех же местах для русского и английского языка, вводить символы из английской раскладки при печати в русской, переключать раскладку на английскую или русскую отдельными клавишами. Это работает благодаря тому, что клавиатура помнит текущую раскладку, и при необходимости ввести символ, отсутствующий в русской раскладке, автоматически переключает раскладку, а после ввода символа возвращает раскладку обратно.
+Основное достоинство такого подхода заключается в том, что нет необходимости устанавливать в систему дополнительное ПО или нестандартные раскладки.</description>
+      
+    </item>
+    
+    <item>
+      <title>Trackball mini guide</title>
+      <link>http://localhost:1313/en-gb/posts/trackball_mini/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en-gb/posts/trackball_mini/</guid>
+      
+      <description>Preface The trackball itself, although it performs the same function of cursor control as a mouse, but the experience of using these two devices is completely different, and they are suitable for completely different tasks
+Ergohaven Trackball Mini
+The main advantages of a trackball over a mouse compactness - it will take up much less space on the table than a mouse, and even more so, such a small one, which was developed by the Ergohaven team; ergonomics - the position of the hand while spinning the ball, there is less strain on the wrist, and in general the control itself with the fingers seems more natural than the way we work with the mouse; The only downside I can note is that it is more difficult to accurately move the trackball over a long distance; in this case, I most often spin the ball with force, sending it floating freely, and here the predictability of where the cursor will stop is poor, so I have to move the cursor further.</description>
+      
+    </item>
+    
+    <item>
+      <title>Layer for apps</title>
+      <link>http://localhost:1313/en-gb/posts/layer_for_apps/</link>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en-gb/posts/layer_for_apps/</guid>
+      
+      <description>Introduction I’ve been using desktops in Windows for a long time, they’re very useful, I opened a work chat on one desktop, a browser on the second, an IDE on the third, etc., you can quickly switch without taking your hands off the keyboard.
+At some point I had 6 active desktops, and to switch from 6 to 1 I had to press the hotkey 6 times&amp;hellip; and then back another 6.</description>
+      
+    </item>
+    
+    <item>
+      <title>Всё о программе Vial</title>
+      <link>http://localhost:1313/en-gb/pages/docs/vial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en-gb/pages/docs/vial/</guid>
+      
+      <description>Vial — это кроссплатформенный графический интерфейс с открытым исходным кодом и форк QMK для настройки клавиатуры в режиме реального времени.
+Программа позволяет настроить клавиатуру с помощью простого и интуитивно понятного интерфейса без каких-либо знаний о программировании.
+Первое использование Скачайте и установите последнюю версию программы или используйте веб-версию Подключите клавиатуру и она будет автоматически обнаружена Разблокируйте клавиатуру, кликнув на меню Security, а затем Unlock, и следуйте инструкции, которая будет отображена на экране Измените любую клавишу, которую вы хотите, и она будет мгновенно переназначена, настройте различные параметры по своему вкусу Сохраните раскладку, нажав File &amp;gt; Save current layout (опционально) Давайте теперь проверим, что делают основные вкладки</description>
+      
+    </item>
+    
+  </channel>
+</rss>

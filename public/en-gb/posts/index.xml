@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Ergohaven&#39;s journey</title>
+    <link>http://localhost:1313/en-gb/posts/</link>
+    <description>Recent content in Blog on Ergohaven&#39;s journey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 05 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en-gb/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trackball mini guide</title>
+      <link>http://localhost:1313/en-gb/posts/trackball_mini/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en-gb/posts/trackball_mini/</guid>
+      
+      <description>Preface The trackball itself, although it performs the same function of cursor control as a mouse, but the experience of using these two devices is completely different, and they are suitable for completely different tasks
+Ergohaven Trackball Mini
+The main advantages of a trackball over a mouse compactness - it will take up much less space on the table than a mouse, and even more so, such a small one, which was developed by the Ergohaven team; ergonomics - the position of the hand while spinning the ball, there is less strain on the wrist, and in general the control itself with the fingers seems more natural than the way we work with the mouse; The only downside I can note is that it is more difficult to accurately move the trackball over a long distance; in this case, I most often spin the ball with force, sending it floating freely, and here the predictability of where the cursor will stop is poor, so I have to move the cursor further.</description>
+      
+    </item>
+    
+    <item>
+      <title>Layer for apps</title>
+      <link>http://localhost:1313/en-gb/posts/layer_for_apps/</link>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en-gb/posts/layer_for_apps/</guid>
+      
+      <description>Introduction I’ve been using desktops in Windows for a long time, they’re very useful, I opened a work chat on one desktop, a browser on the second, an IDE on the third, etc., you can quickly switch without taking your hands off the keyboard.
+At some point I had 6 active desktops, and to switch from 6 to 1 I had to press the hotkey 6 times&amp;hellip; and then back another 6.</description>
+      
+    </item>
+    
+    <item>
+      <title>What are switches and how to choose them correctly</title>
+      <link>http://localhost:1313/en-gb/posts/switches_guide/</link>
+      <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en-gb/posts/switches_guide/</guid>
+      
+      <description>Introduction In this article I will describe general information about what switches are and will try to simplify the pain of choosing which to buy
+First of all, what is it even, what does it look like? Switches are the mechanisms of each key on the keyboard; in the photo below they are highlighted with a red frame.
+Switches are a key component of the keyboard, and their selection determines how the keys feel when pressed.</description>
+      
+    </item>
+    
+    <item>
+      <title>How to learn to touch typing</title>
+      <link>http://localhost:1313/en-gb/posts/touchtyping/</link>
+      <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en-gb/posts/touchtyping/</guid>
+      
+      <description>Intro It&amp;rsquo;s no secret that our store sells keycaps without symbols, some customers are stunned and decide to get the standard keycaps with symbols elsewhere.
+In this article, you will find out what is touch typing and why you should consider to switch to blank keycaps.
+What is touch typing? Description from Wikipedia:
+Touch typing (also called blind typing, or touch keyboarding) is a style of typing. Although the phrase refers to typing without using the sense of sight to find the keys—specifically, a touch typist will know their location on the keyboard through muscle memory—the term is often used to refer to a specific form of touch typing that involves placing the eight fingers in a horizontal row along the middle of the keyboard (the home row) and having them reach for specific other keys.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
