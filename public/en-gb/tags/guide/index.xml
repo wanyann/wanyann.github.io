@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guide on Ergohaven&#39;s journey</title>
-    <link>http://localhost:41099/en-gb/tags/guide/</link>
+    <link>http://localhost:1313/en-gb/tags/guide/</link>
     <description>Recent content in Guide on Ergohaven&#39;s journey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:41099/en-gb/tags/guide/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en-gb/tags/guide/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What are switches and how to choose them correctly</title>
-      <link>http://localhost:41099/en-gb/posts/switches_guide/</link>
+      <link>http://localhost:1313/en-gb/posts/switches_guide/</link>
       <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:41099/en-gb/posts/switches_guide/</guid>
+      <guid>http://localhost:1313/en-gb/posts/switches_guide/</guid>
       
       <description>Introduction In this article I will describe general information about what switches are and will try to simplify the pain of choosing which to buy
 First of all, what is it even, what does it look like? Switches are the mechanisms of each key on the keyboard; in the photo below they are highlighted with a red frame.
@@ -22,10 +22,10 @@ Switches are a key component of the keyboard, and their selection determines how
     
     <item>
       <title>How to learn to touch typing</title>
-      <link>http://localhost:41099/en-gb/posts/touchtyping/</link>
+      <link>http://localhost:1313/en-gb/posts/touchtyping/</link>
       <pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:41099/en-gb/posts/touchtyping/</guid>
+      <guid>http://localhost:1313/en-gb/posts/touchtyping/</guid>
       
       <description>Intro It&amp;rsquo;s no secret that our store sells keycaps without symbols, some customers are stunned and decide to get the standard keycaps with symbols elsewhere.
 In this article, you will find out what is touch typing and why you should consider to switch to blank keycaps.
@@ -36,10 +36,10 @@ Touch typing (also called blind typing, or touch keyboarding) is a style of typi
     
     <item>
       <title>All about Vial</title>
-      <link>http://localhost:41099/en-gb/pages/docs/vial/</link>
+      <link>http://localhost:1313/en-gb/pages/docs/vial/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:41099/en-gb/pages/docs/vial/</guid>
+      <guid>http://localhost:1313/en-gb/pages/docs/vial/</guid>
       
       <description>Vial is an open-source cross-platform GUI and a QMK fork for configuring your keyboard in real time.
 The program let&amp;rsquo;s you customize your keyboard with an easy and intuitive interface without any knowledge about programming.
@@ -49,10 +49,10 @@ First use Download and install the latest version of the program or use the web 
     
     <item>
       <title>RuEn mode</title>
-      <link>http://localhost:41099/en-gb/pages/docs/ruen/</link>
+      <link>http://localhost:1313/en-gb/pages/docs/ruen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:41099/en-gb/pages/docs/ruen/</guid>
+      <guid>http://localhost:1313/en-gb/pages/docs/ruen/</guid>
       
       <description>RuEn mode This mode is designed to
 place punctuation marks in the same places for Russian and English languages, enter characters from the English layout when printing in Russian, switch the layout to English or Russian using separate keys. This works due to the fact that the keyboard remembers the current layout, and if you need to enter a character that is not in the Russian layout, it automatically switches the layout, and after entering the character, it returns the layout back.</description>

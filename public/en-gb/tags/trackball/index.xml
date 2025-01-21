@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trackball on Ergohaven&#39;s journey</title>
-    <link>http://localhost:41099/en-gb/tags/trackball/</link>
+    <link>http://localhost:1313/en-gb/tags/trackball/</link>
     <description>Recent content in Trackball on Ergohaven&#39;s journey</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://localhost:41099/en-gb/tags/trackball/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="http://localhost:1313/en-gb/tags/trackball/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Trackball Mini</title>
-      <link>http://localhost:41099/en-gb/pages/docs/tb-mini/</link>
+      <link>http://localhost:1313/en-gb/pages/docs/tb-mini/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:41099/en-gb/pages/docs/tb-mini/</guid>
+      <guid>http://localhost:1313/en-gb/pages/docs/tb-mini/</guid>
       
       <description>
 Connection When connecting the keyboard to the computer, make sure the USB-C cable is firmly inserted into the connector Customizing device Please refer to the Vial guide

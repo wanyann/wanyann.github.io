@@ -148,13 +148,13 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
   [[Languages.ru-ru.menu.main]]
     pageRef="docs"
     name = 'Документация'
-    url = '/pages/docs/'
+    url = 'docs'
     weight = 30
      
   [[Languages.ru-ru.menu.main]]
     pageRef="faq"
     name = 'FAQ'
-    url = '/pages/faq/'
+    url = 'faq'
     weight = 40
 
 [Languages.ru-ru.params]
