@@ -420,5 +420,19 @@
                 hreflang="ru"
                 href="http://localhost:1313/pages/faq/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/pages/firmware/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en-gb/pages/firmware/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/pages/firmware/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pages/layouts_ru/</loc>
   </url>
 </urlset>

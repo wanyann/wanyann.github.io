@@ -167,6 +167,18 @@
                 href="http://localhost:1313/en-gb/pages/docs/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en-gb/pages/firmware/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/pages/firmware/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en-gb/pages/firmware/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en-gb/pages/faq/</loc>
     <xhtml:link
                 rel="alternate"
@@ -418,5 +430,7 @@
                 hreflang="en"
                 href="http://localhost:1313/en-gb/pages/docs/velvet/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/en-gb/pages/layouts/</loc>
   </url>
 </urlset>
