@@ -1,5 +1,5 @@
 title = "Ergohaven's journey"
-baseURL = 'https://ergohaven.github.io/'
+baseURL = 'https://journey.ergohaven.xyz'
 
 # This is what goes in <html lang="">
 languageCode = 'en-us'

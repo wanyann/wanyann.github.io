@@ -311,6 +311,8 @@
                 href="http://localhost:1313/en-gb/pages/docs/k03pro/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en-gb/pages/layouts/</loc>
+  </url><url>
     <loc>http://localhost:1313/en-gb/pages/docs/macropad/</loc>
     <xhtml:link
                 rel="alternate"
@@ -430,7 +432,5 @@
                 hreflang="en"
                 href="http://localhost:1313/en-gb/pages/docs/velvet/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/en-gb/pages/layouts/</loc>
   </url>
 </urlset>
