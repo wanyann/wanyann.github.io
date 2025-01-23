@@ -92,6 +92,12 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
     url = '/pages/firmware'
     weight = 50
 
+  [[Languages.en-gb.menu.main]]
+    pageRef="shop"
+    name = 'Shop'
+    url = 'https://ergohaven.xyz/shop'
+    weight = 60
+
 [Languages.en-gb.params]
   sitename = "Ergohaven's journey"
   defaultColor = "auto" # set color mode: dark, light, auto
@@ -168,6 +174,12 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
     name = 'Прошивка и раскладки'
     url = '/pages/firmware'
     weight = 50
+
+  [[Languages.ru-ru.menu.main]]
+    pageRef="shop"
+    name = 'Магазин'
+    url = 'https://ru.ergohaven.xyz/shop'
+    weight = 60
 
 [Languages.ru-ru.params]
   sitename = "Ergohaven's journey"
