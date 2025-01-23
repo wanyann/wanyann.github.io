@@ -1,10 +1,10 @@
 ---
-title: "High Plains Drifter"
+title: "High Plains Drifter v2"
 tags: ["docs", "hpd"]
 toc: true
 ---
 
-![image](/images/keyboards/hpd.jpg)  
+![image](/images/keyboards/hpd.png)  
 
 ## Connection
 - Before connecting the keyboard to the computer, make sure that the USB-C cable is firmly connected to the connectors on both halves

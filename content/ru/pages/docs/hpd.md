@@ -1,9 +1,9 @@
 ---
-title: "High Plains Drifter"
+title: "High Plains Drifter v2"
 tags: ["docs", "hpd"]
 ---
 
-![image](/images/keyboards/hpd.jpg)  
+![image](/images/keyboards/hpd.png)  
 
 ## Подключение
 - Перед подключением клавиатуры к компьютеру, убедитесь, что USB-C кабель, соединяющий обе половинки между собой, плотно подключен в разъёмы на двух половинках
