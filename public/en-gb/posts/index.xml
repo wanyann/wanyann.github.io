@@ -6,7 +6,20 @@
     <description>Recent content in Blog on Ergohaven&#39;s journey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en-gb/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Jan 2025 16:51:45 +0300</lastBuildDate><atom:link href="http://localhost:1313/en-gb/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World!</title>
+      <link>http://localhost:1313/en-gb/posts/hello-world/</link>
+      <pubDate>Fri, 24 Jan 2025 16:51:45 +0300</pubDate>
+      
+      <guid>http://localhost:1313/en-gb/posts/hello-world/</guid>
+      
+      <description>New Year - new beginning We are glad to welcome you to our new platform - Ergohaven&amp;rsquo;s Journey.
+Here you will find our blog, documentation, answers to frequently asked questions, as well as firmware and layouts for our keyboards.
+Last year, it was decided to create a simple and convenient knowledge base specifically for our users, which will help in their * travel * in the world of ergonomic keyboards. We also decided to transfer a blog here due to ease of use when creating new article, and the most interesting thing is that this platform is completely open and placed on our Hithabe.</description>
+      
+    </item>
+    
     <item>
       <title>Trackball mini guide</title>
       <link>http://localhost:1313/en-gb/posts/trackball_mini/</link>
