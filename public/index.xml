@@ -6,7 +6,20 @@
     <description>Recent content in Домашняя on Ergohaven&#39;s journey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 08 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Jan 2025 16:51:45 +0300</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World!</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Fri, 24 Jan 2025 16:51:45 +0300</pubDate>
+      
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      
+      <description>Новый год - новое начало Рады приветствовать Вас на нашей новой платформе - Ergohaven&amp;rsquo;s journey.
+Здесь Вы найдёте наш блог, документацию, ответы на часто задаваемые вопросы, а также прошивку и раскладки для наших клавиатур.
+Ещё в прошлом году было принято решение создать простую и удобную базу знаний специально для наших пользователей, которая поможет в их путешествии в мир эргономичных клавиатур. Также мы решили перенести сюда блог из-за удобства в использовании при создании новых статьей, а самое интересное, что данная платформа полностью открытая и размещена на нашем гитхабе.</description>
+      
+    </item>
+    
     <item>
       <title>Режим RuEn</title>
       <link>http://localhost:1313/pages/docs/ruen/</link>

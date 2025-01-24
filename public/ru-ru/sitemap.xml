@@ -2,6 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/hello-world/</loc>
+    <lastmod>2025-01-24T16:51:45+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-01-24T16:51:45+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en-gb/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/"
+                />
+  </url><url>
     <loc>http://localhost:1313/tags/guide/</loc>
     <lastmod>2025-01-08T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -52,19 +68,6 @@
                 rel="alternate"
                 hreflang="ru"
                 href="http://localhost:1313/tags/vial/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-01-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en-gb/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="http://localhost:1313/"
                 />
   </url><url>
     <loc>http://localhost:1313/pages/docs/ruen/</loc>
