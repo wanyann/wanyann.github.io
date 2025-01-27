@@ -32,5 +32,5 @@ To switch the mode, you must press the **Replacement Ctrl-Cmd for MacOS** key on
 - Import the layout into the Vial program by clicking on the **File** menu, then **Load saved layout**  
   
 **Right half:**
-- Hold the top right key on the right half and connect the USB cable to the right half
+- Hold the top right key (HPD v2) or the top left key (HPD v1) on the right half and connect the USB cable to the right half
 - Repeat the remaining steps as for the left half

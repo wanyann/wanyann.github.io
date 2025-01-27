@@ -12,6 +12,6 @@ We also decided to transfer a blog here due to ease of use when creating new art
 This means that now anyone can make editing in the documentation, help in filling the FAQ or even offer their article on the blog. But this is not all: in the future we consider the opportunity to arrange competitions for the best article of the month with interesting prizes and it is very important for us to know your opinion about this, so be sure to write to our telegram group, what you think about all this.
 
 ## Why did you decide to create a new platform?
-In general, our site is on the constructor and work with the text is inconvenient, so the articles and filling out the documentation were reluctant and all the formatting of the text had to be done manually. On the new platform, everything is done through Markdown and you do not need to mess with the markings and design of each page, now we can focus on the content, however, now you, too, if you want :)
+In general, our site is on the constructor and working with the text is inconvenient and all the formatting of the text had to be done manually. On the new platform, everything is done through Markdown and you do not need to mess with the markings and design of each page, now we can focus on the content, however, now you, too, if you want :)
 
 Discussion in our [telegram group] (https://t.me/+e-mlq11c97ayzmy6)
