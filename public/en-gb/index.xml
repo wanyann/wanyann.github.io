@@ -97,6 +97,17 @@ First use Download and install the latest version of the program or use the web 
     </item>
     
     <item>
+      <title>Ergohaven&#39;s timeline</title>
+      <link>http://localhost:1313/en-gb/pages/roadmap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en-gb/pages/roadmap/</guid>
+      
+      <description>2025 S01 S02 S03 HPD v2 ✔️ New switches Imperial44 v3 ✔️ New keycaps HPD v2 Open Source Project &amp;ldquo;Sprawl&amp;rdquo; K:03 PRO v2 Expo Deskmats Velvet v3 Wireless edition Project &amp;ldquo;op36&amp;rdquo; Noise insulation Handrests for UTS New modules for HPD Planeta v3 Project &amp;ldquo;Gamer&amp;rdquo; Imperial44 Spaceship edition K:03 Wireless edition Imperial44 Wireless edition New package Disclaimer: All information on this page has not been finalized and is for reference only. Changes and additions are made on an ongoing basis.</description>
+      
+    </item>
+    
+    <item>
       <title>Firmware</title>
       <link>http://localhost:1313/en-gb/pages/firmware/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -238,7 +249,7 @@ place punctuation marks in the same places for Russian and English languages, en
       
       <description>
 Connection When connecting the keyboard to the computer, make sure the USB-C cable is firmly inserted into the connector Customizing device Please refer to the Vial guide
-Firmware update Preparation Download the latest firmware here Save your layout in the Vial program by clicking on the &amp;ldquo;File&amp;rdquo; menu, then &amp;ldquo;Save current layout&amp;rdquo; Installation Press the top left key and connect USB Wait until the controller enters bootloader mode and the storage folder opens Copy or drag the Uf2 file, after which the controller should instantly reboot and start working as normal Import the layout into the Vial program by clicking on the &amp;ldquo;File&amp;rdquo; menu, then &amp;ldquo;Load saved layout&amp;rdquo; </description>
+Firmware update Preparation Download the latest firmware here Save your layout in the Vial program by clicking on the &amp;ldquo;File&amp;rdquo; menu, then &amp;ldquo;Save current layout&amp;rdquo; Installation Connect Trackball Mini to PC Press the right button on the back of the case twice quickly (red button in the photo) Wait until the controller enters bootloader mode and the storage folder opens Copy or drag the Uf2 file, after which the controller should instantly reboot and start working as normal Import the layout into the Vial program by clicking on the &amp;ldquo;File&amp;rdquo; menu, then &amp;ldquo;Load saved layout&amp;rdquo; </description>
       
     </item>
     
