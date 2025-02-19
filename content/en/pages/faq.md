@@ -25,6 +25,5 @@ Detailed information on setting up keyboard is in [documentation](docs).
 ## Can you make me a custom keyboard in a different color, different shape, etc.
 No, we do not deal with such orders.
 
-
 ## Which countries do you ship?
 We ship mostly worldwide. More information about shipping you can find [here](https://ergohaven.xyz/shipping).
