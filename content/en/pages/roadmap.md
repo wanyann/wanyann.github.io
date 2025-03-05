@@ -9,8 +9,8 @@ toc: false
 | ---------------------------- | ---------------------------- | ---------------------- |
 | HPD v2 ✔️                    | New switches                 |                        |
 | Imperial44 v3 ✔️             | New keycaps                  |                        |
-| HPD v2 Open Source           | Project "Sprawl"             |                        |
-| K:03 PRO v2                  | Expo                         |                        |
+| HPD v2 Open Source ✔️        | Project "Sprawl"             |                        |
+| K:03 PRO v2 ✔️               | Expo                         |                        |
 | Deskmats                     | Project "Gamer"              |                        |
 | Velvet v3 Wireless edition   | Imperial44 Spaceship edition |                        |
 | Project "op36"               | Planeta v3                   |                        |
