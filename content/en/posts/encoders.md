@@ -80,7 +80,7 @@ Depending on the OS and browser, the hotkey may vary, I use LCS(KC_LBRC) and LCS
 
 ![image](/images/encoders/12.png)
 
-### 7) Timer
+#### 7) Timer
 With the help of an encoder, I've made for myself a certain analog of a physical Pomodoro-timer. Here you can't do without third-party applications, on MacOS the Onigiri Timer is used.
 Macro, which opens the application with a timer, and activates the 11th layer on the keyboard, to press the encoder, in the main layer. On the 11th layer, the arrows to the left and right are assigned to the rotation of the encoder, so when the encoder is scrolled, the duration of the installed timer is adjusted. With clicks of an encoder, adjusting the timer time is very pleasant! When the time is displayed, I put it back on the encoder, it turns off the 11th layer and hits enter to run the timer.
 
