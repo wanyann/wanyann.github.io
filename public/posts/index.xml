@@ -8,6 +8,19 @@
     <language>ru</language>
     <lastBuildDate>Thu, 20 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Руководство по энкодерам</title>
+      <link>http://localhost:1313/posts/encoders/</link>
+      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/encoders/</guid>
+      
+      <description>Для начала немного общей информации о том что такое энкодеры.
+Основной принцип их работы состоит в том, что когда пользователь крутит ручку энкодера, на каждые n градусов поворота отправляется нажатие определенной клавиши.
+Это полезно в сценариях когда требуется многократно нажимать одну и ту же клавишу, например, мы можем назначить на энкодер функцию регулирования громкости, и т.к. крутить энкодер можно в два направления: по часовой, и против часовой - мы можем назначить на одно направление увеличение громкости звука, а на другое уменьшение.</description>
+      
+    </item>
+    
+    <item>
       <title>Hello World!</title>
       <link>http://localhost:1313/posts/hello-world/</link>
       <pubDate>Fri, 24 Jan 2025 16:51:45 +0300</pubDate>

@@ -6,7 +6,20 @@
     <description>Recent content in Guide on Ergohaven&#39;s journey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en-gb/tags/guide/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en-gb/tags/guide/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Encoder guide</title>
+      <link>http://localhost:1313/en-gb/posts/encoders/</link>
+      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en-gb/posts/encoders/</guid>
+      
+      <description>First, a little general information about what encoders are.
+The basic principle of their work is that when the user turns the handle of the encoder, a certain key is sent for every n degrees of rotation.
+This is useful in scenarios where you need to press the same key repeatedly, for example, we can assign the volume control function to the encoder, etc. You can turn the encoder in two directions: clockwise and counterclockwise - we can assign an increase in sound volume in one direction, and a decrease in another.</description>
+      
+    </item>
+    
     <item>
       <title>What are switches and how to choose them correctly</title>
       <link>http://localhost:1313/en-gb/posts/switches_guide/</link>

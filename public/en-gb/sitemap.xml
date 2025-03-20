@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/en-gb/posts/</loc>
-    <lastmod>2025-01-24T16:51:45+03:00</lastmod>
+    <lastmod>2025-03-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -13,6 +13,58 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/en-gb/posts/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en-gb/posts/encoders/</loc>
+    <lastmod>2025-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/posts/encoders/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en-gb/posts/encoders/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en-gb/tags/guide/</loc>
+    <lastmod>2025-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/tags/guide/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en-gb/tags/guide/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en-gb/</loc>
+    <lastmod>2025-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en-gb/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en-gb/tags/</loc>
+    <lastmod>2025-03-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en-gb/tags/"
                 />
   </url><url>
     <loc>http://localhost:1313/en-gb/posts/hello-world/</loc>
@@ -26,32 +78,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/en-gb/posts/hello-world/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en-gb/</loc>
-    <lastmod>2025-01-24T16:51:45+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="http://localhost:1313/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en-gb/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en-gb/tags/</loc>
-    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="http://localhost:1313/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en-gb/tags/"
                 />
   </url><url>
     <loc>http://localhost:1313/en-gb/posts/trackball_mini/</loc>
@@ -91,19 +117,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/en-gb/posts/layer_for_apps/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en-gb/tags/guide/</loc>
-    <lastmod>2024-05-30T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="http://localhost:1313/tags/guide/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en-gb/tags/guide/"
                 />
   </url><url>
     <loc>http://localhost:1313/en-gb/posts/switches_guide/</loc>
