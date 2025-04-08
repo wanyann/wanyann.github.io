@@ -14,12 +14,12 @@ toc: false
 | Deskmats                     | Project "Gamer"              |                        |
 | Velvet v3 Wireless edition   | Imperial44 Spaceship edition |                        |
 | Project "op36"               | Planeta v3                   |                        |
-| Noise insulation             |                              |                        |
-| Handrests for UTS            |                              |                        |
+| Noise insulation             | Velvet "UI" edition          |                        |
+| Handrests for UTS ✔️         |                              |                        |
 | New modules for HPD          |                              |                        |
 | K:03 Wireless edition        |                              |                        |
 | Imperial44 Wireless edition  |                              |                        |
-| New packaging                |                              |                        |
+| New packaging ✔️             |                              |                        |
 
 **Disclaimer:** All information on this page has not been finalized and is for reference only. Changes and additions are made on an ongoing basis.
 
