@@ -87,7 +87,7 @@ tags = ["guide", "K:03"]
     autoplay="true"
     loop="true"
     muted="true"
-    src="/journey/video/k03spaceship/splashscreen.mp4" 
+    src="/video/k03spaceship/splashscreen.mp4" 
 >}}
 *Режим экрана «Splash Screen»*
 <br />
@@ -104,7 +104,7 @@ tags = ["guide", "K:03"]
     autoplay="true"
     loop="true"
     muted="true"
-    src="/journey/video/k03spaceship/classic.mp4" 
+    src="/video/k03spaceship/classic.mp4" 
 >}}
 *О текущем активном слое также сигнализирует цветовой индикатор*
 <br />
@@ -114,7 +114,7 @@ tags = ["guide", "K:03"]
     autoplay="true"
     loop="true"
     muted="true"
-    src="/journey/video/k03spaceship/modern.mp4" 
+    src="/video/k03spaceship/modern.mp4" 
 >}}
 <br />
 
@@ -123,7 +123,7 @@ tags = ["guide", "K:03"]
     autoplay="true"
     loop="true"
     muted="true"
-    src="/journey/video/k03spaceship/bongocat.mp4" 
+    src="/video/k03spaceship/bongocat.mp4" 
 >}}
 <br />
 
@@ -132,7 +132,7 @@ tags = ["guide", "K:03"]
     autoplay="true"
     loop="true"
     muted="true"
-    src="/journey/video/k03spaceship/clockvolume.mp4" 
+    src="/video/k03spaceship/clockvolume.mp4" 
 >}}
 <br />
 
