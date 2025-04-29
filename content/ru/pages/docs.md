@@ -17,3 +17,4 @@ toc: false
 ## Софт
 - [Vial](docs/vial)
 - [Режим RuEn](docs/ruen)
+- [Первые шаги с клавиатурой на ZMK](docs/zmk-keyboards)
