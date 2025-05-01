@@ -1,8 +1,8 @@
 +++
-date = 2025-04-30
 title = "Настройка клавиатуры в ZMK keymap-editor"
 tags = ["guide", "zmk"]
 +++
+
 ## ToDo
 - [ ] Допилить про Actions, скрины?
 
