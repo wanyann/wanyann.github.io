@@ -18,4 +18,4 @@ toc: false
 - [Vial](docs/vial)
 - [Режим RuEn](docs/ruen)
 - [Первые шаги с клавиатурой на ZMK](docs/zmk-keyboards)
-- [Настройка ZMK клавиатуры в keymap-editor](docs/keymap_editor)
+- [Настройка ZMK клавиатуры в keymap-editor](docs/keymap-editor)
