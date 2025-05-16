@@ -16,7 +16,7 @@ toc: false
 | [Velvet v3][08]       | [Velvet v3][15]            |
 | [Planeta][09]         | [Planeta][16]              |
 | [M4CR0Pad][10]        | [M4CR0Pad][17]             |
-
+| [Omega Point 36][18]  |                            |
 
 [01]: https://github.com/ergohaven/keymap_hub/
 [02]: pages/docs
@@ -29,6 +29,7 @@ toc: false
 [08]: pages/layouts_ru#velvet-v3
 [09]: pages/layouts_ru#planeta
 [10]: pages/layouts_ru#macropad
+[18]: pages/layouts_ru#op36
 
 
 [11]: https://github.com/ergohaven/keymap_hub/blob/main/user-layouts/k03

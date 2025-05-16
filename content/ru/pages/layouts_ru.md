@@ -31,3 +31,6 @@ tocOpen: true
 ## Macropad
 [M4CR0Pad файл раскладки для программы Vial](https://github.com/ergohaven/keymap_hub/releases/download/3.8.4-vil-files/macropad_v2_default.vil)
 ![M4CR0Pad](images/layouts/macropad_ru.png)
+
+## Omega Point 36
+![OP36](images/layouts/op36_ru.png)

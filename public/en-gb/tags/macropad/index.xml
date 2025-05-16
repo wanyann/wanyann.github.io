@@ -13,9 +13,26 @@
       
       <guid>http://localhost:1313/en-gb/pages/docs/macropad/</guid>
       
-      <description>
-Connection When connecting the macropad to the computer, make sure the USB-C cable is firmly inserted into the connector Customizing device Please refer to the Vial guide
-Firmware update Preparation Download the latest firmware here Save your layout in the Vial program by clicking on the File menu, then Save current layout Installation Hold the top left key and connect the USB cable Wait until the controller enters bootloader mode and the storage folder opens Copy or drag the Uf2 file, after which the controller should instantly reboot and start working in normal mode Import the layout into the Vial program by clicking on the File menu, then Load saved layout </description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/keyboards/macropad.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;connection&#34;&gt;Connection&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;When connecting the macropad to the computer, make sure the USB-C cable is firmly inserted into the connector&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;customizing-device&#34;&gt;Customizing device&lt;/h2&gt;
+&lt;p&gt;Please refer to the &lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/vial/&#34;&gt;Vial guide&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;firmware-update&#34;&gt;Firmware update&lt;/h2&gt;
+&lt;h3 id=&#34;preparation&#34;&gt;Preparation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Download the latest firmware &lt;a href=&#34;http://github.com/ergohaven/keymap_hub&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Save your layout in the Vial program by clicking on the &lt;strong&gt;File&lt;/strong&gt; menu, then &lt;strong&gt;Save current layout&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;installation&#34;&gt;Installation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Hold the top left key and connect the USB cable&lt;/li&gt;
+&lt;li&gt;Wait until the controller enters bootloader mode and the storage folder opens&lt;/li&gt;
+&lt;li&gt;Copy or drag the Uf2 file, after which the controller should instantly reboot and start working in normal mode&lt;/li&gt;
+&lt;li&gt;Import the layout into the Vial program by clicking on the &lt;strong&gt;File&lt;/strong&gt; menu, then &lt;strong&gt;Load saved layout&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
       
     </item>
     

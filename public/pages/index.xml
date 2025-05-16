@@ -14,9 +14,15 @@
       
       <guid>http://localhost:1313/pages/docs/ruen/</guid>
       
-      <description>Режим RuEn Этот режим предназначен для того, чтобы
-расположить знаки пунктуации в одних и тех же местах для русского и английского языка, вводить символы из английской раскладки при печати в русской, переключать раскладку на английскую или русскую отдельными клавишами. Это работает благодаря тому, что клавиатура помнит текущую раскладку, и при необходимости ввести символ, отсутствующий в русской раскладке, автоматически переключает раскладку, а после ввода символа возвращает раскладку обратно.
-Основное достоинство такого подхода заключается в том, что нет необходимости устанавливать в систему дополнительное ПО или нестандартные раскладки.</description>
+      <description>&lt;h1 id=&#34;режим-ruen&#34;&gt;Режим RuEn&lt;/h1&gt;
+&lt;p&gt;Этот режим предназначен для того, чтобы&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;расположить знаки пунктуации в одних и тех же местах для русского и английского языка,&lt;/li&gt;
+&lt;li&gt;вводить символы из английской раскладки при печати в русской,&lt;/li&gt;
+&lt;li&gt;переключать раскладку на английскую или русскую отдельными клавишами.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Это работает благодаря тому, что клавиатура помнит текущую раскладку, и при необходимости ввести символ, отсутствующий в русской раскладке, автоматически переключает раскладку, а после ввода символа возвращает раскладку обратно.&lt;/p&gt;
+&lt;p&gt;Основное достоинство такого подхода заключается в том, что нет необходимости устанавливать в систему дополнительное ПО или нестандартные раскладки.&lt;/p&gt;</description>
       
     </item>
     
@@ -27,7 +33,84 @@
       
       <guid>http://localhost:1313/pages/roadmap/</guid>
       
-      <description>2025 S01 S02 S03 HPD v2 ✔️ New switches Imperial44 v3 ✔️ New keycaps HPD v2 Open Source ✔️ Project &amp;ldquo;Sprawl&amp;rdquo; K:03 PRO v2 ✔️ Expo Deskmats Project &amp;ldquo;Gamer&amp;rdquo; Velvet v3 Wireless edition Imperial44 Spaceship edition Project &amp;ldquo;op36&amp;rdquo; Planeta v3 Шумка для клавиатур Подушечки для УСН Новые модули для HPD K:03 Wireless edition Imperial44 Wireless edition Новая упаковка Дисклеймер: вся информация на данной странице не утверждена окончательно и лишь имеет относительную дату для ознакомления.</description>
+      <description>&lt;h1 id=&#34;2025&#34;&gt;2025&lt;/h1&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;strong&gt;S01&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;S02&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;S03&lt;/strong&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;HPD v2 ✔️&lt;/td&gt;
+          &lt;td&gt;New switches&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Imperial44 v3 ✔️&lt;/td&gt;
+          &lt;td&gt;New keycaps&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;HPD v2 Open Source ✔️&lt;/td&gt;
+          &lt;td&gt;Project &amp;ldquo;Sprawl&amp;rdquo;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;K:03 PRO v2 ✔️&lt;/td&gt;
+          &lt;td&gt;Expo&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Deskmats&lt;/td&gt;
+          &lt;td&gt;Project &amp;ldquo;Gamer&amp;rdquo;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Velvet v3 Wireless edition&lt;/td&gt;
+          &lt;td&gt;Imperial44 Spaceship edition&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Project &amp;ldquo;op36&amp;rdquo;&lt;/td&gt;
+          &lt;td&gt;Planeta v3&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Шумка для клавиатур&lt;/td&gt;
+          &lt;td&gt;Velvet &amp;ldquo;UI&amp;rdquo; edition&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Подушечки для УСН ✔️&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Новые модули для HPD&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;K:03 Wireless edition&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Imperial44 Wireless edition&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Новая упаковка ✔️&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Дисклеймер:&lt;/strong&gt; вся информация на данной странице не утверждена окончательно и лишь имеет относительную дату для ознакомления. Изменения и дополнения будут происходить на постоянной основе.&lt;/p&gt;</description>
       
     </item>
     
@@ -38,8 +121,17 @@
       
       <guid>http://localhost:1313/pages/docs/hpd/</guid>
       
-      <description>Подключение Перед подключением клавиатуры к компьютеру, убедитесь, что USB-C кабель, соединяющий обе половинки между собой, плотно подключен в разъёмы на двух половинках При подключении клавиатуры к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем Настройка клавиатуры Пожалуйста перейдите в статью о программе Vial
-Функция Caps Word Одновременное нажатие клавиш LShift и RShift активирует Caps Word. Эта функция позволяет набирать слова заглавными буквами, не используя клавишу Caps Lock. Caps Word автоматически отключается в конце слова</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/keyboards/hpd.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;подключение&#34;&gt;Подключение&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Перед подключением клавиатуры к компьютеру, убедитесь, что USB-C кабель, соединяющий обе половинки между собой, плотно подключен в разъёмы на двух половинках&lt;/li&gt;
+&lt;li&gt;При подключении клавиатуры к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;настройка-клавиатуры&#34;&gt;Настройка клавиатуры&lt;/h2&gt;
+&lt;p&gt;Пожалуйста перейдите в &lt;a href=&#34;http://localhost:1313/pages/docs/vial/&#34;&gt;статью о программе Vial&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;функция-caps-word&#34;&gt;Функция Caps Word&lt;/h2&gt;
+&lt;p&gt;Одновременное нажатие клавиш LShift и RShift активирует Caps Word. Эта функция позволяет набирать слова заглавными буквами, не используя клавишу Caps Lock.
+Caps Word автоматически отключается в конце слова&lt;/p&gt;</description>
       
     </item>
     
@@ -50,8 +142,17 @@
       
       <guid>http://localhost:1313/pages/docs/imperial44/</guid>
       
-      <description>Подключение Перед подключением клавиатуры к компьютеру, убедитесь, что USB-C кабель, соединяющий обе половинки между собой, плотно подключен в разъёмы на двух половинках При подключении клавиатуры к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем Настройка клавиатуры Пожалуйста перейдите в статью о программе Vial
-Функция Caps Word Одновременное нажатие клавиш LShift и RShift активирует Caps Word. Эта функция позволяет набирать слова заглавными буквами, не используя клавишу Caps Lock. Caps Word автоматически отключается в конце слова</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/keyboards/imperial44.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;подключение&#34;&gt;Подключение&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Перед подключением клавиатуры к компьютеру, убедитесь, что USB-C кабель, соединяющий обе половинки между собой, плотно подключен в разъёмы на двух половинках&lt;/li&gt;
+&lt;li&gt;При подключении клавиатуры к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;настройка-клавиатуры&#34;&gt;Настройка клавиатуры&lt;/h2&gt;
+&lt;p&gt;Пожалуйста перейдите в &lt;a href=&#34;http://localhost:1313/pages/docs/vial/&#34;&gt;статью о программе Vial&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;функция-caps-word&#34;&gt;Функция Caps Word&lt;/h2&gt;
+&lt;p&gt;Одновременное нажатие клавиш LShift и RShift активирует Caps Word. Эта функция позволяет набирать слова заглавными буквами, не используя клавишу Caps Lock.
+Caps Word автоматически отключается в конце слова&lt;/p&gt;</description>
       
     </item>
     
@@ -62,8 +163,17 @@
       
       <guid>http://localhost:1313/pages/docs/k02/</guid>
       
-      <description>Подключение Перед подключением клавиатуры к компьютеру, убедитесь, что USB-C кабель, соединяющий обе половинки между собой, плотно подключен в разъёмы на двух половинках При подключении клавиатуры к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем Настройка клавиатуры Пожалуйста перейдите в статью о программе Vial
-Функция Caps Word Одновременное нажатие клавиш LShift и RShift активирует Caps Word. Эта функция позволяет набирать слова заглавными буквами, не используя клавишу Caps Lock. Caps Word автоматически отключается в конце слова</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/keyboards/k02.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;подключение&#34;&gt;Подключение&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Перед подключением клавиатуры к компьютеру, убедитесь, что USB-C кабель, соединяющий обе половинки между собой, плотно подключен в разъёмы на двух половинках&lt;/li&gt;
+&lt;li&gt;При подключении клавиатуры к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;настройка-клавиатуры&#34;&gt;Настройка клавиатуры&lt;/h2&gt;
+&lt;p&gt;Пожалуйста перейдите в &lt;a href=&#34;http://localhost:1313/pages/docs/vial/&#34;&gt;статью о программе Vial&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;функция-caps-word&#34;&gt;Функция Caps Word&lt;/h2&gt;
+&lt;p&gt;Одновременное нажатие клавиш LShift и RShift активирует Caps Word. Эта функция позволяет набирать слова заглавными буквами, не используя клавишу Caps Lock.
+Caps Word автоматически отключается в конце слова&lt;/p&gt;</description>
       
     </item>
     
@@ -74,8 +184,17 @@
       
       <guid>http://localhost:1313/pages/docs/k03/</guid>
       
-      <description>Подключение Перед подключением клавиатуры к компьютеру, убедитесь, что USB-C кабель, соединяющий обе половинки между собой, плотно подключен в разъёмы на двух половинках При подключении клавиатуры к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем Настройка клавиатуры Пожалуйста перейдите в статью о программе Vial
-Функция Caps Word Одновременное нажатие клавиш LShift и RShift активирует Caps Word. Эта функция позволяет набирать слова заглавными буквами, не используя клавишу Caps Lock. Caps Word автоматически отключается в конце слова</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/keyboards/k03.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;подключение&#34;&gt;Подключение&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Перед подключением клавиатуры к компьютеру, убедитесь, что USB-C кабель, соединяющий обе половинки между собой, плотно подключен в разъёмы на двух половинках&lt;/li&gt;
+&lt;li&gt;При подключении клавиатуры к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;настройка-клавиатуры&#34;&gt;Настройка клавиатуры&lt;/h2&gt;
+&lt;p&gt;Пожалуйста перейдите в &lt;a href=&#34;http://localhost:1313/pages/docs/vial/&#34;&gt;статью о программе Vial&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;функция-caps-word&#34;&gt;Функция Caps Word&lt;/h2&gt;
+&lt;p&gt;Одновременное нажатие клавиш LShift и RShift активирует Caps Word. Эта функция позволяет набирать слова заглавными буквами, не используя клавишу Caps Lock.
+Caps Word автоматически отключается в конце слова&lt;/p&gt;</description>
       
     </item>
     
@@ -86,8 +205,17 @@
       
       <guid>http://localhost:1313/pages/docs/k03pro/</guid>
       
-      <description>Подключение Перед подключением клавиатуры к компьютеру, убедитесь, что USB-C кабель, соединяющий обе половинки между собой, плотно подключен в разъёмы на двух половинках При подключении клавиатуры к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем Настройка клавиатуры Пожалуйста перейдите в статью о программе Vial
-Функция Caps Word Одновременное нажатие клавиш LShift и RShift активирует Caps Word. Эта функция позволяет набирать слова заглавными буквами, не используя клавишу Caps Lock. Caps Word автоматически отключается в конце слова</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/keyboards/k03pro.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;подключение&#34;&gt;Подключение&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Перед подключением клавиатуры к компьютеру, убедитесь, что USB-C кабель, соединяющий обе половинки между собой, плотно подключен в разъёмы на двух половинках&lt;/li&gt;
+&lt;li&gt;При подключении клавиатуры к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;настройка-клавиатуры&#34;&gt;Настройка клавиатуры&lt;/h2&gt;
+&lt;p&gt;Пожалуйста перейдите в &lt;a href=&#34;http://localhost:1313/pages/docs/vial/&#34;&gt;статью о программе Vial&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;функция-caps-word&#34;&gt;Функция Caps Word&lt;/h2&gt;
+&lt;p&gt;Одновременное нажатие клавиш LShift и RShift активирует Caps Word. Эта функция позволяет набирать слова заглавными буквами, не используя клавишу Caps Lock.
+Caps Word автоматически отключается в конце слова&lt;/p&gt;</description>
       
     </item>
     
@@ -98,10 +226,24 @@
       
       <guid>http://localhost:1313/pages/docs/macropad/</guid>
       
-      <description>
-Подключение При подключении макропада к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем
-Настройка макропада Пожалуйста перейдите в статью о программе Vial
-Обновление прошивки через bootmagic Подготовка Скачайте последнюю версию прошивки здесь Сохраните Вашу раскладку в программе Vial, нажав на меню &amp;ldquo;File&amp;rdquo;, дальше &amp;ldquo;Save current layout&amp;rdquo; Установка Нажмите верхнюю левую клавишу и подключите USB Дождитесь когда контроллер перейдёт в режим загрузчика и откроется папка-хранилище Скопируйте или перетащите Uf2 файл, после чего контроллер должен моментально перезагрузиться и начать работать в обычном режиме Импортируйте в программу Vial раскладку, нажав на меню &amp;ldquo;File&amp;rdquo;, дальше &amp;ldquo;Load saved layout&amp;rdquo; </description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/keyboards/macropad.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;подключение&#34;&gt;Подключение&lt;/h2&gt;
+&lt;p&gt;При подключении макропада к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем&lt;/p&gt;
+&lt;h2 id=&#34;настройка-макропада&#34;&gt;Настройка макропада&lt;/h2&gt;
+&lt;p&gt;Пожалуйста перейдите в &lt;a href=&#34;http://localhost:1313/pages/docs/vial/&#34;&gt;статью о программе Vial&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;обновление-прошивки-через-bootmagic&#34;&gt;Обновление прошивки через bootmagic&lt;/h2&gt;
+&lt;h3 id=&#34;подготовка&#34;&gt;Подготовка&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Скачайте последнюю версию прошивки &lt;a href=&#34;https://github.com/ergohaven/keymap_hub&#34;&gt;здесь&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Сохраните Вашу раскладку в программе Vial, нажав на меню &amp;ldquo;File&amp;rdquo;, дальше &amp;ldquo;Save current layout&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;установка&#34;&gt;Установка&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Нажмите верхнюю левую клавишу и подключите USB&lt;/li&gt;
+&lt;li&gt;Дождитесь когда контроллер перейдёт в режим загрузчика и откроется папка-хранилище&lt;/li&gt;
+&lt;li&gt;Скопируйте или перетащите Uf2 файл, после чего контроллер должен моментально перезагрузиться и начать работать в обычном режиме&lt;/li&gt;
+&lt;li&gt;Импортируйте в программу Vial раскладку, нажав на меню &amp;ldquo;File&amp;rdquo;, дальше &amp;ldquo;Load saved layout&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;</description>
       
     </item>
     
@@ -112,10 +254,29 @@
       
       <guid>http://localhost:1313/pages/docs/planeta/</guid>
       
-      <description>Подключение При подключении клавиатуры к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем
-Настройка клавиатуры Пожалуйста перейдите в статью о программе Vial
-Функция Caps Word Одновременное нажатие клавиш LShift и RShift активирует Caps Word. Эта функция позволяет набирать слова заглавными буквами, не используя клавишу Caps Lock. Caps Word автоматически отключается в конце слова
-Переключение Win/Mac режимов Для переключения необходимо нажать клавишу Замена Ctrl-Cmd для MacOS на третьем слое</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/keyboards/planeta.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;подключение&#34;&gt;Подключение&lt;/h2&gt;
+&lt;p&gt;При подключении клавиатуры к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем&lt;/p&gt;
+&lt;h2 id=&#34;настройка-клавиатуры&#34;&gt;Настройка клавиатуры&lt;/h2&gt;
+&lt;p&gt;Пожалуйста перейдите в &lt;a href=&#34;http://localhost:1313/pages/docs/vial/&#34;&gt;статью о программе Vial&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;функция-caps-word&#34;&gt;Функция Caps Word&lt;/h2&gt;
+&lt;p&gt;Одновременное нажатие клавиш LShift и RShift активирует Caps Word. Эта функция позволяет набирать слова заглавными буквами, не используя клавишу Caps Lock.
+Caps Word автоматически отключается в конце слова&lt;/p&gt;
+&lt;h2 id=&#34;переключение-winmac-режимов&#34;&gt;Переключение Win/Mac режимов&lt;/h2&gt;
+&lt;p&gt;Для переключения необходимо нажать клавишу &lt;strong&gt;Замена Ctrl-Cmd для MacOS&lt;/strong&gt; на третьем слое&lt;/p&gt;
+&lt;h2 id=&#34;обновление-прошивки-через-bootmagic&#34;&gt;Обновление прошивки через bootmagic&lt;/h2&gt;
+&lt;h3 id=&#34;подготовка&#34;&gt;Подготовка:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Скачайте последнюю версию прошивки &lt;a href=&#34;http://github.com/ergohaven/keymap_hub&#34;&gt;здесь&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Сохраните Вашу раскладку в программе Vial, нажав на меню &lt;strong&gt;File&lt;/strong&gt;, дальше &lt;strong&gt;Save current layout&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;установка&#34;&gt;Установка:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Левая половинка: зажмите верхнюю левую клавишу и подключите USB в левую половинку&lt;/li&gt;
+&lt;li&gt;Дождитесь когда контроллер перейдёт в режим загрузчика и откроется папка-хранилище&lt;/li&gt;
+&lt;li&gt;Скопируйте или перетащите Uf2 файл, после чего контроллер должен моментально перезагрузиться и начать работать в обычном режиме&lt;/li&gt;
+&lt;li&gt;Импортируйте в программу Vial раскладку, нажав на меню &lt;strong&gt;File&lt;/strong&gt;, дальше &lt;strong&gt;Load saved layout&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
       
     </item>
     
@@ -126,10 +287,26 @@
       
       <guid>http://localhost:1313/pages/docs/tb-mini/</guid>
       
-      <description>
-Подключение При подключении макропада к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем
-Настройка Trackball Mini Пожалуйста перейдите в статью о программе Vial
-Обновление прошивки через bootmagic Подготовка: Скачайте последнюю версию прошивки здесь Сохраните Вашу раскладку в программе Vial, нажав на меню &amp;ldquo;File&amp;rdquo;, дальше &amp;ldquo;Save current layout&amp;rdquo; Установка Подключите Trackball Mini к ПК Дважды быстро нажмите правую кнопку на задней поверхости корпуса (красный цвет на фото) Дождитесь когда контроллер перейдёт в режим загрузчика и откроется папка-хранилище Скопируйте или перетащите Uf2 файл, после чего контроллер должен моментально перезагрузиться и начать работать в обычном режиме Импортируйте в программу Vial раскладку, нажав на меню &amp;ldquo;File&amp;rdquo;, дальше &amp;ldquo;Load saved layout&amp;rdquo; </description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/keyboards/tb-mini01.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;подключение&#34;&gt;Подключение&lt;/h2&gt;
+&lt;p&gt;При подключении макропада к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем&lt;/p&gt;
+&lt;h2 id=&#34;настройка-trackball-mini&#34;&gt;Настройка Trackball Mini&lt;/h2&gt;
+&lt;p&gt;Пожалуйста перейдите в &lt;a href=&#34;http://localhost:1313/pages/docs/vial/&#34;&gt;статью о программе Vial&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;обновление-прошивки-через-bootmagic&#34;&gt;Обновление прошивки через bootmagic&lt;/h2&gt;
+&lt;h3 id=&#34;подготовка&#34;&gt;Подготовка:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Скачайте последнюю версию прошивки &lt;a href=&#34;https://github.com/ergohaven/keymap_hub&#34;&gt;здесь&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Сохраните Вашу раскладку в программе Vial, нажав на меню &amp;ldquo;File&amp;rdquo;, дальше &amp;ldquo;Save current layout&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/keyboards/tb-mini02.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;установка&#34;&gt;Установка&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Подключите Trackball Mini к ПК&lt;/li&gt;
+&lt;li&gt;Дважды быстро нажмите правую кнопку на задней поверхости корпуса (красный цвет на фото)&lt;/li&gt;
+&lt;li&gt;Дождитесь когда контроллер перейдёт в режим загрузчика и откроется папка-хранилище&lt;/li&gt;
+&lt;li&gt;Скопируйте или перетащите Uf2 файл, после чего контроллер должен моментально перезагрузиться и начать работать в обычном режиме&lt;/li&gt;
+&lt;li&gt;Импортируйте в программу Vial раскладку, нажав на меню &amp;ldquo;File&amp;rdquo;, дальше &amp;ldquo;Load saved layout&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;</description>
       
     </item>
     
@@ -140,8 +317,17 @@
       
       <guid>http://localhost:1313/pages/docs/velvet/</guid>
       
-      <description>Подключение Перед подключением клавиатуры к компьютеру, убедитесь, что USB-C кабель, соединяющий обе половинки между собой, плотно подключен в разъёмы на двух половинках При подключении клавиатуры к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем Настройка клавиатуры Пожалуйста перейдите в статью о программе Vial
-Функция Caps Word Одновременное нажатие клавиш LShift и RShift активирует Caps Word. Эта функция позволяет набирать слова заглавными буквами, не используя клавишу Caps Lock. Caps Word автоматически отключается в конце слова</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/keyboards/velvet.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;подключение&#34;&gt;Подключение&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Перед подключением клавиатуры к компьютеру, убедитесь, что USB-C кабель, соединяющий обе половинки между собой, плотно подключен в разъёмы на двух половинках&lt;/li&gt;
+&lt;li&gt;При подключении клавиатуры к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;настройка-клавиатуры&#34;&gt;Настройка клавиатуры&lt;/h2&gt;
+&lt;p&gt;Пожалуйста перейдите в &lt;a href=&#34;http://localhost:1313/pages/docs/vial/&#34;&gt;статью о программе Vial&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;функция-caps-word&#34;&gt;Функция Caps Word&lt;/h2&gt;
+&lt;p&gt;Одновременное нажатие клавиш LShift и RShift активирует Caps Word. Эта функция позволяет набирать слова заглавными буквами, не используя клавишу Caps Lock.
+Caps Word автоматически отключается в конце слова&lt;/p&gt;</description>
       
     </item>
     
@@ -152,9 +338,18 @@
       
       <guid>http://localhost:1313/pages/docs/vial/</guid>
       
-      <description>Vial — это кроссплатформенный графический интерфейс с открытым исходным кодом и форк QMK для настройки клавиатуры в режиме реального времени.
-Программа позволяет настроить клавиатуру с помощью простого и интуитивно понятного интерфейса без каких-либо знаний о программировании.
-Первое использование Скачайте и установите последнюю версию программы или используйте веб-версию Подключите клавиатуру и она будет автоматически обнаружена Разблокируйте клавиатуру, кликнув на меню Security, а затем Unlock, и следуйте инструкции, которая будет отображена на экране Измените любую клавишу, которую вы хотите, и она будет мгновенно переназначена, настройте различные параметры по своему вкусу Сохраните раскладку, нажав File &amp;gt; Save current layout (опционально) Давайте теперь проверим, что делают основные вкладки</description>
+      <description>&lt;p&gt;Vial — это кроссплатформенный графический интерфейс с открытым исходным кодом и форк QMK для настройки клавиатуры в режиме реального времени.&lt;/p&gt;
+&lt;p&gt;Программа позволяет настроить клавиатуру с помощью простого и интуитивно понятного интерфейса без каких-либо знаний о программировании.&lt;/p&gt;
+&lt;h2 id=&#34;первое-использование&#34;&gt;Первое использование&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Скачайте и установите последнюю версию программы или используйте веб-версию&lt;/li&gt;
+&lt;li&gt;Подключите клавиатуру и она будет автоматически обнаружена&lt;/li&gt;
+&lt;li&gt;Разблокируйте клавиатуру, кликнув на меню &lt;strong&gt;Security&lt;/strong&gt;, а затем &lt;strong&gt;Unlock&lt;/strong&gt;, и следуйте инструкции, которая будет отображена на экране&lt;/li&gt;
+&lt;li&gt;Измените любую клавишу, которую вы хотите, и она будет мгновенно переназначена, настройте различные параметры по своему вкусу&lt;/li&gt;
+&lt;li&gt;Сохраните раскладку, нажав &lt;strong&gt;File &amp;gt; Save current layout&lt;/strong&gt; (опционально)
+&lt;img src=&#34;http://localhost:1313/images/vial/vial01.png&#34; alt=&#34;image&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Давайте теперь проверим, что делают основные вкладки&lt;/em&gt;&lt;/p&gt;</description>
       
     </item>
     
@@ -165,7 +360,23 @@
       
       <guid>http://localhost:1313/pages/docs/</guid>
       
-      <description>Девайсы K:03 High Plains Drifter Imperial44 K:03 PRO K:02 M4CR0Pad Planeta Trackball Mini Velvet Софт Vial Режим RuEn </description>
+      <description>&lt;h2 id=&#34;девайсы&#34;&gt;Девайсы&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/k03/&#34;&gt;K:03&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/hpd/&#34;&gt;High Plains Drifter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/imperial44/&#34;&gt;Imperial44&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/k03pro/&#34;&gt;K:03 PRO&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/k02/&#34;&gt;K:02&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/macropad/&#34;&gt;M4CR0Pad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/planeta/&#34;&gt;Planeta&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/tb-mini/&#34;&gt;Trackball Mini&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/velvet/&#34;&gt;Velvet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;софт&#34;&gt;Софт&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/vial/&#34;&gt;Vial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/ruen/&#34;&gt;Режим RuEn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
       
     </item>
     
@@ -176,9 +387,12 @@
       
       <guid>http://localhost:1313/pages/faq/</guid>
       
-      <description>Я новичок, с какой клавиатуры мне лучше всего начать? Советуем начать с 60% раскладки: K:03, HPD, Planeta.
-У Вас есть на выбор различные переключатели и кейкапы, какие мне лучше всего выбрать? Самый распространённый вариант это Brown переключатели (тактильные) и XDA кейкапы.
-Мне нужна низкопрофильная клавиатура, есть ли у Вас такое? Вы можете выбрать все наши клавиатуры со среднепрофильными переключателями и низкопрофильными кейкапами, среднепрофильные переключатели немного выше низкопрофильных, но при этом имеют стандартный MX разъём, что делает их взаимозаменяемыми со стандартными переключателями, при этом разницы по высоте Вы, скорее всего, не заметите.</description>
+      <description>&lt;h2 id=&#34;я-новичок-с-какой-клавиатуры-мне-лучше-всего-начать&#34;&gt;Я новичок, с какой клавиатуры мне лучше всего начать?&lt;/h2&gt;
+&lt;p&gt;Советуем начать с 60% раскладки: K:03, HPD, Planeta.&lt;/p&gt;
+&lt;h2 id=&#34;у-вас-есть-на-выбор-различные-переключатели-и-кейкапы-какие-мне-лучше-всего-выбрать&#34;&gt;У Вас есть на выбор различные переключатели и кейкапы, какие мне лучше всего выбрать?&lt;/h2&gt;
+&lt;p&gt;Самый распространённый вариант это Brown переключатели (тактильные) и XDA кейкапы.&lt;/p&gt;
+&lt;h2 id=&#34;мне-нужна-низкопрофильная-клавиатура-есть-ли-у-вас-такое&#34;&gt;Мне нужна низкопрофильная клавиатура, есть ли у Вас такое?&lt;/h2&gt;
+&lt;p&gt;Вы можете выбрать все наши клавиатуры со среднепрофильными переключателями и низкопрофильными кейкапами, среднепрофильные переключатели немного выше низкопрофильных, но при этом имеют стандартный MX разъём, что делает их взаимозаменяемыми со стандартными переключателями, при этом разницы по высоте Вы, скорее всего, не заметите.&lt;/p&gt;</description>
       
     </item>
     
@@ -189,7 +403,59 @@
       
       <guid>http://localhost:1313/pages/firmware/</guid>
       
-      <description> Прошивка Инструкция по прошивке Исходный код Базовая раскладка Пользовательские раскладки K:03 v3 K:03 v3 K:03 PRO K:03 PRO HPD v2 HPD v2 Imperial44 Imperial44 Velvet v3 Velvet v3 Planeta Planeta M4CR0Pad M4CR0Pad </description>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/&#34;&gt;Прошивка&lt;/a&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/&#34;&gt;Инструкция по прошивке&lt;/a&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;a href=&#34;https://github.com/ergohaven/vial-qmk/tree/vial/keyboards/ergohaven&#34;&gt;Исходный код&lt;/a&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Базовая раскладка&lt;/th&gt;
+          &lt;th&gt;Пользовательские раскладки&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/pages/layouts_ru/#k03&#34;&gt;K:03 v3&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/blob/main/user-layouts/k03&#34;&gt;K:03 v3&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/pages/layouts_ru/#k03-pro&#34;&gt;K:03 PRO&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/tree/main/user-layouts/k03-pro&#34;&gt;K:03 PRO&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/pages/layouts_ru/#high-plains-drifter&#34;&gt;HPD v2&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/tree/main/user-layouts/hpd&#34;&gt;HPD v2&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/pages/layouts_ru/#imperial44&#34;&gt;Imperial44&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/tree/main/user-layouts/imperial44&#34;&gt;Imperial44&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/pages/layouts_ru/#velvet-v3&#34;&gt;Velvet v3&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/tree/main/user-layouts/velvet-v3&#34;&gt;Velvet v3&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/pages/layouts_ru/#planeta&#34;&gt;Planeta&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/tree/main/user-layouts/planeta&#34;&gt;Planeta&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/pages/layouts_ru/#macropad&#34;&gt;M4CR0Pad&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/tree/main/user-layouts/macropad&#34;&gt;M4CR0Pad&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/pages/layouts_ru/#op36&#34;&gt;Omega Point 36&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
       
     </item>
     
@@ -200,7 +466,29 @@
       
       <guid>http://localhost:1313/pages/layouts_ru/</guid>
       
-      <description>K:03 K:03 файл раскладки для программы Vial K:03 PRO K:03 PRO файл раскладки для программы Vial High Plains Drifter HPD файл раскладки для программы Vial Imperial44 Imperial44 файл раскладки для программы Vial Velvet v3 Velvet v3 файл раскладки для программы Vial Planeta Planeta файл раскладки для программы Vial Macropad M4CR0Pad файл раскладки для программы Vial </description>
+      <description>&lt;h2 id=&#34;k03&#34;&gt;K:03&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/releases/download/3.8.4-vil-files/k03_v3_default.vil&#34;&gt;K:03 файл раскладки для программы Vial&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/images/layouts/k03_ru.png&#34; alt=&#34;K:03&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;k03-pro&#34;&gt;K:03 PRO&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/releases/tag/3.8.4-vil-files&#34;&gt;K:03 PRO файл раскладки для программы Vial&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/images/layouts/k03-pro_ru.png&#34; alt=&#34;K:03 PRO&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;high-plains-drifter&#34;&gt;High Plains Drifter&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/releases/tag/3.8.4-vil-files&#34;&gt;HPD файл раскладки для программы Vial&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/images/layouts/hpd_ru.png&#34; alt=&#34;HPD&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;imperial44&#34;&gt;Imperial44&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/releases/download/3.8.4-vil-files/imperial44_v1_v2_default.vil&#34;&gt;Imperial44 файл раскладки для программы Vial&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/images/layouts/imperial_ru.png&#34; alt=&#34;Imperial44&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;velvet-v3&#34;&gt;Velvet v3&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/releases/download/3.8.4-vil-files/velvet_v3_default.vil&#34;&gt;Velvet v3 файл раскладки для программы Vial&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/images/layouts/velvet_ru.png&#34; alt=&#34;Velvet v3&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;planeta&#34;&gt;Planeta&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/releases/download/3.8.4-vil-files/planeta_v2_default.vil&#34;&gt;Planeta файл раскладки для программы Vial&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/images/layouts/planeta1_ru.png&#34; alt=&#34;Planeta&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;macropad&#34;&gt;Macropad&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/releases/download/3.8.4-vil-files/macropad_v2_default.vil&#34;&gt;M4CR0Pad файл раскладки для программы Vial&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/images/layouts/macropad_ru.png&#34; alt=&#34;M4CR0Pad&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;omega-point-36&#34;&gt;Omega Point 36&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;images/layouts/op36_ru.png&#34; alt=&#34;OP36&#34;&gt;&lt;/p&gt;</description>
       
     </item>
     

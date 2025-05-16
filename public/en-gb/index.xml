@@ -14,9 +14,11 @@
       
       <guid>http://localhost:1313/en-gb/posts/encoders/</guid>
       
-      <description>First, a little general information about what encoders are.
-The basic principle of their work is that when the user turns the handle of the encoder, a certain key is sent for every n degrees of rotation.
-This is useful in scenarios where you need to press the same key repeatedly, for example, we can assign the volume control function to the encoder, etc. You can turn the encoder in two directions: clockwise and counterclockwise - we can assign an increase in sound volume in one direction, and a decrease in another.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/encoders/1.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;First, a little general information about what encoders are.&lt;br&gt;
+The basic principle of their work is that when the user turns the handle of the encoder, a certain key is sent for every n degrees of rotation.&lt;br&gt;
+This is useful in scenarios where you need to press the same key repeatedly, for example, we can assign the volume control function to the encoder, etc. You can turn the encoder in two directions: clockwise and counterclockwise - we can assign an increase in sound volume in one direction, and a decrease in another. With encoders, the volume control becomes very accessible and convenient, and due to the tactile response of the encoder, even a slightly pleasant process.&lt;br&gt;
+In addition to scrolling, encoders can also be pressed, and the function of the press can be absolutely anything, for example, macro or mute.&lt;/p&gt;</description>
       
     </item>
     
@@ -27,9 +29,12 @@ This is useful in scenarios where you need to press the same key repeatedly, for
       
       <guid>http://localhost:1313/en-gb/posts/hello-world/</guid>
       
-      <description>New Year - new beginning We are glad to welcome you to our new platform - Ergohaven&amp;rsquo;s Journey.
-Here you will find our blog, documentation, answers to frequently asked questions, as well as firmware and layouts for our keyboards.
-Last year, it was decided to create a simple and convenient knowledge base specifically for our users, which will help in their * travel * in the world of ergonomic keyboards. We also decided to transfer a blog here due to ease of use when creating new article, and the most interesting thing is that this platform is completely open and placed on our Hithabe.</description>
+      <description>&lt;h2 id=&#34;new-year---new-beginning&#34;&gt;New Year - new beginning&lt;/h2&gt;
+&lt;p&gt;We are glad to welcome you to our new platform - Ergohaven&amp;rsquo;s Journey.&lt;br&gt;
+Here you will find our blog, documentation, answers to frequently asked questions, as well as firmware and layouts for our keyboards.&lt;/p&gt;
+&lt;p&gt;Last year, it was decided to create a simple and convenient knowledge base specifically for our users, which will help in their * travel * in the world of ergonomic keyboards.
+We also decided to transfer a blog here due to ease of use when creating new article, and the most interesting thing is that this platform is completely open and placed on our Hithabe.&lt;br&gt;
+This means that now anyone can make editing in the documentation, help in filling the FAQ or even offer their article on the blog. But this is not all: in the future we consider the opportunity to arrange competitions for the best article of the month with interesting prizes and it is very important for us to know your opinion about this, so be sure to write to our telegram group, what you think about all this.&lt;/p&gt;</description>
       
     </item>
     
@@ -40,9 +45,16 @@ Last year, it was decided to create a simple and convenient knowledge base speci
       
       <guid>http://localhost:1313/en-gb/posts/trackball_mini/</guid>
       
-      <description>Preface The trackball itself, although it performs the same function of cursor control as a mouse, but the experience of using these two devices is completely different, and they are suitable for completely different tasks
-Ergohaven Trackball Mini
-The main advantages of a trackball over a mouse compactness - it will take up much less space on the table than a mouse, and even more so, such a small one, which was developed by the Ergohaven team; ergonomics - the position of the hand while spinning the ball, there is less strain on the wrist, and in general the control itself with the fingers seems more natural than the way we work with the mouse; The only downside I can note is that it is more difficult to accurately move the trackball over a long distance; in this case, I most often spin the ball with force, sending it floating freely, and here the predictability of where the cursor will stop is poor, so I have to move the cursor further.</description>
+      <description>&lt;h2 id=&#34;preface&#34;&gt;Preface&lt;/h2&gt;
+&lt;p&gt;The trackball itself, although it performs the same function of cursor control as a mouse, but the experience of using these two devices is completely different, and they are suitable for completely different tasks&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/trackball_mini/01.png&#34; alt=&#34;image&#34;&gt;&lt;br&gt;
+&lt;em&gt;Ergohaven Trackball Mini&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;the-main-advantages-of-a-trackball-over-a-mouse&#34;&gt;The main advantages of a trackball over a mouse&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;compactness - it will take up much less space on the table than a mouse, and even more so, such a small one, which was developed by the Ergohaven team;&lt;/li&gt;
+&lt;li&gt;ergonomics - the position of the hand while spinning the ball, there is less strain on the wrist, and in general the control itself with the fingers seems more natural than the way we work with the mouse;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The only downside I can note is that it is more difficult to accurately move the trackball over a long distance; in this case, I most often spin the ball with force, sending it floating freely, and here the predictability of where the cursor will stop is poor, so I have to move the cursor further.&lt;/p&gt;</description>
       
     </item>
     
@@ -53,8 +65,9 @@ The main advantages of a trackball over a mouse compactness - it will take up mu
       
       <guid>http://localhost:1313/en-gb/posts/layer_for_apps/</guid>
       
-      <description>Introduction I’ve been using desktops in Windows for a long time, they’re very useful, I opened a work chat on one desktop, a browser on the second, an IDE on the third, etc., you can quickly switch without taking your hands off the keyboard.
-At some point I had 6 active desktops, and to switch from 6 to 1 I had to press the hotkey 6 times&amp;hellip; and then back another 6.</description>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;I’ve been using desktops in Windows for a long time, they’re very useful, I opened a work chat on one desktop, a browser on the second, an IDE on the third, etc., you can quickly switch without taking your hands off the keyboard.&lt;/p&gt;
+&lt;p&gt;At some point I had 6 active desktops, and to switch from 6 to 1 I had to press the hotkey 6 times&amp;hellip; and then back another 6.. The thought arose, maybe there is some kind of hotkey to switch specifically to 6 table? But, unfortunately, there is no such thing in Windows itself, which is strange.&lt;/p&gt;</description>
       
     </item>
     
@@ -65,9 +78,12 @@ At some point I had 6 active desktops, and to switch from 6 to 1 I had to press 
       
       <guid>http://localhost:1313/en-gb/posts/switches_guide/</guid>
       
-      <description>Introduction In this article I will describe general information about what switches are and will try to simplify the pain of choosing which to buy
-First of all, what is it even, what does it look like? Switches are the mechanisms of each key on the keyboard; in the photo below they are highlighted with a red frame.
-Switches are a key component of the keyboard, and their selection determines how the keys feel when pressed.</description>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In this article I will describe general information about what switches are and will try to simplify the pain of choosing which to buy&lt;/p&gt;
+&lt;p&gt;First of all, what is it even, what does it look like?
+Switches are the mechanisms of each key on the keyboard; in the photo below they are highlighted with a red frame.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/switches_guide/1.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Switches are a key component of the keyboard, and their selection determines how the keys feel when pressed. There are a huge variety of switches, but they are mainly divided into 3 groups: linear, tactile and clicky. Let us briefly consider the features of each group.&lt;/p&gt;</description>
       
     </item>
     
@@ -78,10 +94,13 @@ Switches are a key component of the keyboard, and their selection determines how
       
       <guid>http://localhost:1313/en-gb/posts/touchtyping/</guid>
       
-      <description>Intro It&amp;rsquo;s no secret that our store sells keycaps without symbols, some customers are stunned and decide to get the standard keycaps with symbols elsewhere.
-In this article, you will find out what is touch typing and why you should consider to switch to blank keycaps.
-What is touch typing? Description from Wikipedia:
-Touch typing (also called blind typing, or touch keyboarding) is a style of typing. Although the phrase refers to typing without using the sense of sight to find the keys—specifically, a touch typist will know their location on the keyboard through muscle memory—the term is often used to refer to a specific form of touch typing that involves placing the eight fingers in a horizontal row along the middle of the keyboard (the home row) and having them reach for specific other keys.</description>
+      <description>&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;
+&lt;p&gt;It&amp;rsquo;s no secret that our store sells keycaps without symbols, some customers are stunned and decide to get the standard keycaps with symbols elsewhere.&lt;br&gt;
+In this article, you will find out what is touch typing and why you should consider to switch to blank keycaps.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/touchtyping/3.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;what-is-touch-typing&#34;&gt;What is touch typing?&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Description from Wikipedia:&lt;/em&gt;&lt;br&gt;
+Touch typing (also called blind typing, or touch keyboarding) is a style of typing. Although the phrase refers to typing without using the sense of sight to find the keys—specifically, a touch typist will know their location on the keyboard through muscle memory—the term is often used to refer to a specific form of touch typing that involves placing the eight fingers in a horizontal row along the middle of the keyboard (the home row) and having them reach for specific other keys.&lt;/p&gt;</description>
       
     </item>
     
@@ -92,9 +111,17 @@ Touch typing (also called blind typing, or touch keyboarding) is a style of typi
       
       <guid>http://localhost:1313/en-gb/pages/docs/vial/</guid>
       
-      <description>Vial is an open-source cross-platform GUI and a QMK fork for configuring your keyboard in real time.
-The program let&amp;rsquo;s you customize your keyboard with an easy and intuitive interface without any knowledge about programming.
-First use Download and install the latest version of the program or use the web version Connect your keyboard and it will be automatically detected Unlock the keyboard by clicking on the Security menu and then Unlock, and follow the instructions that will be displayed on the screen Change any key you want and it will be instantly remapped, customize various options to your liking Save the layout by clicking File &amp;gt; Save current layout (optional) Let&amp;rsquo;s now check what the main tabs do</description>
+      <description>&lt;p&gt;Vial is an open-source cross-platform GUI and a QMK fork for configuring your keyboard in real time.&lt;/p&gt;
+&lt;p&gt;The program let&amp;rsquo;s you customize your keyboard with an easy and intuitive interface without any knowledge about programming.&lt;/p&gt;
+&lt;h2 id=&#34;first-use&#34;&gt;First use&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Download and install the latest version of the program or use the web version&lt;/li&gt;
+&lt;li&gt;Connect your keyboard and it will be automatically detected&lt;/li&gt;
+&lt;li&gt;Unlock the keyboard by clicking on the &lt;strong&gt;Security&lt;/strong&gt; menu and then &lt;strong&gt;Unlock&lt;/strong&gt;, and follow the instructions that will be displayed on the screen&lt;/li&gt;
+&lt;li&gt;Change any key you want and it will be instantly remapped, customize various options to your liking&lt;/li&gt;
+&lt;li&gt;Save the layout by clicking &lt;strong&gt;File &amp;gt; Save current layout&lt;/strong&gt; (optional)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/vial/vial01.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;</description>
       
     </item>
     
@@ -105,7 +132,23 @@ First use Download and install the latest version of the program or use the web 
       
       <guid>http://localhost:1313/en-gb/pages/docs/</guid>
       
-      <description>Hardware K:03 High Plains Drifter Imperial44 K:03 PRO K:02 M4CR0Pad Planeta Trackball Mini Velvet Software Vial RuEn mode </description>
+      <description>&lt;h2 id=&#34;hardware&#34;&gt;Hardware&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/k03/&#34;&gt;K:03&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/hpd/&#34;&gt;High Plains Drifter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/imperial44/&#34;&gt;Imperial44&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/k03pro/&#34;&gt;K:03 PRO&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/k02/&#34;&gt;K:02&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/macropad/&#34;&gt;M4CR0Pad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/planeta/&#34;&gt;Planeta&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/tb-mini/&#34;&gt;Trackball Mini&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/velvet/&#34;&gt;Velvet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/vial/&#34;&gt;Vial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/ruen/&#34;&gt;RuEn mode&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
       
     </item>
     
@@ -116,7 +159,84 @@ First use Download and install the latest version of the program or use the web 
       
       <guid>http://localhost:1313/en-gb/pages/roadmap/</guid>
       
-      <description>2025 S01 S02 S03 HPD v2 ✔️ New switches Imperial44 v3 ✔️ New keycaps HPD v2 Open Source ✔️ Project &amp;ldquo;Sprawl&amp;rdquo; K:03 PRO v2 ✔️ Expo Deskmats Project &amp;ldquo;Gamer&amp;rdquo; Velvet v3 Wireless edition Imperial44 Spaceship edition Project &amp;ldquo;op36&amp;rdquo; Planeta v3 Noise insulation Handrests for UTS New modules for HPD K:03 Wireless edition Imperial44 Wireless edition New packaging Disclaimer: All information on this page has not been finalized and is for reference only.</description>
+      <description>&lt;h1 id=&#34;2025&#34;&gt;2025&lt;/h1&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;strong&gt;S01&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;S02&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;S03&lt;/strong&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;HPD v2 ✔️&lt;/td&gt;
+          &lt;td&gt;New switches&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Imperial44 v3 ✔️&lt;/td&gt;
+          &lt;td&gt;New keycaps&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;HPD v2 Open Source ✔️&lt;/td&gt;
+          &lt;td&gt;Project &amp;ldquo;Sprawl&amp;rdquo;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;K:03 PRO v2 ✔️&lt;/td&gt;
+          &lt;td&gt;Expo&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Deskmats&lt;/td&gt;
+          &lt;td&gt;Project &amp;ldquo;Gamer&amp;rdquo;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Velvet v3 Wireless edition&lt;/td&gt;
+          &lt;td&gt;Imperial44 Spaceship edition&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Project &amp;ldquo;op36&amp;rdquo;&lt;/td&gt;
+          &lt;td&gt;Planeta v3&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Noise insulation&lt;/td&gt;
+          &lt;td&gt;Velvet &amp;ldquo;UI&amp;rdquo; edition&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Handrests for UTS ✔️&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;New modules for HPD&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;K:03 Wireless edition&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Imperial44 Wireless edition&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;New packaging ✔️&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Disclaimer:&lt;/strong&gt; All information on this page has not been finalized and is for reference only. Changes and additions are made on an ongoing basis.&lt;/p&gt;</description>
       
     </item>
     
@@ -127,7 +247,59 @@ First use Download and install the latest version of the program or use the web 
       
       <guid>http://localhost:1313/en-gb/pages/firmware/</guid>
       
-      <description> Firmware Firmware update guide Source code Default layout User layouts K:03 v3 K:03 v3 K:03 PRO K:03 PRO HPD v2 HPD v2 Imperial44 Imperial44 Velvet v3 Velvet v3 Planeta Planeta M4CR0Pad M4CR0Pad </description>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/&#34;&gt;Firmware&lt;/a&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/&#34;&gt;Firmware update guide&lt;/a&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;a href=&#34;https://github.com/ergohaven/vial-qmk/tree/vial/keyboards/ergohaven&#34;&gt;Source code&lt;/a&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Default layout&lt;/th&gt;
+          &lt;th&gt;User layouts&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/layouts/#k03&#34;&gt;K:03 v3&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/blob/main/user-layouts/k03&#34;&gt;K:03 v3&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/layouts/#k03-pro&#34;&gt;K:03 PRO&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/tree/main/user-layouts/k03-pro&#34;&gt;K:03 PRO&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/layouts/#high-plains-drifter&#34;&gt;HPD v2&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/tree/main/user-layouts/hpd&#34;&gt;HPD v2&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/layouts/#imperial44&#34;&gt;Imperial44&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/tree/main/user-layouts/imperial44&#34;&gt;Imperial44&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/layouts/#velvet-v3&#34;&gt;Velvet v3&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/tree/main/user-layouts/velvet-v3&#34;&gt;Velvet v3&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/layouts/#planeta&#34;&gt;Planeta&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/tree/main/user-layouts/planeta&#34;&gt;Planeta&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/layouts/#macropad&#34;&gt;M4CR0Pad&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/tree/main/user-layouts/macropad&#34;&gt;M4CR0Pad&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/layouts/#op36&#34;&gt;Omega Point 36&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
       
     </item>
     
@@ -138,9 +310,12 @@ First use Download and install the latest version of the program or use the web 
       
       <guid>http://localhost:1313/en-gb/pages/faq/</guid>
       
-      <description>I&amp;rsquo;m a beginner, what&amp;rsquo;s the best keyboard for me to start with? We recommend starting with 60% layout: K:03, HPD, Planeta.
-You have different switches and keycaps to choose from, which is the best one for me to choose? The most common option is Brown switches (tactile) and XDA keycaps.
-I need a low profile keyboard, do you have one? You can choose all of our keyboards with mid-profile switches and low-profile keycaps, the mid-profile switches are slightly taller than the low-profile ones, but still have a standard MX connector, making them interchangeable with standard switches, and you most likely won&amp;rsquo;t notice the difference in height.</description>
+      <description>&lt;h2 id=&#34;im-a-beginner-whats-the-best-keyboard-for-me-to-start-with&#34;&gt;I&amp;rsquo;m a beginner, what&amp;rsquo;s the best keyboard for me to start with?&lt;/h2&gt;
+&lt;p&gt;We recommend starting with 60% layout: K:03, HPD, Planeta.&lt;/p&gt;
+&lt;h2 id=&#34;you-have-different-switches-and-keycaps-to-choose-from-which-is-the-best-one-for-me-to-choose&#34;&gt;You have different switches and keycaps to choose from, which is the best one for me to choose?&lt;/h2&gt;
+&lt;p&gt;The most common option is Brown switches (tactile) and XDA keycaps.&lt;/p&gt;
+&lt;h2 id=&#34;i-need-a-low-profile-keyboard-do-you-have-one&#34;&gt;I need a low profile keyboard, do you have one?&lt;/h2&gt;
+&lt;p&gt;You can choose all of our keyboards with mid-profile switches and low-profile keycaps, the mid-profile switches are slightly taller than the low-profile ones, but still have a standard MX connector, making them interchangeable with standard switches, and you most likely won&amp;rsquo;t notice the difference in height.&lt;/p&gt;</description>
       
     </item>
     
@@ -151,8 +326,16 @@ I need a low profile keyboard, do you have one? You can choose all of our keyboa
       
       <guid>http://localhost:1313/en-gb/pages/docs/hpd/</guid>
       
-      <description>Connection Before connecting the keyboard to the computer, make sure that the USB-C cable is firmly connected to the connectors on both halves When connecting the keyboard to the computer, make sure the USB-C cable is firmly inserted into the connector Customizing keyboard Please refer to the Vial guide
-Caps Word function Press LShift and RShift simultaneously to activate Caps Word. This function allows you to type entire words in uppercase letters without holding down the Caps Lock key.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/keyboards/hpd.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;connection&#34;&gt;Connection&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Before connecting the keyboard to the computer, make sure that the USB-C cable is firmly connected to the connectors on both halves&lt;/li&gt;
+&lt;li&gt;When connecting the keyboard to the computer, make sure the USB-C cable is firmly inserted into the connector&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;customizing-keyboard&#34;&gt;Customizing keyboard&lt;/h2&gt;
+&lt;p&gt;Please refer to the &lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/vial/&#34;&gt;Vial guide&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;caps-word-function&#34;&gt;Caps Word function&lt;/h2&gt;
+&lt;p&gt;Press LShift and RShift simultaneously to activate Caps Word. This function allows you to type entire words in uppercase letters without holding down the Caps Lock key. Caps Word is automatically disabled at the end of a word&lt;/p&gt;</description>
       
     </item>
     
@@ -163,8 +346,16 @@ Caps Word function Press LShift and RShift simultaneously to activate Caps Word.
       
       <guid>http://localhost:1313/en-gb/pages/docs/imperial44/</guid>
       
-      <description>Connection Before connecting the keyboard to the computer, make sure that the USB-C cable is firmly connected to the connectors on both halves When connecting the keyboard to the computer, make sure the USB-C cable is firmly inserted into the connector Customizing keyboard Please refer to the Vial guide
-Caps Word function Press LShift and RShift simultaneously to activate Caps Word. This function allows you to type entire words in uppercase letters without holding down the Caps Lock key.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/keyboards/imperial44.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;connection&#34;&gt;Connection&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Before connecting the keyboard to the computer, make sure that the USB-C cable is firmly connected to the connectors on both halves&lt;/li&gt;
+&lt;li&gt;When connecting the keyboard to the computer, make sure the USB-C cable is firmly inserted into the connector&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;customizing-keyboard&#34;&gt;Customizing keyboard&lt;/h2&gt;
+&lt;p&gt;Please refer to the &lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/vial/&#34;&gt;Vial guide&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;caps-word-function&#34;&gt;Caps Word function&lt;/h2&gt;
+&lt;p&gt;Press LShift and RShift simultaneously to activate Caps Word. This function allows you to type entire words in uppercase letters without holding down the Caps Lock key. Caps Word is automatically disabled at the end of a word&lt;/p&gt;</description>
       
     </item>
     
@@ -175,8 +366,16 @@ Caps Word function Press LShift and RShift simultaneously to activate Caps Word.
       
       <guid>http://localhost:1313/en-gb/pages/docs/k02/</guid>
       
-      <description>Connection Before connecting the keyboard to the computer, make sure that the USB-C cable is firmly connected to the connectors on both halves When connecting the keyboard to the computer, make sure the USB-C cable is firmly inserted into the connector Customizing keyboard Please refer to the Vial guide
-Caps Word function Press LShift and RShift simultaneously to activate Caps Word. This function allows you to type entire words in uppercase letters without holding down the Caps Lock key.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/keyboards/k02.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;connection&#34;&gt;Connection&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Before connecting the keyboard to the computer, make sure that the USB-C cable is firmly connected to the connectors on both halves&lt;/li&gt;
+&lt;li&gt;When connecting the keyboard to the computer, make sure the USB-C cable is firmly inserted into the connector&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;customizing-keyboard&#34;&gt;Customizing keyboard&lt;/h2&gt;
+&lt;p&gt;Please refer to the &lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/vial/&#34;&gt;Vial guide&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;caps-word-function&#34;&gt;Caps Word function&lt;/h2&gt;
+&lt;p&gt;Press LShift and RShift simultaneously to activate Caps Word. This function allows you to type entire words in uppercase letters without holding down the Caps Lock key. Caps Word is automatically disabled at the end of a word&lt;/p&gt;</description>
       
     </item>
     
@@ -187,8 +386,16 @@ Caps Word function Press LShift and RShift simultaneously to activate Caps Word.
       
       <guid>http://localhost:1313/en-gb/pages/docs/k03/</guid>
       
-      <description>Connection Before connecting the keyboard to the computer, make sure that the USB-C cable is firmly connected to the connectors on both halves When connecting the keyboard to the computer, make sure the USB-C cable is firmly inserted into the connector Customizing keyboard Please refer to the Vial guide
-Caps Word function Press LShift and RShift simultaneously to activate Caps Word. This function allows you to type entire words in uppercase letters without holding down the Caps Lock key.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/keyboards/k03.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;connection&#34;&gt;Connection&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Before connecting the keyboard to the computer, make sure that the USB-C cable is firmly connected to the connectors on both halves&lt;/li&gt;
+&lt;li&gt;When connecting the keyboard to the computer, make sure the USB-C cable is firmly inserted into the connector&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;customizing-keyboard&#34;&gt;Customizing keyboard&lt;/h2&gt;
+&lt;p&gt;Please refer to the &lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/vial/&#34;&gt;Vial guide&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;caps-word-function&#34;&gt;Caps Word function&lt;/h2&gt;
+&lt;p&gt;Press LShift and RShift simultaneously to activate Caps Word. This function allows you to type entire words in uppercase letters without holding down the Caps Lock key. Caps Word is automatically disabled at the end of a word&lt;/p&gt;</description>
       
     </item>
     
@@ -199,8 +406,16 @@ Caps Word function Press LShift and RShift simultaneously to activate Caps Word.
       
       <guid>http://localhost:1313/en-gb/pages/docs/k03pro/</guid>
       
-      <description>Connection Before connecting the keyboard to the computer, make sure that the USB-C cable is firmly connected to the connectors on both halves When connecting the keyboard to the computer, make sure the USB-C cable is firmly inserted into the connector Customizing keyboard Please refer to the Vial guide
-Caps Word function Press LShift and RShift simultaneously to activate Caps Word. This function allows you to type entire words in uppercase letters without holding down the Caps Lock key.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/keyboards/k03pro.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;connection&#34;&gt;Connection&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Before connecting the keyboard to the computer, make sure that the USB-C cable is firmly connected to the connectors on both halves&lt;/li&gt;
+&lt;li&gt;When connecting the keyboard to the computer, make sure the USB-C cable is firmly inserted into the connector&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;customizing-keyboard&#34;&gt;Customizing keyboard&lt;/h2&gt;
+&lt;p&gt;Please refer to the &lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/vial/&#34;&gt;Vial guide&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;caps-word-function&#34;&gt;Caps Word function&lt;/h2&gt;
+&lt;p&gt;Press LShift and RShift simultaneously to activate Caps Word. This function allows you to type entire words in uppercase letters without holding down the Caps Lock key. Caps Word is automatically disabled at the end of a word&lt;/p&gt;</description>
       
     </item>
     
@@ -211,7 +426,29 @@ Caps Word function Press LShift and RShift simultaneously to activate Caps Word.
       
       <guid>http://localhost:1313/en-gb/pages/layouts/</guid>
       
-      <description>K:03 K:03 layout file for Vial K:03 PRO K:03 PRO layout file for Vial High Plains Drifter HPD layout file for Vial Imperial44 Imperial44 layout file for Vial Velvet v3 Velvet v3 layout file for Vial Planeta Planeta layout file for Vial Macropad M4CR0Pad layout file for Vial </description>
+      <description>&lt;h2 id=&#34;k03&#34;&gt;K:03&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/releases/download/3.8.4-vil-files/k03_v3_default.vil&#34;&gt;K:03 layout file for Vial&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/images/layouts/k03.png&#34; alt=&#34;K:03&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;k03-pro&#34;&gt;K:03 PRO&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/releases/tag/3.8.4-vil-files&#34;&gt;K:03 PRO layout file for Vial&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/images/layouts/k03-pro.png&#34; alt=&#34;K:03 PRO&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;high-plains-drifter&#34;&gt;High Plains Drifter&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/releases/tag/3.8.4-vil-files&#34;&gt;HPD layout file for Vial&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/images/layouts/hpd.png&#34; alt=&#34;HPD&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;imperial44&#34;&gt;Imperial44&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/releases/download/3.8.4-vil-files/imperial44_v1_v2_default.vil&#34;&gt;Imperial44 layout file for Vial&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/images/layouts/imperial.png&#34; alt=&#34;Imperial44&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;velvet-v3&#34;&gt;Velvet v3&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/releases/download/3.8.4-vil-files/velvet_v3_default.vil&#34;&gt;Velvet v3 layout file for Vial&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/images/layouts/velvet.png&#34; alt=&#34;Velvet v3&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;planeta&#34;&gt;Planeta&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/releases/download/3.8.4-vil-files/planeta_v2_default.vil&#34;&gt;Planeta layout file for Vial&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/images/layouts/planeta1.png&#34; alt=&#34;Planeta&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;macropad&#34;&gt;Macropad&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/releases/download/3.8.4-vil-files/macropad_v2_default.vil&#34;&gt;M4CR0Pad layout file for Vial&lt;/a&gt;
+&lt;img src=&#34;http://localhost:1313/images/layouts/macropad.png&#34; alt=&#34;M4CR0Pad&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;omega-point-36&#34;&gt;Omega Point 36&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;images/layouts/op36.png&#34; alt=&#34;OP36&#34;&gt;&lt;/p&gt;</description>
       
     </item>
     
@@ -222,9 +459,26 @@ Caps Word function Press LShift and RShift simultaneously to activate Caps Word.
       
       <guid>http://localhost:1313/en-gb/pages/docs/macropad/</guid>
       
-      <description>
-Connection When connecting the macropad to the computer, make sure the USB-C cable is firmly inserted into the connector Customizing device Please refer to the Vial guide
-Firmware update Preparation Download the latest firmware here Save your layout in the Vial program by clicking on the File menu, then Save current layout Installation Hold the top left key and connect the USB cable Wait until the controller enters bootloader mode and the storage folder opens Copy or drag the Uf2 file, after which the controller should instantly reboot and start working in normal mode Import the layout into the Vial program by clicking on the File menu, then Load saved layout </description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/keyboards/macropad.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;connection&#34;&gt;Connection&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;When connecting the macropad to the computer, make sure the USB-C cable is firmly inserted into the connector&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;customizing-device&#34;&gt;Customizing device&lt;/h2&gt;
+&lt;p&gt;Please refer to the &lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/vial/&#34;&gt;Vial guide&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;firmware-update&#34;&gt;Firmware update&lt;/h2&gt;
+&lt;h3 id=&#34;preparation&#34;&gt;Preparation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Download the latest firmware &lt;a href=&#34;http://github.com/ergohaven/keymap_hub&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Save your layout in the Vial program by clicking on the &lt;strong&gt;File&lt;/strong&gt; menu, then &lt;strong&gt;Save current layout&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;installation&#34;&gt;Installation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Hold the top left key and connect the USB cable&lt;/li&gt;
+&lt;li&gt;Wait until the controller enters bootloader mode and the storage folder opens&lt;/li&gt;
+&lt;li&gt;Copy or drag the Uf2 file, after which the controller should instantly reboot and start working in normal mode&lt;/li&gt;
+&lt;li&gt;Import the layout into the Vial program by clicking on the &lt;strong&gt;File&lt;/strong&gt; menu, then &lt;strong&gt;Load saved layout&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
       
     </item>
     
@@ -235,9 +489,17 @@ Firmware update Preparation Download the latest firmware here Save your layout i
       
       <guid>http://localhost:1313/en-gb/pages/docs/planeta/</guid>
       
-      <description>Connection When connecting the keyboard to the computer, make sure the USB-C cable is firmly inserted into the connector Customizing keyboard Please refer to the Vial guide
-Caps Word function Press LShift and RShift simultaneously to activate Caps Word. This function allows you to type entire words in uppercase letters without holding down the Caps Lock key. Caps Word is automatically disabled at the end of a word
-Win/Mac mode To switch the mode, you must press the Replacement Ctrl-Cmd for MacOS key on the third layer</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/keyboards/planeta.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;connection&#34;&gt;Connection&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;When connecting the keyboard to the computer, make sure the USB-C cable is firmly inserted into the connector&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;customizing-keyboard&#34;&gt;Customizing keyboard&lt;/h2&gt;
+&lt;p&gt;Please refer to the &lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/vial/&#34;&gt;Vial guide&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;caps-word-function&#34;&gt;Caps Word function&lt;/h2&gt;
+&lt;p&gt;Press LShift and RShift simultaneously to activate Caps Word. This function allows you to type entire words in uppercase letters without holding down the Caps Lock key. Caps Word is automatically disabled at the end of a word&lt;/p&gt;
+&lt;h2 id=&#34;winmac-mode&#34;&gt;Win/Mac mode&lt;/h2&gt;
+&lt;p&gt;To switch the mode, you must press the &lt;strong&gt;Replacement Ctrl-Cmd for MacOS&lt;/strong&gt; key on the third layer&lt;/p&gt;</description>
       
     </item>
     
@@ -248,8 +510,14 @@ Win/Mac mode To switch the mode, you must press the Replacement Ctrl-Cmd for Mac
       
       <guid>http://localhost:1313/en-gb/pages/docs/ruen/</guid>
       
-      <description>RuEn mode This mode is designed to
-place punctuation marks in the same places for Russian and English languages, enter characters from the English layout when printing in Russian, switch the layout to English or Russian using separate keys. This works due to the fact that the keyboard remembers the current layout, and if you need to enter a character that is not in the Russian layout, it automatically switches the layout, and after entering the character, it returns the layout back.</description>
+      <description>&lt;h1 id=&#34;ruen-mode&#34;&gt;RuEn mode&lt;/h1&gt;
+&lt;p&gt;This mode is designed to&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;place punctuation marks in the same places for Russian and English languages,&lt;/li&gt;
+&lt;li&gt;enter characters from the English layout when printing in Russian,&lt;/li&gt;
+&lt;li&gt;switch the layout to English or Russian using separate keys.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This works due to the fact that the keyboard remembers the current layout, and if you need to enter a character that is not in the Russian layout, it automatically switches the layout, and after entering the character, it returns the layout back.&lt;/p&gt;</description>
       
     </item>
     
@@ -260,9 +528,28 @@ place punctuation marks in the same places for Russian and English languages, en
       
       <guid>http://localhost:1313/en-gb/pages/docs/tb-mini/</guid>
       
-      <description>
-Connection When connecting the keyboard to the computer, make sure the USB-C cable is firmly inserted into the connector Customizing device Please refer to the Vial guide
-Firmware update Preparation Download the latest firmware here Save your layout in the Vial program by clicking on the &amp;ldquo;File&amp;rdquo; menu, then &amp;ldquo;Save current layout&amp;rdquo; Installation Connect Trackball Mini to PC Press the right button on the back of the case twice quickly (red button in the photo) Wait until the controller enters bootloader mode and the storage folder opens Copy or drag the Uf2 file, after which the controller should instantly reboot and start working as normal Import the layout into the Vial program by clicking on the &amp;ldquo;File&amp;rdquo; menu, then &amp;ldquo;Load saved layout&amp;rdquo; </description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/keyboards/tb-mini01.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;connection&#34;&gt;Connection&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;When connecting the keyboard to the computer, make sure the USB-C cable is firmly inserted into the connector&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;customizing-device&#34;&gt;Customizing device&lt;/h2&gt;
+&lt;p&gt;Please refer to the &lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/vial/&#34;&gt;Vial guide&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;firmware-update&#34;&gt;Firmware update&lt;/h2&gt;
+&lt;h3 id=&#34;preparation&#34;&gt;Preparation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Download the latest firmware &lt;a href=&#34;https://github.com/ergohaven/keymap_hub&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Save your layout in the Vial program by clicking on the &amp;ldquo;File&amp;rdquo; menu, then &amp;ldquo;Save current layout&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/keyboards/tb-mini02.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;installation&#34;&gt;Installation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Connect Trackball Mini to PC&lt;/li&gt;
+&lt;li&gt;Press the right button on the back of the case twice quickly (red button in the photo)&lt;/li&gt;
+&lt;li&gt;Wait until the controller enters bootloader mode and the storage folder opens&lt;/li&gt;
+&lt;li&gt;Copy or drag the Uf2 file, after which the controller should instantly reboot and start working as normal&lt;/li&gt;
+&lt;li&gt;Import the layout into the Vial program by clicking on the &amp;ldquo;File&amp;rdquo; menu, then &amp;ldquo;Load saved layout&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;</description>
       
     </item>
     
@@ -273,8 +560,16 @@ Firmware update Preparation Download the latest firmware here Save your layout i
       
       <guid>http://localhost:1313/en-gb/pages/docs/velvet/</guid>
       
-      <description>Connection Before connecting the keyboard to the computer, make sure that the USB-C cable is firmly connected to the connectors on both halves When connecting the keyboard to the computer, make sure the USB-C cable is firmly inserted into the connector Customizing keyboard Please refer to the Vial guide
-Caps Word function Press LShift and RShift simultaneously to activate Caps Word. This function allows you to type entire words in uppercase letters without holding down the Caps Lock key.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/keyboards/velvet.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;connection&#34;&gt;Connection&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Before connecting the keyboard to the computer, make sure that the USB-C cable is firmly connected to the connectors on both halves&lt;/li&gt;
+&lt;li&gt;When connecting the keyboard to the computer, make sure the USB-C cable is firmly inserted into the connector&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;customizing-keyboard&#34;&gt;Customizing keyboard&lt;/h2&gt;
+&lt;p&gt;Please refer to the &lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/vial/&#34;&gt;Vial guide&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;caps-word-function&#34;&gt;Caps Word function&lt;/h2&gt;
+&lt;p&gt;Press LShift and RShift simultaneously to activate Caps Word. This function allows you to type entire words in uppercase letters without holding down the Caps Lock key. Caps Word is automatically disabled at the end of a word&lt;/p&gt;</description>
       
     </item>
     
