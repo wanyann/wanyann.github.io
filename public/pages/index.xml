@@ -376,7 +376,25 @@ Caps Word автоматически отключается в конце сло
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/vial/&#34;&gt;Vial&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/ruen/&#34;&gt;Режим RuEn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/zmk-keyboards/&#34;&gt;Первые шаги с клавиатурой на ZMK&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/keymap-editor/&#34;&gt;Настройка ZMK клавиатуры в keymap-editor&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Настройка клавиатуры в ZMK keymap-editor</title>
+      <link>http://localhost:1313/pages/docs/keymap-editor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pages/docs/keymap-editor/</guid>
+      
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/keymap-editor/editor.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keymap-editor&lt;/strong&gt; — это мощный инструмент для настройки клавиатуры на ZMK, позволяющий удобно и быстро воплотить идею в готовую раскладку.
+В статье описана процедура подключения keymap-editor и основные возможности с точки зрения как нового пользователя, только начинающего погружение в мир сплит-клавиатур, так и уже знакомого с сплит-клавиатурами и настройкой раскладки в Vial.&lt;/p&gt;
+&lt;h2 id=&#34;начало-работы-с-keymap-editor&#34;&gt;Начало работы с keymap-editor&lt;/h2&gt;
+&lt;p&gt;Keymap-editor является веб-приложением, он доступен из браузера по адресу &lt;a href=&#34;https://nickcoutsos.github.io/keymap-editor/&#34;&gt;https://nickcoutsos.github.io/keymap-editor/&lt;/a&gt;.
+Чтобы им воспользоваться, требуется выполнить несколько условий:&lt;/p&gt;</description>
       
     </item>
     
@@ -393,6 +411,22 @@ Caps Word автоматически отключается в конце сло
 &lt;p&gt;Самый распространённый вариант это Brown переключатели (тактильные) и XDA кейкапы.&lt;/p&gt;
 &lt;h2 id=&#34;мне-нужна-низкопрофильная-клавиатура-есть-ли-у-вас-такое&#34;&gt;Мне нужна низкопрофильная клавиатура, есть ли у Вас такое?&lt;/h2&gt;
 &lt;p&gt;Вы можете выбрать все наши клавиатуры со среднепрофильными переключателями и низкопрофильными кейкапами, среднепрофильные переключатели немного выше низкопрофильных, но при этом имеют стандартный MX разъём, что делает их взаимозаменяемыми со стандартными переключателями, при этом разницы по высоте Вы, скорее всего, не заметите.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Первые шаги с клавиатурой на ZMK</title>
+      <link>http://localhost:1313/pages/docs/zmk-keyboards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pages/docs/zmk-keyboards/</guid>
+      
+      <description>&lt;p&gt;В статье содержится руководство, которое поможет сделать первые шаги в освоении клавиатуры на ZMK. Прочитав статью пользователь научится: управлять питанием клавиатуры, подключать клавиатуру к нескольким устройствам и обновлять прошивку.&lt;/p&gt;
+&lt;h2 id=&#34;подключение-клавиатуры&#34;&gt;Подключение клавиатуры&lt;/h2&gt;
+&lt;p&gt;Шаг 1. Для начала включаем её, переключив физический тумблер в положение &amp;ldquo;On&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/zmk-keyboards/buttons.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Шаг 2. Далее половинки надо соединить между собой, для этого одновременно на обоих половинках нажимаем кнопку &amp;ldquo;Reset&amp;rdquo;, находящуюся на дне.&lt;/p&gt;
+&lt;p&gt;Шаг 3. Когда клавиатура включена и половинки соединены можно переходить к подключению. Для начала стоит убедиться, что текущий профиль подключения очищен, нажав &lt;code&gt;&amp;amp;BT_CLR&lt;/code&gt; (в раскладке по умолчанию клавиши управления профилем расположены на 3 слое, переключиться на него можно, зажав клавиши переключения на слои 1 и 2), это сбросит привязанные к профилю устройства.&lt;/p&gt;</description>
       
     </item>
     
@@ -488,7 +522,7 @@ Caps Word автоматически отключается в конце сло
 &lt;p&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/releases/download/3.8.4-vil-files/macropad_v2_default.vil&#34;&gt;M4CR0Pad файл раскладки для программы Vial&lt;/a&gt;
 &lt;img src=&#34;http://localhost:1313/images/layouts/macropad_ru.png&#34; alt=&#34;M4CR0Pad&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;omega-point-36&#34;&gt;Omega Point 36&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;images/layouts/op36_ru.png&#34; alt=&#34;OP36&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/layouts/op36_ru.png&#34; alt=&#34;OP36&#34;&gt;&lt;/p&gt;</description>
       
     </item>
     

@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/tags/guide/</loc>
-    <lastmod>2025-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,8 +15,24 @@
                 href="http://localhost:1313/tags/guide/"
                 />
   </url><url>
+    <loc>http://localhost:1313/tags/k03/</loc>
+    <lastmod>2025-04-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en-gb/tags/k03/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/tags/k03/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/posts/k03spaceship/</loc>
+    <lastmod>2025-04-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,7 +45,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -42,7 +58,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -279,18 +295,6 @@
                 href="http://localhost:1313/pages/docs/k02/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/k03/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en-gb/tags/k03/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="http://localhost:1313/tags/k03/"
-                />
-  </url><url>
     <loc>http://localhost:1313/pages/docs/k03/</loc>
     <xhtml:link
                 rel="alternate"
@@ -423,6 +427,8 @@
                 href="http://localhost:1313/pages/docs/velvet/"
                 />
   </url><url>
+    <loc>http://localhost:1313/tags/zmk/</loc>
+  </url><url>
     <loc>http://localhost:1313/pages/docs/vial/</loc>
     <xhtml:link
                 rel="alternate"
@@ -447,6 +453,8 @@
                 href="http://localhost:1313/pages/docs/"
                 />
   </url><url>
+    <loc>http://localhost:1313/pages/docs/keymap-editor/</loc>
+  </url><url>
     <loc>http://localhost:1313/pages/faq/</loc>
     <xhtml:link
                 rel="alternate"
@@ -458,6 +466,8 @@
                 hreflang="ru"
                 href="http://localhost:1313/pages/faq/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/pages/docs/zmk-keyboards/</loc>
   </url><url>
     <loc>http://localhost:1313/pages/firmware/</loc>
     <xhtml:link

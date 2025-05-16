@@ -11,15 +11,16 @@ toc: false
 | Imperial44 v3 ✔️             | New keycaps                  |                        |
 | HPD v2 Open Source ✔️        | Project "Sprawl"             |                        |
 | K:03 PRO v2 ✔️               | Expo                         |                        |
-| Deskmats                     | Project "Gamer"              |                        |
-| Velvet v3 Wireless edition   | Imperial44 Spaceship edition |                        |
-| Project "op36"               | Planeta v3                   |                        |
-| Шумка для клавиатур          | Velvet "UI" edition          |                        |
-| Подушечки для УСН ✔️         |                              |                        |
-| Новые модули для HPD         |                              |                        |
-| K:03 Wireless edition        |                              |                        |
-| Imperial44 Wireless edition  |                              |                        |
-| Новая упаковка ✔️            |                              |                        |
+| Velvet v3 Wireless edition ✔️| Project "Gamer"              |                        |
+| Project "op36" ✔️            | Imperial44 Spaceship edition |                        |
+| Подушечки для УСН ✔️         | Planeta v3                   |                        |
+| Новая упаковка ✔️            | Velvet "UI" edition          |                        |
+|                              | Macropad 2                   |                        |
+|                              | K:03 Wireless edition        |                        |
+|                              | Imperial44 Wireless edition  |                        |
+|                              | Deskmats                     |                        |
+|                              | Шумка для клавиатур          |                        |
+|                              | Новые модули для HPD         |                        |
 
 **Дисклеймер:** вся информация на данной странице не утверждена окончательно и лишь имеет относительную дату для ознакомления. Изменения и дополнения будут происходить на постоянной основе.
    

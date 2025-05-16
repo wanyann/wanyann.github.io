@@ -11,15 +11,16 @@ toc: false
 | Imperial44 v3 ✔️             | New keycaps                  |                        |
 | HPD v2 Open Source ✔️        | Project "Sprawl"             |                        |
 | K:03 PRO v2 ✔️               | Expo                         |                        |
-| Deskmats                     | Project "Gamer"              |                        |
-| Velvet v3 Wireless edition   | Imperial44 Spaceship edition |                        |
-| Project "op36"               | Planeta v3                   |                        |
-| Noise insulation             | Velvet "UI" edition          |                        |
-| Handrests for UTS ✔️         |                              |                        |
-| New modules for HPD          |                              |                        |
-| K:03 Wireless edition        |                              |                        |
-| Imperial44 Wireless edition  |                              |                        |
-| New packaging ✔️             |                              |                        |
+| Velvet v3 Wireless edition ✔️| Project "Gamer"              |                        |
+| Project "op36" ✔️            | Imperial44 Spaceship edition |                        |
+| Handrests for UTS ✔️         | Planeta v3                   |                        |
+| New packaging  ✔️            | Velvet "UI" edition          |                        |
+|                              | Macropad 2                   |                        |
+|                              | K:03 Wireless edition        |                        |
+|                              | Imperial44 Wireless edition  |                        |
+|                              | Deskmats                     |                        |
+|                              | Keyboard noise insulation    |                        |
+|                              | New modules for HPD          |                        |
 
 **Disclaimer:** All information on this page has not been finalized and is for reference only. Changes and additions are made on an ongoing basis.
 

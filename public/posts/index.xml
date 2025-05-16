@@ -6,7 +6,23 @@
     <description>Recent content in Блог on Ergohaven&#39;s journey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 20 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>K:03 Spaceship Edititon: Добро пожаловать на борт</title>
+      <link>http://localhost:1313/posts/k03spaceship/</link>
+      <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/k03spaceship/</guid>
+      
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/k03spaceship/1.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Пару месяцев назад в моей непомерно разросшейся коллекции клавиатур появилась K:03 Spaceship Edition — долгожданная сплит-клавиатура в металлическом корпусе от Ergohaven, в статье поделюсь своим опытом использования этого &amp;ldquo;космического аппарата&amp;rdquo; и постараюсь рассказать о ее особенностях.
+Поехали!&lt;/p&gt;
+&lt;h3 id=&#34;корпус&#34;&gt;Корпус&lt;/h3&gt;
+&lt;p&gt;Начнем с самого главного! Клавиатура имеет корпус из анодированного алюминия, придающий устройству не только премиальный внешний вид, но и глубокий насыщенный звук каждому нажатию.
+Звучание печати на клавиатуре можно оценить в видео &lt;a href=&#34;https://youtu.be/KwxN4QEYbYo?si=Jye_W-u6q-q23yir&#34;&gt;K:03 &amp;ldquo;Spaceship Edition&amp;rdquo; preview&lt;/a&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Руководство по энкодерам</title>
       <link>http://localhost:1313/posts/encoders/</link>
