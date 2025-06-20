@@ -14,12 +14,11 @@ toc: false
 | Velvet v3 Wireless edition ✔️| Project "Gamer"              |                        |
 | Project "op36" ✔️            | Imperial44 Spaceship edition |                        |
 | Подушечки для УСН ✔️         | Planeta v3                   |                        |
-| Новая упаковка ✔️            | Velvet "UI" edition          |                        |
-|                              | Macropad 2                   |                        |
+| Новая упаковка ✔️            | Velvet "UI" edition ✔️       |                        |
 |                              | K:03 Wireless edition        |                        |
 |                              | Imperial44 Wireless edition  |                        |
-|                              | Deskmats                     |                        |
-|                              | Шумка для клавиатур          |                        |
+|                              | Deskmats ✔️                  |                        |
+|                              | Шумка для клавиатур ✔️       |                        |
 |                              | Новые модули для HPD         |                        |
 
 **Дисклеймер:** вся информация на данной странице не утверждена окончательно и лишь имеет относительную дату для ознакомления. Изменения и дополнения будут происходить на постоянной основе.
