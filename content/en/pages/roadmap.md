@@ -24,6 +24,6 @@ toc: false
 **Disclaimer:** All information on this page has not been finalized and is for reference only. Changes and additions are made on an ongoing basis.
 
 - **S01** - January, February, March, April  
-- **S02** - May, June, July, Augustus  
+- **S02** - May, June, July, August  
 - **S03** - September, October, November, December
 
