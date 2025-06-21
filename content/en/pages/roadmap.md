@@ -14,17 +14,16 @@ toc: false
 | Velvet v3 Wireless edition ✔️| Project "Gamer"              |                        |
 | Project "op36" ✔️            | Imperial44 Spaceship edition |                        |
 | Handrests for UTS ✔️         | Planeta v3                   |                        |
-| New packaging  ✔️            | Velvet "UI" edition          |                        |
-|                              | Macropad 2                   |                        |
+| New packaging  ✔️            | Velvet "UI" edition  ✔️      |                        |
 |                              | K:03 Wireless edition        |                        |
 |                              | Imperial44 Wireless edition  |                        |
-|                              | Deskmats                     |                        |
-|                              | Keyboard noise insulation    |                        |
+|                              | Deskmats ✔️                  |                        |
+|                              | Keyboard noise insulation ✔️ |                        |
 |                              | New modules for HPD          |                        |
 
 **Disclaimer:** All information on this page has not been finalized and is for reference only. Changes and additions are made on an ongoing basis.
 
 - **S01** - January, February, March, April  
-- **S02** - May, June, July, Augustus  
+- **S02** - May, June, July, August  
 - **S03** - September, October, November, December
 
