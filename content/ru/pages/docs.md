@@ -13,9 +13,9 @@ toc: false
 - [Planeta](docs/planeta)
 - [Trackball Mini](docs/tb-mini)
 - [Velvet v3 (проводной)](docs/velvet)
+- [Общая документация для беспроводных клавиатур](docs/zmk-keyboards)
 
 ## Софт
-- [Vial](docs/vial)
-- [Режим RuEn](docs/ruen)
-- [Первые шаги с клавиатурой на ZMK](docs/zmk-keyboards)
-- [Настройка ZMK клавиатуры в keymap-editor](docs/keymap-editor)
+- [Vial (софт для проводных клавиатур)](docs/vial)
+- [Режим RuEn (для программы Vial)](docs/ruen)
+- [Настройка беспроводной клавиатуры в keymap-editor](docs/keymap-editor)
