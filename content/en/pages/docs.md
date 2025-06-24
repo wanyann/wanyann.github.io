@@ -12,7 +12,7 @@ toc: false
 - [M4CR0Pad](docs/macropad)
 - [Planeta](docs/planeta)
 - [Trackball Mini](docs/tb-mini)
-- [Velvet](docs/velvet)
+- [Velvet v3 (wired)](docs/velvet)
 
 ## Software
 - [Vial](docs/vial)

@@ -345,7 +345,7 @@
 &lt;p&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/releases/download/3.8.4-vil-files/imperial44_v1_v2_default.vil&#34;&gt;Imperial44 layout file for Vial&lt;/a&gt;
 &lt;img src=&#34;http://localhost:1313/images/layouts/imperial.png&#34; alt=&#34;Imperial44&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;velvet-v3&#34;&gt;Velvet v3&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/releases/download/3.8.4-vil-files/velvet_v3_default.vil&#34;&gt;Velvet v3 layout file for Vial&lt;/a&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/releases/download/3.8.4-vil-files/velvet_v3_default.vil&#34;&gt;Velvet v3 layout file for Vial (wired version)&lt;/a&gt;
 &lt;img src=&#34;http://localhost:1313/images/layouts/velvet.png&#34; alt=&#34;Velvet v3&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;planeta&#34;&gt;Planeta&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/releases/download/3.8.4-vil-files/planeta_v2_default.vil&#34;&gt;Planeta layout file for Vial&lt;/a&gt;
@@ -354,7 +354,9 @@
 &lt;p&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/releases/download/3.8.4-vil-files/macropad_v2_default.vil&#34;&gt;M4CR0Pad layout file for Vial&lt;/a&gt;
 &lt;img src=&#34;http://localhost:1313/images/layouts/macropad.png&#34; alt=&#34;M4CR0Pad&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;omega-point-36&#34;&gt;Omega Point 36&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/layouts/op36.png&#34; alt=&#34;OP36&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/layouts/op36.png&#34; alt=&#34;OP36&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;velvet-v3-ui&#34;&gt;Velvet v3 UI&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/layouts/velvet_ui.png&#34; alt=&#34;Velvet v3 UI&#34;&gt;&lt;/p&gt;</description>
       
     </item>
     
