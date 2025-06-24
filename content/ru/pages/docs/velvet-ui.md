@@ -1,6 +1,6 @@
 +++
 title = "Velvet v3 – UI Edition"
-tags = ["guide", "zmk", "velvet"]
+tags = ["docs", "velvet-ui"]
 +++
 
 ![image](/images/velvet-ui/velvet.jpg)

@@ -13,6 +13,7 @@ toc: false
 - [Planeta](docs/planeta)
 - [Trackball Mini](docs/tb-mini)
 - [Velvet v3 (проводной)](docs/velvet)
+- [Velvet v3 – UI Edition](docs/velvet-ui)
 - [Общая документация для беспроводных клавиатур](docs/zmk-keyboards)
 
 ## Софт
