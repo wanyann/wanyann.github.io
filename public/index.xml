@@ -193,12 +193,7 @@
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;Новая упаковка ✔️&lt;/td&gt;
-          &lt;td&gt;Velvet &amp;ldquo;UI&amp;rdquo; edition&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;Macropad 2&lt;/td&gt;
+          &lt;td&gt;Velvet &amp;ldquo;UI&amp;rdquo; edition ✔️&lt;/td&gt;
           &lt;td&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
@@ -213,12 +208,12 @@
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;Deskmats&lt;/td&gt;
+          &lt;td&gt;Deskmats ✔️&lt;/td&gt;
           &lt;td&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;Шумка для клавиатур&lt;/td&gt;
+          &lt;td&gt;Шумка для клавиатур ✔️&lt;/td&gt;
           &lt;td&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
@@ -591,7 +586,7 @@ Caps Word автоматически отключается в конце сло
           &lt;td&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/tree/main/user-layouts/imperial44&#34;&gt;Imperial44&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/pages/layouts_ru/#velvet-v3&#34;&gt;Velvet v3&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/pages/layouts_ru/#velvet-v3&#34;&gt;Velvet v3 &lt;/a&gt;&lt;/td&gt;
           &lt;td&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/tree/main/user-layouts/velvet-v3&#34;&gt;Velvet v3&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
@@ -604,6 +599,10 @@ Caps Word автоматически отключается в конце сло
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;&lt;a href=&#34;http://localhost:1313/pages/layouts_ru/#op36&#34;&gt;Omega Point 36&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/pages/layouts_ru/#velvet-v3-ui&#34;&gt;Velvet v3 UI&lt;/a&gt;&lt;/td&gt;
           &lt;td&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;

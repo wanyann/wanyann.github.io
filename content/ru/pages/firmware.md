@@ -13,10 +13,11 @@ toc: false
 | [K:03 PRO][05]        | [K:03 PRO][12]             |
 | [HPD v2][06]          | [HPD v2][13]               |
 | [Imperial44][07]      | [Imperial44][14]           |
-| [Velvet v3][08]       | [Velvet v3][15]            |
+| [Velvet v3 ][08]      | [Velvet v3][15]            |
 | [Planeta][09]         | [Planeta][16]              |
 | [M4CR0Pad][10]        | [M4CR0Pad][17]             |
 | [Omega Point 36][18]  |                            |
+| [Velvet v3 UI][19]    |                            |
 
 [01]: https://github.com/ergohaven/keymap_hub/
 [02]: pages/docs
@@ -30,6 +31,7 @@ toc: false
 [09]: pages/layouts_ru#planeta
 [10]: pages/layouts_ru#macropad
 [18]: pages/layouts_ru#op36
+[19]: pages/layouts_ru#velvet-v3-ui
 
 
 [11]: https://github.com/ergohaven/keymap_hub/blob/main/user-layouts/k03

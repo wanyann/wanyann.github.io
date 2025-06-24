@@ -21,7 +21,7 @@ tocOpen: true
 ![Imperial44](images/layouts/imperial.png)
 
 ## Velvet v3
-[Velvet v3 layout file for Vial](https://github.com/ergohaven/keymap_hub/releases/download/3.8.4-vil-files/velvet_v3_default.vil)
+[Velvet v3 layout file for Vial (wired version)](https://github.com/ergohaven/keymap_hub/releases/download/3.8.4-vil-files/velvet_v3_default.vil)
 ![Velvet v3](images/layouts/velvet.png)
 
 ## Planeta
@@ -34,3 +34,6 @@ tocOpen: true
 
 ## Omega Point 36
 ![OP36](images/layouts/op36.png)
+
+## Velvet v3 UI
+![Velvet v3 UI](images/layouts/velvet_ui.png)
