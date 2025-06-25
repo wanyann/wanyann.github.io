@@ -13,7 +13,9 @@ toc: false
 - [Planeta](docs/planeta)
 - [Trackball Mini](docs/tb-mini)
 - [Velvet v3 (wired)](docs/velvet)
+- [General documentation for wireless keyboards](docs/zmk-keyboards)
 
 ## Software
-- [Vial](docs/vial)
-- [RuEn mode](docs/ruen)
+- [Vial software (wired keyboards)](docs/vial)
+- [RuEn mode (for Vial)](docs/ruen)
+- [Customizing a wireless keyboard in Keymap-Editor](docs/keymap-editor)
