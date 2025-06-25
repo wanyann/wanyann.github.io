@@ -43,7 +43,7 @@ The action when you touch the trackball is quite flexible, as you can assign any
 
 ![image](/images/velvet-ui/keymap.png)
 
-By default, the custom behavior `&cap_sen` is assigned to the trackball touch, briefly touching the trackball produces a left mouse button click, and holding your finger down activates the mouse layer. You can view details of the behavior or change it in the *Behaviors* tab.
+By default, the <a href="https://journey.ergohaven.xyz/en-gb/pages/docs/keymap-editor/#custom-behaviors" target="_blank">custom behavior</a> `&cap_sen` is assigned to the trackball touch, briefly touching the trackball produces a left mouse button click, and holding your finger down activates the mouse layer. You can view details of the behavior or change it in the *Behaviors* tab.
 
 ![image](/images/velvet-ui/capsen.png)
 
@@ -74,11 +74,11 @@ Scroll and Sniper modes are activated on the configured layers, by default **5**
   
 In the default layout, modes are switched using the `&mo` behavior, but you can switch modes using any other behavior that activates layers. If you don't want to keep the scroll mode button pressed, you can use the `&tog 5` behavior to activate the mode, then a single tap will activate layer 5 along with the scroll mode, and a second tap will deactivate layer 5 and the scroll mode.
 
-You can also make a hybrid custom behavior that when held will turn on the layer with the `&mo` behavior, and when tapped will toggle it with the `&tog` behavior.
+You can also make a hybrid <a href="https://journey.ergohaven.xyz/en-gb/pages/docs/keymap-editor/#custom-behaviors" target="_blank">custom behavior</a> that when held will turn on the layer with the `&mo` behavior, and when tapped will toggle it with the `&tog` behavior.
 
 ![image](/images/velvet-ui/mode-behavior.png)
 
-## Tracball configuration
+## Trackball configuration
 
 All trackball modes can be customized in the `config/velvet_v3_ui.keymap` file, this can be done quickly and conveniently in the GitHub interface by clicking **Edit this file**.
 

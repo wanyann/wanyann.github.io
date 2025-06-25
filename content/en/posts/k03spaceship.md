@@ -44,7 +44,7 @@ After removing the board, we see another PE foam layer about 3.8 mm thick; these
 ## Form factor
 The keyboard has 60 keys — this is a successful format both for those who just starting to dive into the world of ergonomic keyboards, with numbers on the top row, and for already experienced users; if you have recognized the power of the numeric layer, you can assign symbols, F-keys, macros to the top row keys.
 
-![image](/images/k03spaceship/8.png)
+![image](/images/k03spaceship/8-en.png)
 *Base layer of the [standard K:03 layout](https://journey.ergohaven.xyz/pages/layouts_ru/#k03)*
 
 It's worth noting the possibility of installing hot-swap encoders in the keyboard; you can read more about them in the article [Encoder guide](https://journey.ergohaven.xyz/en-gb/posts/encoders/).
