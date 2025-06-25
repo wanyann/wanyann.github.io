@@ -483,14 +483,14 @@ Caps Word автоматически отключается в конце сло
 &lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/macropad/&#34;&gt;M4CR0Pad&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/planeta/&#34;&gt;Planeta&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/tb-mini/&#34;&gt;Trackball Mini&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/velvet/&#34;&gt;Velvet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/velvet/&#34;&gt;Velvet v3 (проводной)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/zmk-keyboards/&#34;&gt;Общая документация для беспроводных клавиатур&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;софт&#34;&gt;Софт&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/vial/&#34;&gt;Vial&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/ruen/&#34;&gt;Режим RuEn&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/zmk-keyboards/&#34;&gt;Первые шаги с клавиатурой на ZMK&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/keymap-editor/&#34;&gt;Настройка ZMK клавиатуры в keymap-editor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/vial/&#34;&gt;Vial (софт для проводных клавиатур)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/ruen/&#34;&gt;Режим RuEn (для программы Vial)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/keymap-editor/&#34;&gt;Настройка беспроводной клавиатуры в keymap-editor&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       
     </item>

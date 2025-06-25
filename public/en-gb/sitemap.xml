@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/en-gb/posts/</loc>
-    <lastmod>2025-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -13,6 +13,71 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/en-gb/posts/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en-gb/tags/guide/</loc>
+    <lastmod>2025-04-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/tags/guide/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en-gb/tags/guide/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en-gb/</loc>
+    <lastmod>2025-04-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en-gb/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en-gb/tags/k03/</loc>
+    <lastmod>2025-04-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/tags/k03/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en-gb/tags/k03/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en-gb/posts/k03spaceship/</loc>
+    <lastmod>2025-04-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/posts/k03spaceship/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en-gb/posts/k03spaceship/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en-gb/tags/</loc>
+    <lastmod>2025-04-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en-gb/tags/"
                 />
   </url><url>
     <loc>http://localhost:1313/en-gb/posts/encoders/</loc>
@@ -26,45 +91,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/en-gb/posts/encoders/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en-gb/tags/guide/</loc>
-    <lastmod>2025-03-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="http://localhost:1313/tags/guide/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en-gb/tags/guide/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en-gb/</loc>
-    <lastmod>2025-03-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="http://localhost:1313/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en-gb/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en-gb/tags/</loc>
-    <lastmod>2025-03-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="http://localhost:1313/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en-gb/tags/"
                 />
   </url><url>
     <loc>http://localhost:1313/en-gb/posts/hello-world/</loc>
@@ -299,18 +325,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/en-gb/pages/docs/k02/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en-gb/tags/k03/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="http://localhost:1313/tags/k03/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en-gb/tags/k03/"
                 />
   </url><url>
     <loc>http://localhost:1313/en-gb/pages/docs/k03/</loc>
