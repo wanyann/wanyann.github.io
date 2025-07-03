@@ -29,9 +29,9 @@
       <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/k03spaceship/1.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
 &lt;p&gt;A couple of months ago, my enormously expanded collection of keyboards was joined by the K:03 Spaceship Edition — a long-awaited split keyboard with a metal case from Ergohaven. In this article, I will share my experience using this &amp;ldquo;spaceship&amp;rdquo; and try to describe its features.
 Let&amp;rsquo;s get started!&lt;/p&gt;
-&lt;h3 id=&#34;case&#34;&gt;Case&lt;/h3&gt;
-&lt;p&gt;Let&amp;rsquo;s start with the most important thing! The keyboard features an anodized aluminum case, which gives the device not only a premium look but also a deep, rich sound to every keystroke.
-You can evaluate the keyboard&amp;rsquo;s typing sound in the video &lt;a href=&#34;https://youtu.be/KwxN4QEYbYo?si=Jye_W-u6q-q23yir&#34;&gt;K:03 &amp;ldquo;Spaceship Edition&amp;rdquo; preview&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;h2 id=&#34;case&#34;&gt;Case&lt;/h2&gt;
+&lt;p&gt;The keyboard features an anodized aluminum case, which gives the device not only a premium look but also a deep, rich sound to every keystroke.
+You can enjoy the keyboard&amp;rsquo;s typing sound in the video &lt;a href=&#34;https://youtu.be/KwxN4QEYbYo?si=Jye_W-u6q-q23yir&#34;&gt;K:03 &amp;ldquo;Spaceship Edition&amp;rdquo; preview&lt;/a&gt;.&lt;/p&gt;</description>
       
     </item>
     
@@ -105,22 +105,23 @@ Touch typing (also called blind typing, or touch keyboarding) is a style of typi
     </item>
     
     <item>
-      <title>First Steps with a Keyboard on ZMK</title>
+      <title>First steps with a Keyboard on ZMK</title>
       <link>http://localhost:1313/en-gb/pages/docs/zmk-keyboards/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/en-gb/pages/docs/zmk-keyboards/</guid>
       
       <description>&lt;p&gt;This article provides a guide to help you take your first steps in mastering a keyboard on ZMK. After reading the article, the user will learn how to: manage the keyboard&amp;rsquo;s power, connect the keyboard to multiple devices, and update the firmware.&lt;/p&gt;
-&lt;h2 id=&#34;connecting-the-keyboard&#34;&gt;Connecting the Keyboard&lt;/h2&gt;
-&lt;p&gt;Step 1. First, turn it on by switching the physical toggle to the &amp;ldquo;On&amp;rdquo; position.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/zmk-keyboards/buttons.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Step 2. Next, the halves need to be connected to each other. To do this, simultaneously press the &amp;ldquo;Reset&amp;rdquo; button on the bottom of both halves.&lt;/p&gt;</description>
+&lt;h2 id=&#34;connecting-the-keyboard&#34;&gt;Connecting the keyboard&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;If you have encountered any issues with connecting keyboard to your device, try to reboot bluetooth on your device and repeat all steps.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Step 1. First, turn it on by switching the physical toggle to the &amp;ldquo;On&amp;rdquo; position.&lt;/p&gt;</description>
       
     </item>
     
     <item>
-      <title>Keyboard Configuration in ZMK keymap-editor</title>
+      <title>Keyboard configuration in ZMK keymap-editor</title>
       <link>http://localhost:1313/en-gb/pages/docs/keymap-editor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -128,8 +129,8 @@ Touch typing (also called blind typing, or touch keyboarding) is a style of typi
       
       <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/keymap-editor/editor.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Keymap-editor&lt;/strong&gt; is a powerful tool for configuring keyboards on ZMK, allowing you to conveniently and quickly turn an idea into a ready-made layout.
-This article describes the procedure for connecting keymap-editor and its main features from the perspective of both a new user just beginning to delve into the world of split keyboards, and someone already familiar with split keyboards and configuring layouts in Vial.&lt;/p&gt;
-&lt;h2 id=&#34;getting-started-with-keymap-editor&#34;&gt;Getting Started with keymap-editor&lt;/h2&gt;
+This article describes the procedure for connecting keymap-editor and its main features from the perspective of both a new user, just beginning to delve into the world of split keyboards, and someone already familiar with split keyboards and configuring layouts in Vial.&lt;/p&gt;
+&lt;h2 id=&#34;getting-started-with-keymap-editor&#34;&gt;Getting started with keymap-editor&lt;/h2&gt;
 &lt;p&gt;Keymap-editor is a web application, accessible from a browser at &lt;a href=&#34;https://nickcoutsos.github.io/keymap-editor/&#34;&gt;https://nickcoutsos.github.io/keymap-editor/&lt;/a&gt;.
 To use it, you need to meet several conditions:&lt;/p&gt;</description>
       
