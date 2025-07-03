@@ -6,7 +6,19 @@
     <description>Recent content in Home on Ergohaven&#39;s journey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en-gb/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en-gb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Which Keyboard to Choose: Wireless or Wired?</title>
+      <link>http://localhost:1313/en-gb/posts/wired_vs_wireless/</link>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en-gb/posts/wired_vs_wireless/</guid>
+      
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Hello, as you know, our store has two types of keyboards: wired and wireless. And if you are choosing your first split, it would be logical to take a wireless one to get a minimalist setup on the table, but in fact, it&amp;rsquo;s not that simple, there are several important nuances that I want to talk about today, as well as compare the advantages and disadvantages of connecting both wired and wirelessly.&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>K:03 Spaceship Edition: Welcome aboard</title>
       <link>http://localhost:1313/en-gb/posts/k03spaceship/</link>
@@ -159,11 +171,13 @@ Touch typing (also called blind typing, or touch keyboarding) is a style of typi
 &lt;li&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/planeta/&#34;&gt;Planeta&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/tb-mini/&#34;&gt;Trackball Mini&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/velvet/&#34;&gt;Velvet v3 (wired)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/zmk-keyboards/&#34;&gt;General documentation for wireless keyboards&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/vial/&#34;&gt;Vial&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/ruen/&#34;&gt;RuEn mode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/vial/&#34;&gt;Vial software (wired keyboards)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/ruen/&#34;&gt;RuEn mode (for Vial)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/keymap-editor/&#34;&gt;Customizing a wireless keyboard in Keymap-Editor&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       
     </item>
@@ -324,6 +338,21 @@ Touch typing (also called blind typing, or touch keyboarding) is a style of typi
     </item>
     
     <item>
+      <title>First Steps with a Keyboard on ZMK</title>
+      <link>http://localhost:1313/en-gb/pages/docs/zmk-keyboards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en-gb/pages/docs/zmk-keyboards/</guid>
+      
+      <description>&lt;p&gt;This article provides a guide to help you take your first steps in mastering a keyboard on ZMK. After reading the article, the user will learn how to: manage the keyboard&amp;rsquo;s power, connect the keyboard to multiple devices, and update the firmware.&lt;/p&gt;
+&lt;h2 id=&#34;connecting-the-keyboard&#34;&gt;Connecting the Keyboard&lt;/h2&gt;
+&lt;p&gt;Step 1. First, turn it on by switching the physical toggle to the &amp;ldquo;On&amp;rdquo; position.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/zmk-keyboards/buttons.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Step 2. Next, the halves need to be connected to each other. To do this, simultaneously press the &amp;ldquo;Reset&amp;rdquo; button on the bottom of both halves.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
       <title>Frequently asked questions</title>
       <link>http://localhost:1313/en-gb/pages/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -436,6 +465,22 @@ Touch typing (also called blind typing, or touch keyboarding) is a style of typi
 &lt;p&gt;Please refer to the &lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/vial/&#34;&gt;Vial guide&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;caps-word-function&#34;&gt;Caps Word function&lt;/h2&gt;
 &lt;p&gt;Press LShift and RShift simultaneously to activate Caps Word. This function allows you to type entire words in uppercase letters without holding down the Caps Lock key. Caps Word is automatically disabled at the end of a word&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Keyboard Configuration in ZMK keymap-editor</title>
+      <link>http://localhost:1313/en-gb/pages/docs/keymap-editor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en-gb/pages/docs/keymap-editor/</guid>
+      
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/keymap-editor/editor.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keymap-editor&lt;/strong&gt; is a powerful tool for configuring keyboards on ZMK, allowing you to conveniently and quickly turn an idea into a ready-made layout.
+This article describes the procedure for connecting keymap-editor and its main features from the perspective of both a new user just beginning to delve into the world of split keyboards, and someone already familiar with split keyboards and configuring layouts in Vial.&lt;/p&gt;
+&lt;h2 id=&#34;getting-started-with-keymap-editor&#34;&gt;Getting Started with keymap-editor&lt;/h2&gt;
+&lt;p&gt;Keymap-editor is a web application, accessible from a browser at &lt;a href=&#34;https://nickcoutsos.github.io/keymap-editor/&#34;&gt;https://nickcoutsos.github.io/keymap-editor/&lt;/a&gt;.
+To use it, you need to meet several conditions:&lt;/p&gt;</description>
       
     </item>
     

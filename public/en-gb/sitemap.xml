@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/en-gb/posts/</loc>
-    <lastmod>2025-04-19T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en-gb/tags/guide/</loc>
-    <lastmod>2025-04-19T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en-gb/</loc>
-    <lastmod>2025-04-19T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -39,6 +39,32 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/en-gb/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en-gb/tags/</loc>
+    <lastmod>2025-07-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en-gb/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en-gb/posts/wired_vs_wireless/</loc>
+    <lastmod>2025-07-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/posts/wired_vs_wireless/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en-gb/posts/wired_vs_wireless/"
                 />
   </url><url>
     <loc>http://localhost:1313/en-gb/tags/k03/</loc>
@@ -65,19 +91,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/en-gb/posts/k03spaceship/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en-gb/tags/</loc>
-    <lastmod>2025-04-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="http://localhost:1313/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en-gb/tags/"
                 />
   </url><url>
     <loc>http://localhost:1313/en-gb/posts/encoders/</loc>
@@ -243,6 +256,18 @@
                 href="http://localhost:1313/en-gb/pages/firmware/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en-gb/pages/docs/zmk-keyboards/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/pages/docs/zmk-keyboards/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en-gb/pages/docs/zmk-keyboards/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en-gb/pages/faq/</loc>
     <xhtml:link
                 rel="alternate"
@@ -361,6 +386,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/en-gb/pages/docs/k03pro/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en-gb/pages/docs/keymap-editor/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/pages/docs/keymap-editor/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en-gb/pages/docs/keymap-editor/"
                 />
   </url><url>
     <loc>http://localhost:1313/en-gb/pages/layouts/</loc>
@@ -483,6 +520,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/en-gb/pages/docs/velvet/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en-gb/tags/zmk/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/tags/zmk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en-gb/tags/zmk/"
                 />
   </url>
 </urlset>
