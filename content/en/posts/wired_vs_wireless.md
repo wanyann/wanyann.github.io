@@ -33,7 +33,7 @@ Probably, some people are now wondering "Why is everything so complicated and no
 I won’t go into details, I’ll just say that the developers of the QMK firmware do not want to deal with the proprietary nature of Bluetooth and for this reason refuse to add wireless keyboards to their firmware. Because of this, in fact, the ZMK firmware appeared, in which the main emphasis is on supporting wireless keyboards.
 
 ## Convenience
-Wireless keyboards, due to the absence of wires, have more freedom when placed on your desk, and they are also more convenient to take with you and work anywhere. For example, our universal tilt system is more convenient to use with a wireless keyboard, because the connecting wire between the halves with a large tilt will not look very aesthetically pleasing or even interfere. Also, via Bluetooth, you can connect to several PCs and switch between them, while with a wired keyboard there is only one connection.
+Wireless keyboards, due to the absence of wires, have more freedom when placed on your desk, and they are also more convenient to take with you and work anywhere. For example, our universal tenting system is more convenient to use with a wireless keyboard, because the connecting wire between the halves with a large tenting will not look very aesthetically pleasing or even interfere. Also, via Bluetooth, you can connect to several PCs and switch between them, while with a wired keyboard there is only one connection.
 
 ![image](/images/wired_vs_wireless/3.png)
 
@@ -48,11 +48,11 @@ A wired keyboard is more affordable than a wireless one; this is primarily due t
 ## Which keyboard to choose?
 Well, let's summarize, which keyboard is right for you?
 - For beginners, we recommend a wired split, such as [K:03](https://ergohaven.xyz/k03) or [HPD](https://ergohaven.xyz/hpd): a numeric row, the presence of indicator lighting, displays on the K:03, as well as the easy-to-learn Vial program will be a great start to your journey into the world of ergonomic keyboards.
-- For people who value a minimalist setup on their desktop, portability and compactness - we recommend, of course, our wireless keyboards: wireless [Velvet v3](https://ergohaven.xyz/shop?tfc_storepartuid%5B767895441%5D=Wireless+keyboards&tfc_charact:7187570%5B767895441%5D=Velvet&tfc_div=:::) installed on the [universal tilt system](https://ergohaven.xyz/shop/tproduct/767895441-831009055342-universal-tenting-system) can be an ideal solution in terms of ergonomics and aesthetics, and the [OP36](https://ergohaven.xyz/op36) keyboard is so compact that it will become your best friend when traveling and other cases when you need to use a laptop while outside your workplace, however, be prepared for more complex customization of wireless devices.
+- For people who value a minimalist setup on their desktop, portability and compactness - we recommend, of course, our wireless keyboards: wireless [Velvet v3](https://ergohaven.xyz/shop?tfc_storepartuid%5B767895441%5D=Wireless+keyboards&tfc_charact:7187570%5B767895441%5D=Velvet&tfc_div=:::) installed on the [universal tenting system](https://ergohaven.xyz/shop/tproduct/767895441-831009055342-universal-tenting-system) can be an ideal solution in terms of ergonomics and aesthetics, and the [OP36](https://ergohaven.xyz/op36) keyboard is so compact that it will become your best friend when traveling and other cases when you need to use a laptop while outside your workplace, however, be prepared for more complex customization of wireless devices.
 - For people who only need a stationary keyboard for productive work, as reliable as possible and with a minimum of settings, we also recommend our wired keyboards: [K:03](https://ergohaven.xyz/k03), [HPD](https://ergohaven.xyz/hpd), [Imperial44](https://ergohaven.xyz/imperial44) and [Planeta](https://ergohaven.xyz/planeta)
 
 ![image](/images/wired_vs_wireless/5.jpg)
 
-Article author: [Evgeny Sin](https://t.me/causality)
+Article author: [Evgeny Sin](https://t.me/causality)  
 Discussion in our [telegram group](https://t.me/+E-mlq11c97AyZmY6)
 
