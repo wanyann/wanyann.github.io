@@ -15,6 +15,7 @@ toc: false
 - [Velvet v3 (проводной)](docs/velvet)
 - [Velvet v3 – UI Edition](docs/velvet-ui)
 - [Общая документация для беспроводных клавиатур](docs/zmk-keyboards)
+- [Руководство по настройке и прошивке клавиатуры с Ergohaven's Qube](docs/qube.md)
 
 ## Софт
 - [Vial (софт для проводных клавиатур)](docs/vial)
