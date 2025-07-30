@@ -17,7 +17,7 @@ Before you begin, you need to obtain the latest firmware files. The firmware fil
 
 2. **If you don't have your own fork:** Download the ready-made standard firmware from the <a href="https://github.com/ergohaven/keymap_hub" target="_blank">ergohaven/keymap_hub</a> repository. You will also need three `.uf2` files.
 
-Additionally, you will need a **reset firmware**. Usually, it can be found in the same place as the main firmware, or in our <a href="https://github.com/ergohaven/keymap_hub" target="_blank">keymap_hub</a>.
+Additionally, you will need a **reset firmware** (`settings_reset-ergohaven-zmk.uf2`). Usually, it can be found in the same place as the main firmware, or in our <a href="https://github.com/ergohaven/keymap_hub" target="_blank">keymap_hub</a>.
 
 ![image](/images/qube/keymap_hub.png)
 

@@ -17,7 +17,7 @@ tags = ["guide", "zmk", "qube", "ergohaven"]
 
 2. **Если у вас нет своего форка:** Скачайте готовую стандартную прошивку из репозитория <a href="https://github.com/ergohaven/keymap_hub" target="_blank">ergohaven/keymap_hub</a> Вам также понадобятся три `.uf2` файла.
 
-Дополнительно вам потребуется **Reset прошивка** (settings_reset-ergohaven-zmk.uf2). Обычно её можно найти там же, где и основную прошивку, или у нас в <a href="https://github.com/ergohaven/keymap_hub" target="_blank">keymap_hub</a>.
+Дополнительно вам потребуется **Reset прошивка** (`settings_reset-ergohaven-zmk.uf2`). Обычно её можно найти там же, где и основную прошивку, или у нас в <a href="https://github.com/ergohaven/keymap_hub" target="_blank">keymap_hub</a>.
 
 ![image](/images/qube/keymap_hub.png)
 
