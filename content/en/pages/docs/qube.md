@@ -29,9 +29,7 @@ Additionally, you will need a **reset firmware** (`settings_reset-ergohaven-zmk.
 
 ![image](/images/qube/buttons.png)
 
-2. **Put the devices into bootloader mode.** To do this, quickly press the `Reset` button on the back of the device twice.
-
-3. **Flash with the reset firmware.** Connect each of the three devices (left half, right half, Qube) to the computer in turn. After connecting, the device will appear in the system as a removable USB drive. Drag the reset firmware file (`settings_reset-ergohaven-zmk.uf2`) to this drive. After copying, the device will automatically reboot.
+2. **Flash the Reset firmware**. Connect each of the three devices (left half, right half, Qube) to the computer one by one. After connecting, quickly double-press the Reset button on the back of the device to put it into bootloader mode. The device will appear in the system as a removable USB drive. Drag and drop the Reset firmware file (`settings_reset-ergohaven-zmk.uf2`) onto this drive. After copying, the device will automatically reboot.
 
 > It is normal to see a warning about a file transfer error or an improper device ejection after copying the firmware. The file has been transferred successfully, but the drive disconnects before the operating system can register the completion of the transfer. 
 
@@ -42,7 +40,7 @@ Additionally, you will need a **reset firmware** (`settings_reset-ergohaven-zmk.
 1. **Flash Qube.** Connect the dongle to the computer, put it into bootloader mode, and copy the corresponding firmware file (`op36_qube-ergohaven-zmk.uf2` or similar) to it.
 2. **Disconnect Qube from the computer.**
 3. **Flash the left half.** Connect the left half of the keyboard, put it into bootloader mode, and copy the firmware file for the left side (`op36_left_qube-ergohaven-zmk.uf2`) to it.
-> To flash the left half of the keyboard, use only the firmware file named **left_qube**-ergohaven-zmk.uf2.
+> To flash the left half, exclusively use the firmware file named `**left_qube**-ergohaven-zmk.uf2`. The exception is the Velvet UI, which uses `**ui_left**-ergohaven-zmk.uf2` for the left half and `**ui_right_qube**-ergohaven-zmk.uf2` for the right half.
 4. **Disconnect the left half from the computer.**
 5. **Flash the right half.** Connect the right half, put it into bootloader mode, and copy its firmware file (`op36_right-ergohaven-zmk.uf2`) to it.
 
