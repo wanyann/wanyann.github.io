@@ -5,7 +5,7 @@ tags = ["guide", "zmk", "qube", "ergohaven"]
 
 In this guide, we will thoroughly break down the process of fully setting up and flashing an Ergohaven split keyboard using the Qube dongle. You will learn how to prepare the files, perform a full reset, and correctly flash all components for stable operation.
 
-**Ergohaven's Qube** is a special dongle that acts as a central device for your split keyboard, simplifying its connection to your computer and displays useful information.
+**Ergohaven's Qube** - universal device is designed to be an essential companion for wireless keyboards. It works as a dongle and displays useful information.
 
 ![image](/images/qube/qubes.png)
 
@@ -29,9 +29,7 @@ Additionally, you will need a **reset firmware** (`settings_reset-ergohaven-zmk.
 
 ![image](/images/qube/buttons.png)
 
-2. **Put the devices into bootloader mode.** To do this, quickly press the `Reset` button on the back of the device twice.
-
-3. **Flash with the reset firmware.** Connect each of the three devices (left half, right half, Qube) to the computer in turn. After connecting, the device will appear in the system as a removable USB drive. Drag the reset firmware file (`settings_reset-ergohaven-zmk.uf2`) to this drive. After copying, the device will automatically reboot.
+2. **Flash the Reset firmware**. Connect each of the three devices (left half, right half, Qube) to the computer one by one. After connecting, quickly double-press the Reset button on the back of the device to put it into bootloader mode. The device will appear in the system as a removable USB drive. Drag and drop the Reset firmware file (`settings_reset-ergohaven-zmk.uf2`) onto this drive. After copying, the device will automatically reboot.
 
 > It is normal to see a warning about a file transfer error or an improper device ejection after copying the firmware. The file has been transferred successfully, but the drive disconnects before the operating system can register the completion of the transfer. 
 
@@ -42,7 +40,7 @@ Additionally, you will need a **reset firmware** (`settings_reset-ergohaven-zmk.
 1. **Flash Qube.** Connect the dongle to the computer, put it into bootloader mode, and copy the corresponding firmware file (`op36_qube-ergohaven-zmk.uf2` or similar) to it.
 2. **Disconnect Qube from the computer.**
 3. **Flash the left half.** Connect the left half of the keyboard, put it into bootloader mode, and copy the firmware file for the left side (`op36_left_qube-ergohaven-zmk.uf2`) to it.
-> To flash the left half of the keyboard, use only the firmware file named **left_qube**-ergohaven-zmk.uf2.
+> To flash the left half, exclusively use the firmware file named <code><b>left_qube</b>-ergohaven-zmk.uf2</code>. The exception is the Velvet UI, which uses <code><b>ui_left</b>-ergohaven-zmk.uf2</code> for the left half and <code><b>ui_right_qube</b>-ergohaven-zmk.uf2</code> for the right half.
 4. **Disconnect the left half from the computer.**
 5. **Flash the right half.** Connect the right half, put it into bootloader mode, and copy its firmware file (`op36_right-ergohaven-zmk.uf2`) to it.
 
