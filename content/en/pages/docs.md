@@ -15,6 +15,7 @@ toc: false
 - [Velvet v3 (wired)](docs/velvet)
 - [Velvet v3 – UI Edition](docs/velvet-ui)
 - [General documentation for wireless keyboards](docs/zmk-keyboards)
+- [Ergohaven's Qube setup guide](docs/qube.md)
 
 ## Software
 - [Vial software (wired keyboards)](docs/vial)
