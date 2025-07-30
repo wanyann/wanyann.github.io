@@ -40,7 +40,7 @@ Additionally, you will need a **reset firmware** (`settings_reset-ergohaven-zmk.
 1. **Flash Qube.** Connect the dongle to the computer, put it into bootloader mode, and copy the corresponding firmware file (`op36_qube-ergohaven-zmk.uf2` or similar) to it.
 2. **Disconnect Qube from the computer.**
 3. **Flash the left half.** Connect the left half of the keyboard, put it into bootloader mode, and copy the firmware file for the left side (`op36_left_qube-ergohaven-zmk.uf2`) to it.
-> To flash the left half, exclusively use the firmware file named `**left_qube**-ergohaven-zmk.uf2`. The exception is the Velvet UI, which uses `**ui_left**-ergohaven-zmk.uf2` for the left half and `**ui_right_qube**-ergohaven-zmk.uf2` for the right half.
+> To flash the left half, exclusively use the firmware file named <code><b>left_qube</b>-ergohaven-zmk.uf2</code>. The exception is the Velvet UI, which uses <code><b>ui_left</b>-ergohaven-zmk.uf2</code> for the left half and <code><b>ui_right_qube</b>-ergohaven-zmk.uf2</code> for the right half.
 4. **Disconnect the left half from the computer.**
 5. **Flash the right half.** Connect the right half, put it into bootloader mode, and copy its firmware file (`op36_right-ergohaven-zmk.uf2`) to it.
 
