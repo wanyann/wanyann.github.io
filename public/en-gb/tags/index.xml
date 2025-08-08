@@ -52,6 +52,17 @@
     </item>
     
     <item>
+      <title>Ergohaven</title>
+      <link>http://localhost:1313/en-gb/tags/ergohaven/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en-gb/tags/ergohaven/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Hpd</title>
       <link>http://localhost:1313/en-gb/tags/hpd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -112,6 +123,17 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/en-gb/tags/planeta/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Qube</title>
+      <link>http://localhost:1313/en-gb/tags/qube/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en-gb/tags/qube/</guid>
       
       <description></description>
       

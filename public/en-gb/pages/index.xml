@@ -47,6 +47,7 @@
 &lt;li&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/velvet/&#34;&gt;Velvet v3 (wired)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/velvet-ui/&#34;&gt;Velvet v3 – UI Edition&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/zmk-keyboards/&#34;&gt;General documentation for wireless keyboards&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/qube/&#34;&gt;Ergohaven&amp;rsquo;s Qube setup guide&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;
 &lt;ul&gt;
@@ -64,84 +65,33 @@
       
       <guid>http://localhost:1313/en-gb/pages/roadmap/</guid>
       
-      <description>&lt;h1 id=&#34;2025&#34;&gt;2025&lt;/h1&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;&lt;strong&gt;S01&lt;/strong&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;strong&gt;S02&lt;/strong&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;strong&gt;S03&lt;/strong&gt;&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;HPD v2 ✔️&lt;/td&gt;
-          &lt;td&gt;New switches&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Imperial44 v3 ✔️&lt;/td&gt;
-          &lt;td&gt;New keycaps&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;HPD v2 Open Source ✔️&lt;/td&gt;
-          &lt;td&gt;Project &amp;ldquo;Sprawl&amp;rdquo;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;K:03 PRO v2 ✔️&lt;/td&gt;
-          &lt;td&gt;Expo&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Velvet v3 Wireless edition ✔️&lt;/td&gt;
-          &lt;td&gt;Project &amp;ldquo;Gamer&amp;rdquo;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Project &amp;ldquo;op36&amp;rdquo; ✔️&lt;/td&gt;
-          &lt;td&gt;Imperial44 Spaceship edition&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Handrests for UTS ✔️&lt;/td&gt;
-          &lt;td&gt;Planeta v3&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;New packaging  ✔️&lt;/td&gt;
-          &lt;td&gt;Velvet &amp;ldquo;UI&amp;rdquo; edition  ✔️&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;K:03 Wireless edition&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;Imperial44 Wireless edition&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;Deskmats ✔️&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;Keyboard noise insulation ✔️&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;New modules for HPD&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;Disclaimer:&lt;/strong&gt; All information on this page has not been finalized and is for reference only. Changes and additions are made on an ongoing basis.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;2025&#34;&gt;2025&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; HPD v2&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Imperial44 v3&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; HPD v2 Open Source&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; K:03 PRO v2&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Velvet v3 Wireless edition&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Project &amp;ldquo;op36&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Handrests for UTS&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; New packaging&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; New switches&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; New keycaps&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Project &amp;ldquo;Sprawl&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Expo&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Project &amp;ldquo;Gamer&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Imperial44 Spaceship edition&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Planeta v3&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Velvet &amp;ldquo;UI&amp;rdquo; edition&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; K:03 Wireless edition&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Imperial44 Wireless edition&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Deskmats&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Noise insulation&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; New modules for HPD&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Dongle for wireless keyboards&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Spaceship edition for K:03 wireless&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Disclaimer:&lt;/strong&gt; all information on this page has not been finalized and is for reference only. Changes and additions are made on an ongoing basis.&lt;/p&gt;</description>
       
     </item>
     
@@ -241,6 +191,21 @@
 &lt;p&gt;The most common option is Brown switches (tactile) and XDA keycaps.&lt;/p&gt;
 &lt;h2 id=&#34;i-need-a-low-profile-keyboard-do-you-have-one&#34;&gt;I need a low profile keyboard, do you have one?&lt;/h2&gt;
 &lt;p&gt;You can choose all of our keyboards with mid-profile switches and low-profile keycaps, the mid-profile switches are slightly taller than the low-profile ones, but still have a standard MX connector, making them interchangeable with standard switches, and you most likely won&amp;rsquo;t notice the difference in height.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Guide to Setting Up and Flashing Your Keyboard with Ergohaven&#39;s Qube</title>
+      <link>http://localhost:1313/en-gb/pages/docs/qube/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en-gb/pages/docs/qube/</guid>
+      
+      <description>&lt;p&gt;In this guide, we will thoroughly break down the process of fully setting up and flashing an Ergohaven split keyboard using the Qube dongle. You will learn how to prepare the files, perform a full reset, and correctly flash all components for stable operation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ergohaven&amp;rsquo;s Qube&lt;/strong&gt; - universal device is designed to be an essential companion for wireless keyboards. It works as a dongle and displays useful information.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/qube/qubes.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;step-1-preparing-the-firmware&#34;&gt;Step 1: Preparing the firmware&lt;/h2&gt;
+&lt;p&gt;Before you begin, you need to obtain the latest firmware files. The firmware file is essentially the &amp;ldquo;brain&amp;rdquo; of your keyboard, which determines how it works.&lt;/p&gt;</description>
       
     </item>
     

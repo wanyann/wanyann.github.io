@@ -232,17 +232,19 @@
                 href="http://localhost:1313/en-gb/pages/docs/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en-gb/pages/roadmap/</loc>
+    <loc>http://localhost:1313/en-gb/tags/ergohaven/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/pages/roadmap/"
+                href="http://localhost:1313/tags/ergohaven/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en-gb/pages/roadmap/"
+                href="http://localhost:1313/en-gb/tags/ergohaven/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/en-gb/pages/roadmap/</loc>
   </url><url>
     <loc>http://localhost:1313/en-gb/pages/firmware/</loc>
     <xhtml:link
@@ -278,6 +280,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/en-gb/pages/faq/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en-gb/pages/docs/qube/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/pages/docs/qube/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en-gb/pages/docs/qube/"
                 />
   </url><url>
     <loc>http://localhost:1313/en-gb/pages/docs/hpd/</loc>
@@ -460,6 +474,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/en-gb/pages/docs/planeta/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en-gb/tags/qube/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/tags/qube/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en-gb/tags/qube/"
                 />
   </url><url>
     <loc>http://localhost:1313/en-gb/pages/docs/ruen/</loc>

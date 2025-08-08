@@ -156,94 +156,6 @@
     </item>
     
     <item>
-      <title>Ergohaven&#39;s timeline</title>
-      <link>http://localhost:1313/pages/roadmap/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/pages/roadmap/</guid>
-      
-      <description>&lt;h1 id=&#34;2025&#34;&gt;2025&lt;/h1&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;&lt;strong&gt;S01&lt;/strong&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;strong&gt;S02&lt;/strong&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;strong&gt;S03&lt;/strong&gt;&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;HPD v2 ✔️&lt;/td&gt;
-          &lt;td&gt;New switches&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Imperial44 v3 ✔️&lt;/td&gt;
-          &lt;td&gt;New keycaps&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;HPD v2 Open Source ✔️&lt;/td&gt;
-          &lt;td&gt;Project &amp;ldquo;Sprawl&amp;rdquo;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;K:03 PRO v2 ✔️&lt;/td&gt;
-          &lt;td&gt;Expo&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Velvet v3 Wireless edition ✔️&lt;/td&gt;
-          &lt;td&gt;Project &amp;ldquo;Gamer&amp;rdquo;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Project &amp;ldquo;op36&amp;rdquo; ✔️&lt;/td&gt;
-          &lt;td&gt;Imperial44 Spaceship edition&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Подушечки для УСН ✔️&lt;/td&gt;
-          &lt;td&gt;Planeta v3&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Новая упаковка ✔️&lt;/td&gt;
-          &lt;td&gt;Velvet &amp;ldquo;UI&amp;rdquo; edition ✔️&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;K:03 Wireless edition&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;Imperial44 Wireless edition&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;Deskmats ✔️&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;Шумка для клавиатур ✔️&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;Новые модули для HPD&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;Дисклеймер:&lt;/strong&gt; вся информация на данной странице не утверждена окончательно и лишь имеет относительную дату для ознакомления. Изменения и дополнения будут происходить на постоянной основе.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
       <title>High Plains Drifter v2</title>
       <link>http://localhost:1313/pages/docs/hpd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -517,6 +429,7 @@ Caps Word автоматически отключается в конце сло
 &lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/velvet/&#34;&gt;Velvet v3 (проводной)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/velvet-ui/&#34;&gt;Velvet v3 – UI Edition&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/zmk-keyboards/&#34;&gt;Общая документация для беспроводных клавиатур&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/qube/&#34;&gt;Руководство по настройке Ergohaven&amp;rsquo;s Qube&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;софт&#34;&gt;Софт&lt;/h2&gt;
 &lt;ul&gt;
@@ -676,6 +589,21 @@ Caps Word автоматически отключается в конце сло
 &lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/layouts/op36_ru.png&#34; alt=&#34;OP36&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;velvet-v3-ui&#34;&gt;Velvet v3 UI&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/layouts/velvet_ui_ru.png&#34; alt=&#34;Velvet v3 UI&#34;&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Руководство по настройке и прошивке клавиатуры с Ergohaven&#39;s Qube</title>
+      <link>http://localhost:1313/pages/docs/qube/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pages/docs/qube/</guid>
+      
+      <description>&lt;p&gt;В этом руководстве мы подробно разберем процесс полной настройки и прошивки сплит-клавиатуры Ergohaven с использованием донгла Qube. Вы узнаете, как подготовить файлы, выполнить полный сброс и правильно прошить все компоненты для стабильной работы.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ergohaven&amp;rsquo;s Qube&lt;/strong&gt; — это универсальный девайс создан для того, чтобы стать незаменимым помощником для беспроводных клавиатур. Работает как донгл, отображает полезную информацию, а также снижает энергопотребление вашей клавиатуры&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/qube/qubes.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;шаг-1-подготовка-прошивки&#34;&gt;Шаг 1: Подготовка прошивки&lt;/h2&gt;
+&lt;p&gt;Прежде чем начать, вам нужно получить актуальные файлы прошивки. Файл прошивки — это, по сути, «мозг» вашей клавиатуры, который определяет, как она работает.&lt;/p&gt;</description>
       
     </item>
     

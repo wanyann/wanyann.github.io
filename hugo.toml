@@ -84,7 +84,7 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
   [[Languages.en-gb.menu.main]]
     pageRef="roadmap"
     name = 'Roadmap'
-    url = '/pages/roadmap'
+    url = 'ru-ru/pages/roadmap'
     weight = 35
 
   [[Languages.en-gb.menu.main]]
