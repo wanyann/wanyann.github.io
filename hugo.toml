@@ -78,7 +78,7 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
   [[Languages.en-gb.menu.main]]
     pageRef="docs"
     name = 'Documentation'
-    url = '/pages/docs'
+    url = '/en-gb/pages/docs'
     weight = 30
 
   [[Languages.en-gb.menu.main]]
