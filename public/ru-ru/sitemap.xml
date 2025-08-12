@@ -246,18 +246,6 @@
                 href="http://localhost:1313/tags/ergohaven/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pages/roadmap/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en-gb/pages/roadmap/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="http://localhost:1313/pages/roadmap/"
-                />
-  </url><url>
     <loc>http://localhost:1313/pages/docs/hpd/</loc>
     <xhtml:link
                 rel="alternate"

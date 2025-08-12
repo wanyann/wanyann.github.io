@@ -29,6 +29,4 @@ toc: false
 - [x] Dongle for wireless keyboards
 - [ ] Spaceship edition for K:03 wireless
 
-**Disclaimer:** all information on this page has not been finalized and is for reference only. Changes and additions are made on an ongoing basis.  
-
 **Дисклеймер:** вся информация на данной странице не утверждена окончательно и предоставлена для ознакомления. Изменения и дополнения будут происходить на постоянной основе.
