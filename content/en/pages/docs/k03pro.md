@@ -4,7 +4,7 @@ tags: ["docs", "K:03 PRO"]
 toc: true
 ---
 
-![image](/images/keyboards/k03pro.jpg)  
+![image](/images/layouts/k03-pro.png)  
 
 ## Connection
 - Before connecting the keyboard to the computer, make sure that the USB-C cable is firmly connected to the connectors on both halves

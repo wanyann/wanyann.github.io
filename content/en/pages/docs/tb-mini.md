@@ -7,7 +7,7 @@ toc: true
 ![image](/images/keyboards/tb-mini01.jpg)  
 
 ## Connection
-- When connecting the keyboard to the computer, make sure the USB-C cable is firmly inserted into the connector
+- When connecting trackball to the computer, make sure the USB-C cable is firmly inserted into the connector
 
 ## Customizing device
 Please refer to the [Vial guide](/pages/docs/vial) 

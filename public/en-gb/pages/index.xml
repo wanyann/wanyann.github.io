@@ -36,18 +36,17 @@
       
       <description>&lt;h2 id=&#34;hardware&#34;&gt;Hardware&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/zmk-keyboards/&#34;&gt;General documentation for wireless keyboards&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/k03/&#34;&gt;K:03&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/hpd/&#34;&gt;High Plains Drifter&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/imperial44/&#34;&gt;Imperial44&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/k03pro/&#34;&gt;K:03 PRO&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/k02/&#34;&gt;K:02&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/macropad/&#34;&gt;M4CR0Pad&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/planeta/&#34;&gt;Planeta&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/tb-mini/&#34;&gt;Trackball Mini&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/velvet/&#34;&gt;Velvet v3 (wired)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/velvet-ui/&#34;&gt;Velvet v3 – UI Edition&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/zmk-keyboards/&#34;&gt;General documentation for wireless keyboards&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/qube/&#34;&gt;Ergohaven&amp;rsquo;s Qube setup guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/qube/&#34;&gt;Ergohaven&amp;rsquo;s Qube&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;
 &lt;ul&gt;
@@ -122,39 +121,39 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/layouts/#k03&#34;&gt;K:03 v3&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;pages/layouts#k03&#34;&gt;K:03 v3&lt;/a&gt;&lt;/td&gt;
           &lt;td&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/blob/main/user-layouts/k03&#34;&gt;K:03 v3&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/layouts/#k03-pro&#34;&gt;K:03 PRO&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;pages/layouts#k03-pro&#34;&gt;K:03 PRO&lt;/a&gt;&lt;/td&gt;
           &lt;td&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/tree/main/user-layouts/k03-pro&#34;&gt;K:03 PRO&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/layouts/#high-plains-drifter&#34;&gt;HPD v2&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;pages/layouts#high-plains-drifter&#34;&gt;HPD v2&lt;/a&gt;&lt;/td&gt;
           &lt;td&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/tree/main/user-layouts/hpd&#34;&gt;HPD v2&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/layouts/#imperial44&#34;&gt;Imperial44&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;pages/layouts#imperial44&#34;&gt;Imperial44&lt;/a&gt;&lt;/td&gt;
           &lt;td&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/tree/main/user-layouts/imperial44&#34;&gt;Imperial44&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/layouts/#velvet-v3&#34;&gt;Velvet v3&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;pages/layouts#velvet-v3&#34;&gt;Velvet v3&lt;/a&gt;&lt;/td&gt;
           &lt;td&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/tree/main/user-layouts/velvet-v3&#34;&gt;Velvet v3&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/layouts/#planeta&#34;&gt;Planeta&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;pages/layouts#planeta&#34;&gt;Planeta&lt;/a&gt;&lt;/td&gt;
           &lt;td&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/tree/main/user-layouts/planeta&#34;&gt;Planeta&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/layouts/#macropad&#34;&gt;M4CR0Pad&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;pages/layouts#macropad&#34;&gt;M4CR0Pad&lt;/a&gt;&lt;/td&gt;
           &lt;td&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/tree/main/user-layouts/macropad&#34;&gt;M4CR0Pad&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/layouts/#op36&#34;&gt;Omega Point 36&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;pages/layouts#op36&#34;&gt;Omega Point 36&lt;/a&gt;&lt;/td&gt;
           &lt;td&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/en-gb/pages/layouts/#velvet-v3-ui&#34;&gt;Velvet v3 UI&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;pages/layouts#velvet-v3-ui&#34;&gt;Velvet v3 UI&lt;/a&gt;&lt;/td&gt;
           &lt;td&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -216,7 +215,7 @@
       
       <guid>http://localhost:1313/en-gb/pages/docs/hpd/</guid>
       
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/keyboards/hpd.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/layouts/hpd.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;connection&#34;&gt;Connection&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Before connecting the keyboard to the computer, make sure that the USB-C cable is firmly connected to the connectors on both halves&lt;/li&gt;
@@ -236,27 +235,7 @@
       
       <guid>http://localhost:1313/en-gb/pages/docs/imperial44/</guid>
       
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/keyboards/imperial44.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;connection&#34;&gt;Connection&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Before connecting the keyboard to the computer, make sure that the USB-C cable is firmly connected to the connectors on both halves&lt;/li&gt;
-&lt;li&gt;When connecting the keyboard to the computer, make sure the USB-C cable is firmly inserted into the connector&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;customizing-keyboard&#34;&gt;Customizing keyboard&lt;/h2&gt;
-&lt;p&gt;Please refer to the &lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/vial/&#34;&gt;Vial guide&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;caps-word-function&#34;&gt;Caps Word function&lt;/h2&gt;
-&lt;p&gt;Press LShift and RShift simultaneously to activate Caps Word. This function allows you to type entire words in uppercase letters without holding down the Caps Lock key. Caps Word is automatically disabled at the end of a word&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>K:02</title>
-      <link>http://localhost:1313/en-gb/pages/docs/k02/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/en-gb/pages/docs/k02/</guid>
-      
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/keyboards/k02.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/layouts/imperial44.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;connection&#34;&gt;Connection&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Before connecting the keyboard to the computer, make sure that the USB-C cable is firmly connected to the connectors on both halves&lt;/li&gt;
@@ -276,7 +255,7 @@
       
       <guid>http://localhost:1313/en-gb/pages/docs/k03/</guid>
       
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/keyboards/k03.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/layouts/k03.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;connection&#34;&gt;Connection&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Before connecting the keyboard to the computer, make sure that the USB-C cable is firmly connected to the connectors on both halves&lt;/li&gt;
@@ -296,7 +275,7 @@
       
       <guid>http://localhost:1313/en-gb/pages/docs/k03pro/</guid>
       
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/keyboards/k03pro.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/layouts/k03-pro.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;connection&#34;&gt;Connection&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Before connecting the keyboard to the computer, make sure that the USB-C cable is firmly connected to the connectors on both halves&lt;/li&gt;
@@ -326,48 +305,13 @@ To use it, you need to meet several conditions:&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Layouts</title>
-      <link>http://localhost:1313/en-gb/pages/layouts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/en-gb/pages/layouts/</guid>
-      
-      <description>&lt;h2 id=&#34;k03&#34;&gt;K:03&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/releases/download/3.8.4-vil-files/k03_v3_default.vil&#34;&gt;K:03 layout file for Vial&lt;/a&gt;
-&lt;img src=&#34;http://localhost:1313/images/layouts/k03.png&#34; alt=&#34;K:03&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;k03-pro&#34;&gt;K:03 PRO&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/releases/tag/3.8.4-vil-files&#34;&gt;K:03 PRO layout file for Vial&lt;/a&gt;
-&lt;img src=&#34;http://localhost:1313/images/layouts/k03-pro.png&#34; alt=&#34;K:03 PRO&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;high-plains-drifter&#34;&gt;High Plains Drifter&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/releases/tag/3.8.4-vil-files&#34;&gt;HPD layout file for Vial&lt;/a&gt;
-&lt;img src=&#34;http://localhost:1313/images/layouts/hpd.png&#34; alt=&#34;HPD&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;imperial44&#34;&gt;Imperial44&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/releases/download/3.8.4-vil-files/imperial44_v1_v2_default.vil&#34;&gt;Imperial44 layout file for Vial&lt;/a&gt;
-&lt;img src=&#34;http://localhost:1313/images/layouts/imperial.png&#34; alt=&#34;Imperial44&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;velvet-v3&#34;&gt;Velvet v3&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/releases/download/3.8.4-vil-files/velvet_v3_default.vil&#34;&gt;Velvet v3 layout file for Vial (wired version)&lt;/a&gt;
-&lt;img src=&#34;http://localhost:1313/images/layouts/velvet.png&#34; alt=&#34;Velvet v3&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;planeta&#34;&gt;Planeta&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/releases/download/3.8.4-vil-files/planeta_v2_default.vil&#34;&gt;Planeta layout file for Vial&lt;/a&gt;
-&lt;img src=&#34;http://localhost:1313/images/layouts/planeta1.png&#34; alt=&#34;Planeta&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;macropad&#34;&gt;Macropad&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/releases/download/3.8.4-vil-files/macropad_v2_default.vil&#34;&gt;M4CR0Pad layout file for Vial&lt;/a&gt;
-&lt;img src=&#34;http://localhost:1313/images/layouts/macropad.png&#34; alt=&#34;M4CR0Pad&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;omega-point-36&#34;&gt;Omega Point 36&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/layouts/op36.png&#34; alt=&#34;OP36&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;velvet-v3-ui&#34;&gt;Velvet v3 UI&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/layouts/velvet_ui.png&#34; alt=&#34;Velvet v3 UI&#34;&gt;&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
       <title>M4CR0Pad</title>
       <link>http://localhost:1313/en-gb/pages/docs/macropad/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/en-gb/pages/docs/macropad/</guid>
       
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/keyboards/macropad.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/layouts/macropad.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;connection&#34;&gt;Connection&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;When connecting the macropad to the computer, make sure the USB-C cable is firmly inserted into the connector&lt;/li&gt;
@@ -397,7 +341,7 @@ To use it, you need to meet several conditions:&lt;/p&gt;</description>
       
       <guid>http://localhost:1313/en-gb/pages/docs/planeta/</guid>
       
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/keyboards/planeta.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/layouts/planeta.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;connection&#34;&gt;Connection&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;When connecting the keyboard to the computer, make sure the USB-C cable is firmly inserted into the connector&lt;/li&gt;
@@ -439,7 +383,7 @@ To use it, you need to meet several conditions:&lt;/p&gt;</description>
       <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/keyboards/tb-mini01.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;connection&#34;&gt;Connection&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;When connecting the keyboard to the computer, make sure the USB-C cable is firmly inserted into the connector&lt;/li&gt;
+&lt;li&gt;When connecting trackball to the computer, make sure the USB-C cable is firmly inserted into the connector&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;customizing-device&#34;&gt;Customizing device&lt;/h2&gt;
 &lt;p&gt;Please refer to the &lt;a href=&#34;http://localhost:1313/en-gb/pages/docs/vial/&#34;&gt;Vial guide&lt;/a&gt;&lt;/p&gt;
@@ -468,7 +412,7 @@ To use it, you need to meet several conditions:&lt;/p&gt;</description>
       
       <guid>http://localhost:1313/en-gb/pages/docs/velvet/</guid>
       
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/keyboards/velvet.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/layouts/velvet.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;connection&#34;&gt;Connection&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Before connecting the keyboard to the computer, make sure that the USB-C cable is firmly connected to the connectors on both halves&lt;/li&gt;
@@ -488,7 +432,7 @@ To use it, you need to meet several conditions:&lt;/p&gt;</description>
       
       <guid>http://localhost:1313/en-gb/pages/docs/velvet-ui/</guid>
       
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/velvet-ui/velvet.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/layouts/velvet-ui.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Velvet v3 - Ultimate Interface Edition&lt;/strong&gt; is a keyboard that reduces the need to move your hand to a minimum with a keywell layout and a trackball under your thumb. The curved key placement makes moving your fingers between rows of keys noticeably easier, and the functional trackball, easily accessible under your thumb, nearly eliminates the need to move your hand to the mouse.&lt;/p&gt;
 &lt;h2 id=&#34;trackball&#34;&gt;Trackball&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/velvet-ui/trackball.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;

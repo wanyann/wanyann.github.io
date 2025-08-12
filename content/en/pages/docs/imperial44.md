@@ -4,7 +4,7 @@ tags: ["docs", "imperial44"]
 toc: true
 ---
 
-![image](/images/keyboards/imperial44.jpg)  
+![image](/images/layouts/imperial44.png)  
 
 ## Connection
 - Before connecting the keyboard to the computer, make sure that the USB-C cable is firmly connected to the connectors on both halves

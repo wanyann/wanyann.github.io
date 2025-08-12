@@ -4,7 +4,7 @@ tags: ["docs", "macropad"]
 toc: true
 ---
 
-![image](/images/keyboards/macropad.jpg)  
+![image](/images/layouts/macropad.png)  
 
 ## Connection
 - When connecting the macropad to the computer, make sure the USB-C cable is firmly inserted into the connector

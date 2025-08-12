@@ -27,17 +27,54 @@
     </item>
     
     <item>
+      <title>Ergohaven&#39;s timeline</title>
+      <link>http://localhost:1313/pages/roadmap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pages/roadmap/</guid>
+      
+      <description>&lt;h2 id=&#34;2025&#34;&gt;2025&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; HPD v2&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Imperial44 v3&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; HPD v2 Open Source&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; K:03 PRO v2&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Velvet v3 Wireless edition&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Project &amp;ldquo;op36&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Handrests for UTS&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; New packaging&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; New switches&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; New keycaps&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Project &amp;ldquo;Sprawl&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Expo&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Project &amp;ldquo;Gamer&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Imperial44 Spaceship edition&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Planeta v3&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Velvet &amp;ldquo;UI&amp;rdquo; edition&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; K:03 Wireless edition&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Imperial44 Wireless edition&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Deskmats&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Noise insulation&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; New modules for HPD&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Dongle for wireless keyboards&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Spaceship edition for K:03 wireless&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Disclaimer:&lt;/strong&gt; all information on this page has not been finalized and is for reference only. Changes and additions are made on an ongoing basis.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
       <title>High Plains Drifter v2</title>
       <link>http://localhost:1313/pages/docs/hpd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/pages/docs/hpd/</guid>
       
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/keyboards/hpd.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/layouts/hpd_ru.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;подключение&#34;&gt;Подключение&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Перед подключением клавиатуры к компьютеру, убедитесь, что USB-C кабель, соединяющий обе половинки между собой, плотно подключен в разъёмы на двух половинках&lt;/li&gt;
-&lt;li&gt;При подключении клавиатуры к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем&lt;/li&gt;
+&lt;li&gt;Перед подключением к компьютеру, убедитесь, что USB-C кабель, соединяющий обе половинки между собой, плотно подключен в разъёмы на двух половинках&lt;/li&gt;
+&lt;li&gt;При подключении к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;настройка-клавиатуры&#34;&gt;Настройка клавиатуры&lt;/h2&gt;
 &lt;p&gt;Пожалуйста перейдите в &lt;a href=&#34;http://localhost:1313/pages/docs/vial/&#34;&gt;статью о программе Vial&lt;/a&gt;&lt;/p&gt;
@@ -54,32 +91,11 @@ Caps Word автоматически отключается в конце сло
       
       <guid>http://localhost:1313/pages/docs/imperial44/</guid>
       
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/keyboards/imperial44.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/layouts/imperial44_ru.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;подключение&#34;&gt;Подключение&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Перед подключением клавиатуры к компьютеру, убедитесь, что USB-C кабель, соединяющий обе половинки между собой, плотно подключен в разъёмы на двух половинках&lt;/li&gt;
-&lt;li&gt;При подключении клавиатуры к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;настройка-клавиатуры&#34;&gt;Настройка клавиатуры&lt;/h2&gt;
-&lt;p&gt;Пожалуйста перейдите в &lt;a href=&#34;http://localhost:1313/pages/docs/vial/&#34;&gt;статью о программе Vial&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;функция-caps-word&#34;&gt;Функция Caps Word&lt;/h2&gt;
-&lt;p&gt;Одновременное нажатие клавиш LShift и RShift активирует Caps Word. Эта функция позволяет набирать слова заглавными буквами, не используя клавишу Caps Lock.
-Caps Word автоматически отключается в конце слова&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>K:02</title>
-      <link>http://localhost:1313/pages/docs/k02/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/pages/docs/k02/</guid>
-      
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/keyboards/k02.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;подключение&#34;&gt;Подключение&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Перед подключением клавиатуры к компьютеру, убедитесь, что USB-C кабель, соединяющий обе половинки между собой, плотно подключен в разъёмы на двух половинках&lt;/li&gt;
-&lt;li&gt;При подключении клавиатуры к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем&lt;/li&gt;
+&lt;li&gt;Перед подключением к компьютеру, убедитесь, что USB-C кабель, соединяющий обе половинки между собой, плотно подключен в разъёмы на двух половинках&lt;/li&gt;
+&lt;li&gt;При подключении к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;настройка-клавиатуры&#34;&gt;Настройка клавиатуры&lt;/h2&gt;
 &lt;p&gt;Пожалуйста перейдите в &lt;a href=&#34;http://localhost:1313/pages/docs/vial/&#34;&gt;статью о программе Vial&lt;/a&gt;&lt;/p&gt;
@@ -96,11 +112,11 @@ Caps Word автоматически отключается в конце сло
       
       <guid>http://localhost:1313/pages/docs/k03/</guid>
       
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/keyboards/k03.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/layouts/k03_ru.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;подключение&#34;&gt;Подключение&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Перед подключением клавиатуры к компьютеру, убедитесь, что USB-C кабель, соединяющий обе половинки между собой, плотно подключен в разъёмы на двух половинках&lt;/li&gt;
-&lt;li&gt;При подключении клавиатуры к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем&lt;/li&gt;
+&lt;li&gt;Перед подключением к компьютеру, убедитесь, что USB-C кабель, соединяющий обе половинки между собой, плотно подключен в разъёмы на двух половинках&lt;/li&gt;
+&lt;li&gt;При подключении к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;настройка-клавиатуры&#34;&gt;Настройка клавиатуры&lt;/h2&gt;
 &lt;p&gt;Пожалуйста перейдите в &lt;a href=&#34;http://localhost:1313/pages/docs/vial/&#34;&gt;статью о программе Vial&lt;/a&gt;&lt;/p&gt;
@@ -117,11 +133,11 @@ Caps Word автоматически отключается в конце сло
       
       <guid>http://localhost:1313/pages/docs/k03pro/</guid>
       
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/keyboards/k03pro.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/layouts/k03-pro_ru.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;подключение&#34;&gt;Подключение&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Перед подключением клавиатуры к компьютеру, убедитесь, что USB-C кабель, соединяющий обе половинки между собой, плотно подключен в разъёмы на двух половинках&lt;/li&gt;
-&lt;li&gt;При подключении клавиатуры к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем&lt;/li&gt;
+&lt;li&gt;Перед подключением к убедитесь, что USB-C кабель, соединяющий обе половинки между собой, плотно подключен в разъёмы на двух половинках&lt;/li&gt;
+&lt;li&gt;При подключении к убедитесь, что кабель USB-C плотно вставлен в разъем&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;настройка-клавиатуры&#34;&gt;Настройка клавиатуры&lt;/h2&gt;
 &lt;p&gt;Пожалуйста перейдите в &lt;a href=&#34;http://localhost:1313/pages/docs/vial/&#34;&gt;статью о программе Vial&lt;/a&gt;&lt;/p&gt;
@@ -138,9 +154,9 @@ Caps Word автоматически отключается в конце сло
       
       <guid>http://localhost:1313/pages/docs/macropad/</guid>
       
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/keyboards/macropad.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/layouts/macropad_ru.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;подключение&#34;&gt;Подключение&lt;/h2&gt;
-&lt;p&gt;При подключении макропада к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем&lt;/p&gt;
+&lt;p&gt;При подключении к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем&lt;/p&gt;
 &lt;h2 id=&#34;настройка-макропада&#34;&gt;Настройка макропада&lt;/h2&gt;
 &lt;p&gt;Пожалуйста перейдите в &lt;a href=&#34;http://localhost:1313/pages/docs/vial/&#34;&gt;статью о программе Vial&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;обновление-прошивки-через-bootmagic&#34;&gt;Обновление прошивки через bootmagic&lt;/h2&gt;
@@ -166,9 +182,9 @@ Caps Word автоматически отключается в конце сло
       
       <guid>http://localhost:1313/pages/docs/planeta/</guid>
       
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/keyboards/planeta.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/layouts/planeta_ru.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;подключение&#34;&gt;Подключение&lt;/h2&gt;
-&lt;p&gt;При подключении клавиатуры к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем&lt;/p&gt;
+&lt;p&gt;При подключении к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем&lt;/p&gt;
 &lt;h2 id=&#34;настройка-клавиатуры&#34;&gt;Настройка клавиатуры&lt;/h2&gt;
 &lt;p&gt;Пожалуйста перейдите в &lt;a href=&#34;http://localhost:1313/pages/docs/vial/&#34;&gt;статью о программе Vial&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;функция-caps-word&#34;&gt;Функция Caps Word&lt;/h2&gt;
@@ -201,7 +217,7 @@ Caps Word автоматически отключается в конце сло
       
       <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/keyboards/tb-mini01.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;подключение&#34;&gt;Подключение&lt;/h2&gt;
-&lt;p&gt;При подключении макропада к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем&lt;/p&gt;
+&lt;p&gt;При подключении к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем&lt;/p&gt;
 &lt;h2 id=&#34;настройка-trackball-mini&#34;&gt;Настройка Trackball Mini&lt;/h2&gt;
 &lt;p&gt;Пожалуйста перейдите в &lt;a href=&#34;http://localhost:1313/pages/docs/vial/&#34;&gt;статью о программе Vial&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;обновление-прошивки-через-bootmagic&#34;&gt;Обновление прошивки через bootmagic&lt;/h2&gt;
@@ -229,11 +245,11 @@ Caps Word автоматически отключается в конце сло
       
       <guid>http://localhost:1313/pages/docs/velvet/</guid>
       
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/keyboards/velvet.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/layouts/velvet_ru.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;подключение&#34;&gt;Подключение&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Перед подключением клавиатуры к компьютеру, убедитесь, что USB-C кабель, соединяющий обе половинки между собой, плотно подключен в разъёмы на двух половинках&lt;/li&gt;
-&lt;li&gt;При подключении клавиатуры к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем&lt;/li&gt;
+&lt;li&gt;Перед подключением к компьютеру, убедитесь, что USB-C кабель, соединяющий обе половинки между собой, плотно подключен в разъёмы на двух половинках&lt;/li&gt;
+&lt;li&gt;При подключении к компьютеру, убедитесь, что кабель USB-C плотно вставлен в разъем&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;настройка-клавиатуры&#34;&gt;Настройка клавиатуры&lt;/h2&gt;
 &lt;p&gt;Пожалуйста перейдите в &lt;a href=&#34;http://localhost:1313/pages/docs/vial/&#34;&gt;статью о программе Vial&lt;/a&gt;&lt;/p&gt;
@@ -250,7 +266,7 @@ Caps Word автоматически отключается в конце сло
       
       <guid>http://localhost:1313/pages/docs/velvet-ui/</guid>
       
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/velvet-ui/velvet.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/layouts/velvet_ui_ru.png&#34; alt=&#34;Velvet v3 UI&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Velvet v3 – Ultimate Interface Edition&lt;/strong&gt; - клавиатура, уменьшающая необходимость перемещения кисти до минимума за счет изогнутого расположения клавиш и наличия трекбола под большим пальцем. Благодаря изогнутости клавиатуры перемещение пальцев между рядами клавиш происходит заметно проще, а функциональный трекбол, всегда доступный под большим пальцем, практически полностью убирает необходимость перемещения руки к мышке.&lt;/p&gt;
 &lt;h2 id=&#34;трекбол&#34;&gt;Трекбол&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/velvet-ui/trackball.jpg&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
@@ -289,18 +305,17 @@ Caps Word автоматически отключается в конце сло
       
       <description>&lt;h2 id=&#34;девайсы&#34;&gt;Девайсы&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/zmk-keyboards/&#34;&gt;Общая документация для беспроводных клавиатур&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/k03/&#34;&gt;K:03&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/hpd/&#34;&gt;High Plains Drifter&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/imperial44/&#34;&gt;Imperial44&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/k03pro/&#34;&gt;K:03 PRO&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/k02/&#34;&gt;K:02&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/macropad/&#34;&gt;M4CR0Pad&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/planeta/&#34;&gt;Planeta&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/tb-mini/&#34;&gt;Trackball Mini&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/velvet/&#34;&gt;Velvet v3 (проводной)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/velvet-ui/&#34;&gt;Velvet v3 – UI Edition&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/zmk-keyboards/&#34;&gt;Общая документация для беспроводных клавиатур&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/qube/&#34;&gt;Руководство по настройке Ergohaven&amp;rsquo;s Qube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pages/docs/qube/&#34;&gt;Ergohaven&amp;rsquo;s Qube&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;софт&#34;&gt;Софт&lt;/h2&gt;
 &lt;ul&gt;
@@ -388,78 +403,43 @@ Caps Word автоматически отключается в конце сло
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/pages/layouts_ru/#k03&#34;&gt;K:03 v3&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;pages/layouts_ru#k03&#34;&gt;K:03 v3&lt;/a&gt;&lt;/td&gt;
           &lt;td&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/blob/main/user-layouts/k03&#34;&gt;K:03 v3&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/pages/layouts_ru/#k03-pro&#34;&gt;K:03 PRO&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;pages/layouts_ru#k03-pro&#34;&gt;K:03 PRO&lt;/a&gt;&lt;/td&gt;
           &lt;td&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/tree/main/user-layouts/k03-pro&#34;&gt;K:03 PRO&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/pages/layouts_ru/#high-plains-drifter&#34;&gt;HPD v2&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;pages/layouts_ru#high-plains-drifter&#34;&gt;HPD v2&lt;/a&gt;&lt;/td&gt;
           &lt;td&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/tree/main/user-layouts/hpd&#34;&gt;HPD v2&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/pages/layouts_ru/#imperial44&#34;&gt;Imperial44&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;pages/layouts_ru#imperial44&#34;&gt;Imperial44&lt;/a&gt;&lt;/td&gt;
           &lt;td&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/tree/main/user-layouts/imperial44&#34;&gt;Imperial44&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/pages/layouts_ru/#velvet-v3&#34;&gt;Velvet v3 &lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;pages/layouts_ru#velvet-v3&#34;&gt;Velvet v3 &lt;/a&gt;&lt;/td&gt;
           &lt;td&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/tree/main/user-layouts/velvet-v3&#34;&gt;Velvet v3&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/pages/layouts_ru/#planeta&#34;&gt;Planeta&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;pages/layouts_ru#planeta&#34;&gt;Planeta&lt;/a&gt;&lt;/td&gt;
           &lt;td&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/tree/main/user-layouts/planeta&#34;&gt;Planeta&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/pages/layouts_ru/#macropad&#34;&gt;M4CR0Pad&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;pages/layouts_ru#macropad&#34;&gt;M4CR0Pad&lt;/a&gt;&lt;/td&gt;
           &lt;td&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/tree/main/user-layouts/macropad&#34;&gt;M4CR0Pad&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/pages/layouts_ru/#op36&#34;&gt;Omega Point 36&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;pages/layouts_ru#op36&#34;&gt;Omega Point 36&lt;/a&gt;&lt;/td&gt;
           &lt;td&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/pages/layouts_ru/#velvet-v3-ui&#34;&gt;Velvet v3 UI&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;pages/layouts_ru#velvet-v3-ui&#34;&gt;Velvet v3 UI&lt;/a&gt;&lt;/td&gt;
           &lt;td&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Раскладки</title>
-      <link>http://localhost:1313/pages/layouts_ru/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/pages/layouts_ru/</guid>
-      
-      <description>&lt;h2 id=&#34;k03&#34;&gt;K:03&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/releases/download/3.8.4-vil-files/k03_v3_default.vil&#34;&gt;K:03 файл раскладки для программы Vial&lt;/a&gt;
-&lt;img src=&#34;http://localhost:1313/images/layouts/k03_ru.png&#34; alt=&#34;K:03&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;k03-pro&#34;&gt;K:03 PRO&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/releases/tag/3.8.4-vil-files&#34;&gt;K:03 PRO файл раскладки для программы Vial&lt;/a&gt;
-&lt;img src=&#34;http://localhost:1313/images/layouts/k03-pro_ru.png&#34; alt=&#34;K:03 PRO&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;high-plains-drifter&#34;&gt;High Plains Drifter&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/releases/tag/3.8.4-vil-files&#34;&gt;HPD файл раскладки для программы Vial&lt;/a&gt;
-&lt;img src=&#34;http://localhost:1313/images/layouts/hpd_ru.png&#34; alt=&#34;HPD&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;imperial44&#34;&gt;Imperial44&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/releases/download/3.8.4-vil-files/imperial44_v1_v2_default.vil&#34;&gt;Imperial44 файл раскладки для программы Vial&lt;/a&gt;
-&lt;img src=&#34;http://localhost:1313/images/layouts/imperial_ru.png&#34; alt=&#34;Imperial44&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;velvet-v3&#34;&gt;Velvet v3&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/releases/download/3.8.4-vil-files/velvet_v3_default.vil&#34;&gt;Velvet v3 файл раскладки для программы Vial (проводная версия)&lt;/a&gt;
-&lt;img src=&#34;http://localhost:1313/images/layouts/velvet_ru.png&#34; alt=&#34;Velvet v3&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;planeta&#34;&gt;Planeta&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/releases/download/3.8.4-vil-files/planeta_v2_default.vil&#34;&gt;Planeta файл раскладки для программы Vial&lt;/a&gt;
-&lt;img src=&#34;http://localhost:1313/images/layouts/planeta1_ru.png&#34; alt=&#34;Planeta&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;macropad&#34;&gt;Macropad&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/ergohaven/keymap_hub/releases/download/3.8.4-vil-files/macropad_v2_default.vil&#34;&gt;M4CR0Pad файл раскладки для программы Vial&lt;/a&gt;
-&lt;img src=&#34;http://localhost:1313/images/layouts/macropad_ru.png&#34; alt=&#34;M4CR0Pad&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;omega-point-36&#34;&gt;Omega Point 36&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/layouts/op36_ru.png&#34; alt=&#34;OP36&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;velvet-v3-ui&#34;&gt;Velvet v3 UI&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/layouts/velvet_ui_ru.png&#34; alt=&#34;Velvet v3 UI&#34;&gt;&lt;/p&gt;</description>
       
     </item>
     

@@ -4,7 +4,7 @@ tags: ["docs", "planeta"]
 toc: true
 ---
 
-![image](/images/keyboards/planeta.jpg)  
+![image](/images/layouts/planeta.png)  
 
 ## Connection
 - When connecting the keyboard to the computer, make sure the USB-C cable is firmly inserted into the connector

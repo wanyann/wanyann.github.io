@@ -4,7 +4,7 @@ tags: ["docs", "hpd"]
 toc: true
 ---
 
-![image](/images/keyboards/hpd.png)  
+![image](/images/layouts/hpd.png)  
 
 ## Connection
 - Before connecting the keyboard to the computer, make sure that the USB-C cable is firmly connected to the connectors on both halves

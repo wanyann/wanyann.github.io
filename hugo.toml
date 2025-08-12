@@ -84,19 +84,13 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
   [[Languages.en-gb.menu.main]]
     pageRef="roadmap"
     name = 'Roadmap'
-    url = '/en-gb/pages/roadmap'
-    weight = 35
+    url = '/pages/roadmap'
+    weight = 40
 
   [[Languages.en-gb.menu.main]]
     pageRef="faq"
     name = 'FAQ'
     url = '/pages/faq'
-    weight = 40
-
-  [[Languages.en-gb.menu.main]]
-    pageRef="firmware"
-    name = 'Firmware & Layouts'
-    url = '/pages/firmware'
     weight = 50
 
   [[Languages.en-gb.menu.main]]
@@ -176,18 +170,12 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
     pageRef="roadmap"
     name = 'Roadmap'
     url = '/pages/roadmap'
-    weight = 35
+    weight = 40
      
   [[Languages.ru-ru.menu.main]]
     pageRef="faq"
     name = 'FAQ'
     url = '/pages/faq'
-    weight = 40
-
-  [[Languages.ru-ru.menu.main]]
-    pageRef="firmware"
-    name = 'Прошивка и раскладки'
-    url = '/pages/firmware'
     weight = 50
 
   [[Languages.ru-ru.menu.main]]

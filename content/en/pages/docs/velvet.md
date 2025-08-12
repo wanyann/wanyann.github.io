@@ -4,7 +4,7 @@ tags: ["docs", "velvet"]
 toc: true
 ---
 
-![image](/images/keyboards/velvet.jpg)  
+![image](/images/layouts/velvet.png)  
 
 ## Connection
 - Before connecting the keyboard to the computer, make sure that the USB-C cable is firmly connected to the connectors on both halves
