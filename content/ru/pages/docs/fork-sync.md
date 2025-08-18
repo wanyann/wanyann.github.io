@@ -34,10 +34,10 @@ tags: ["guide", "zmk"]
 ![image](/images/fork-sync/commits-behind.png)
 
 Откроется страница "Comparing changes", обратите внимание на выбранные по умолчанию значения:
-- *base repository* - по умолчанию должно быть выбрано "{Ваш ник на GitHub}/ergohaven-zmk-config";
-- *base* - по умолчанию должно быть выбрано "main";
-- *head repository* - по умолчанию должно быть выбрано "ergohaven/ergohaven-zmk-config";
-- *compare* - по умолчанию должно быть выбрано "main";  
+- *base repository* - по умолчанию должно быть выбрано *"{Ваш ник на GitHub}/ergohaven-zmk-config"*;
+- *base* - по умолчанию должно быть выбрано *"main"*;
+- *head repository* - по умолчанию должно быть выбрано *"ergohaven/ergohaven-zmk-config"*;
+- *compare* - по умолчанию должно быть выбрано *"main"*;  
 
 ![image](/images/fork-sync/comparing-changes.png)
 
