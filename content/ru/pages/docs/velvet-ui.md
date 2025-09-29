@@ -135,7 +135,7 @@ scroller {
     };
 ```
 `layers = <5>;` - слои, на которых будет активен режим скролла. После изменения номера слоя надо также поменять и поведение, переключающее на слой с режимом скролла.
-`<&zip_xy_transform INPUT_TRANSFORM_Y_INVERT>` - инвертирование скроллинга, можно инвертировать как по оси **Y**, так и по оси **X** (`<&zip_xy_transform INPUT_TRANSFORM_X_INVERT>`), или даже инвертировать обе оси, перечислив параметры через запятую: `<&zip_xy_transform INPUT_TRANSFORM_Y_INVERT>, <&zip_xy_transform INPUT_TRANSFORM_Х_INVERT>,`.
+`<&zip_xy_transform INPUT_TRANSFORM_Y_INVERT>` - инвертирование скроллинга, можно инвертировать как по оси **Y**, так и по оси **X** (`<&zip_xy_transform INPUT_TRANSFORM_X_INVERT>`), или даже инвертировать обе оси, перечислив параметры через запятую: `<&zip_xy_transform INPUT_TRANSFORM_Y_INVERT>, <&zip_xy_transform INPUT_TRANSFORM_X_INVERT>,`.
 `<&zip_xy_scaler 1 32>` - скорость прокрутки задается в виде отношения, по умолчанию скорость равна одной тридцать второй. Можно как замедлить прокрутку, изменив значение, например на `<&zip_xy_scaler 1 64>`, так и ускорить прокрутку `<&zip_xy_scaler 2 32>`.
 
 
