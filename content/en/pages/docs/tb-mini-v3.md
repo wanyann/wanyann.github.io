@@ -33,7 +33,7 @@ Let's take a closer look at what the keys can do.
 
 - **Holding down both keys** puts the trackball into scroll mode, and rotating the trackball will scroll. Scrolling occurs both vertically and horizontally, depending on the direction of rotation of the trackball.
 
-![image](/images/tb-mini-v3/base-layout.png)
+![image](/images/tb-mini-v3/base-layout-en.png)
 
 ## Settings Layer
 
@@ -55,7 +55,7 @@ A brief summary of the actions available while on the *settings layer*:
 
 > For more details on connecting to multiple devices and the purpose of the listed functions, please refer to the user manual <a href="https://journey.ergohaven.xyz/en-gb/pages/docs/zmk-keyboards#connecting-to-multiple-devices/" target="_blank">First Steps with a ZMK Keyboard</a>.
 
-![image](/images/tb-mini-v3/adjust-layout.png)
+![image](/images/tb-mini-v3/adjust-layout-en.png)
 
 ## Configuring Trackball Keys
 
