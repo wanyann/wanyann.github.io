@@ -80,7 +80,7 @@ tags = ["docs", "velvet-ui"]
 
 ## Конфигурирование трекбола
 
-Все режимы трекбола можно настроить в файле `config/velvet_v3_ui.keymap`, это быстро и удобно можно сделать в интерфейсе GitHub, нажав кнопку **Edit this file**.
+Все режимы трекбола можно настроить в файле `config/velvet_v3_ui.keymap`, это быстро и удобно можно сделать в веб-интерфейсе GitHub, нажав кнопку **Edit this file**.
 
 ![image](/images/velvet-ui/github-edit.png)
 
