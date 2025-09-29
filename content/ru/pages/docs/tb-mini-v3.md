@@ -163,4 +163,4 @@ sniper {
 
 > Аналогичным образом настраивается и замедление курсора на слое настроек (`adjust`).  
 
-![image](/images/tb-mini-v3/final.png)
+![image](/images/tb-mini-v3/final.jpg)
